@@ -1,0 +1,47 @@
+- title: Home
+  url: /
+  side: left
+
+- title: Howto
+  url: /blog/category/howto/
+  side: left
+  dropdown:
+  - title: Development
+    url: /blog/category/howto/development
+  - title: System administration
+    url: /blog/category/howto/system-administration
+
+- title: Personal
+  url: /blog/category/personal
+  side: left
+
+- title: Links
+  url: /links/
+  side: left
+  dropdown:
+  - title: Friends
+    url: /links/friends
+  - title: Misc
+    url: /links/misc
+  - title: Myself
+    url: /links/clausconrad
+
+#- title: Portfolio
+#  url: /portfolio
+#  side: left
+
+- title: CV
+  url: /cv
+  side: left
+
+#- title: PGP
+#  url: /pgp
+#  side: left
+
+#- title: MU* Wiki
+#  url: /mu-wiki
+#  side: left
+
+- title: Subscribe
+  url: https://feeds.feedburner.com/clausconradcom
+  side: right

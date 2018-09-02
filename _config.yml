@@ -1,0 +1,69 @@
+apple-touch-icon-114x114-precomposed: null
+apple-touch-icon-120x120-precomposed: null
+apple-touch-icon-144x144-precomposed: null
+apple-touch-icon-152x152-precomposed: null
+apple-touch-icon-180x180-precomposed: null
+apple-touch-icon-72x72-precomposed: null
+apple-touch-icon-76x76-precomposed: null
+apple-touch-icon-precomposed: null
+author: claus
+baseurl: ''
+compress_html:
+  clippings: all
+  comments:
+    - '<!-- '
+    - ' -->'
+  endings: all
+  ignore:
+    envs:
+      - development
+  profile: false
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      author: claus
+      comments: false
+      show_meta: false
+  - scope:
+      path: ''
+      type: posts
+    values:
+      author: claus
+      comments: true
+      permalink: '/blog/:title'
+      show_meta: true
+description: null
+disqus_shortname: clausconradcom
+excerpt_separator: <!--more-->
+exclude:
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+favicon-32x32: null
+google_analytics_tracking_id: UA-7127862-2
+highlight: rouge
+improve_content: null
+kramdown:
+  hard_wrap: false
+  input: GFM
+language: en
+logo: null
+markdown: kramdown
+msapplication_tilecolor: null
+msapplication_tileimage: null
+paginate: 5
+paginate_path: 'page:num'
+permalink: '/:title'
+plugins:
+  - jekyll-paginate
+sass:
+  sass_dir: _sass
+  style: ':compressed'
+slogan: null
+title: Claus Conrad
+touch-icon-192x192: null
+url: 'https://www.clausconrad.com'
+urlimg: 'https://www.clausconrad.com/assets/img/'
