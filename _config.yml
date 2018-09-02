@@ -39,6 +39,7 @@ disqus_shortname: clausconradcom
 excerpt_separator: <!--more-->
 exclude:
   - .sass-cache
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - README.md
