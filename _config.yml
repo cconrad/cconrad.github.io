@@ -38,7 +38,6 @@ description: null
 disqus_shortname: clausconradcom
 excerpt_separator: <!--more-->
 exclude:
-  - .sass-cache
   - CNAME
   - Gemfile
   - Gemfile.lock
@@ -47,6 +46,8 @@ favicon-32x32: null
 google_analytics_tracking_id: UA-7127862-2
 highlight: rouge
 improve_content: null
+include:
+  - .well-known
 kramdown:
   hard_wrap: false
   input: GFM
