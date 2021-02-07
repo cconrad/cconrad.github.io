@@ -16,7 +16,7 @@ Some of the technologies I have worked with include: jQuery, Dojo, Sencha Touch
 ### Personal data
 
 | Born: | 1981 in Flensburg, Germany |
-| Living in: | Malmö, Sweden since 2008 |
+| Living in: | Farum, Denmark since 2020 |
 | Worked in: | Denmark and Sweden |
 | In IT: | Since 2004 |
 
@@ -42,7 +42,7 @@ Some of the technologies I have worked with include: jQuery, Dojo, Sencha Touch
 <tbody style="border-top: 0;">
 <tr>
 <td>2014-</td>
-<td>Frontend developer, BEKEY A/S</td>
+<td>Frontend developer/Technical project manager, Bekey</td>
 <td></td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ Some of the technologies I have worked with include: jQuery, Dojo, Sencha Touch
 </tr>
 <tr>
 <td>2008-2009</td>
-<td>System developer, Amino ApS</td>
+<td>System developer, Amino</td>
 <td></td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Some of the technologies I have worked with include: jQuery, Dojo, Sencha Touch
 </tr>
 <tr>
 <td>2005-2008</td>
-<td>System developer, SPAMfighter ApS</td>
+<td>System developer, SPAMfighter</td>
 <td></td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ Some of the technologies I have worked with include: jQuery, Dojo, Sencha Touch
 </tr>
 <tr>
 <td>2003-2004</td>
-<td>Office assistant, Lyreco A/S</td>
+<td>Office assistant, Lyreco</td>
 <td>SAP, logistics</td>
 </tr>
 <tr>
