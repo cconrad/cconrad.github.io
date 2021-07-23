@@ -1,0 +1,68 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: text
+    name: display_name
+    label: display_name
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: login
+    label: login
+  - type: text
+    name: url
+    label: url
+- type: text
+  name: author_email
+  label: author_email
+- type: text
+  name: author_login
+  label: author_login
+- type: list
+  name: categories
+  label: categories
+- type: boolean
+  name: comments
+  label: comments
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: date_gmt
+  label: date_gmt
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: boolean
+  name: header
+  label: header
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: sidebar
+  label: sidebar
+- type: text
+  name: status
+  label: status
+- type: list
+  name: tags
+  label: tags
+- type: textarea
+  name: teaser
+  label: teaser
+- type: text
+  name: title
+  label: title
+- type: number
+  name: wordpress_id
+  label: wordpress_id
+- type: text
+  name: wordpress_url
+  label: wordpress_url
