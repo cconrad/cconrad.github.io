@@ -42,6 +42,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - vendor
 favicon-32x32: null
 google_analytics_tracking_id: UA-7127862-2
 highlight: rouge
