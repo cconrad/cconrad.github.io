@@ -1,0 +1,22 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: meta_title
+  label: meta_title
+- type: text
+  name: subheadline
+  label: subheadline
+- type: text
+  name: teaser
+  label: teaser
+- type: text
+  name: permalink
+  label: permalink
