@@ -1,0 +1,6 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+cmsName: forestry
+publishDir: _site
+dataDir: _data
+pagesDir: ''
