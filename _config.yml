@@ -7,7 +7,7 @@ apple-touch-icon-72x72-precomposed: null
 apple-touch-icon-76x76-precomposed: null
 apple-touch-icon-precomposed: null
 author: claus
-baseurl: ''
+baseurl: '' # https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 compress_html:
   clippings: all
   comments:

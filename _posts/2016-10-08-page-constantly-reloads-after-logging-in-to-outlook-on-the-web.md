@@ -33,18 +33,18 @@ wordpress_url: http://www.clausconrad.com/?p=864
 
 2. Scroll down and click "Show advanced settings...":
 
-   ![]({{ site.url }}/assets/img/Selection_340.png)
+   ![]({{ site.baseurl }}/assets/img/Selection_340.png)
 
 3. Under "Privacy", click "Content settings...":
 
-   ![]({{ site.url }}/assets/img/Selection_341.png)
+   ![]({{ site.baseurl }}/assets/img/Selection_341.png)
 
 4. Under "Cookies", click "All cookies and site data...":
 
-   ![]({{ site.url }}/assets/img/Selection_339.png)
+   ![]({{ site.baseurl }}/assets/img/Selection_339.png)
 
 5. Enter "office" into the search box, then click "Remove all shown":
 
-   ![]({{ site.url }}/assets/img/Selection_338.png)
+   ![]({{ site.baseurl }}/assets/img/Selection_338.png)
   
 You might or might not have to login again after following these steps, but Outlook finished loading after I did this.
