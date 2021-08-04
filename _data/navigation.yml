@@ -43,5 +43,5 @@
 #  side: left
 
 - title: Subscribe
-  url: https://feeds.feedburner.com/clausconradcom
+  url: /feed.xml
   side: right
