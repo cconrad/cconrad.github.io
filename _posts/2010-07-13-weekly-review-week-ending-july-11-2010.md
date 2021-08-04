@@ -35,7 +35,7 @@ Also:
 
 <u>Relationships</u>
 
-*   <del>[Show mom & sister around Malmö, Lund and Ystad](http://www.flickr.com/photos/clausconrad/sets/72157624449131574/)</del>
+*   <del>Show mom & sister around Malmö, Lund and Ystad</del>
 
 <u>Life</u>
 

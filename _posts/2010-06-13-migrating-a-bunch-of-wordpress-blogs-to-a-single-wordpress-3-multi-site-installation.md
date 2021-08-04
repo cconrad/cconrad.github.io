@@ -24,7 +24,7 @@ comments: true
 ## General setup:
 
 1.  <span style="font-family: Helvetica, Verdana, sans-serif;">Set up WordPress as usual</span>
-2.  <span style="font-family: Helvetica, Verdana, sans-serif;">Follow</span> [http://wptheming.com/2010/03/wordpress-3-0-enable-network/](http://wptheming.com/2010/03/wordpress-3-0-enable-network/) to enable multi-site; use sub-directory config
+2.  <span style="font-family: Helvetica, Verdana, sans-serif;">Follow</span> [https://wptheming.com/2010/03/wordpress-3-0-enable-network/](https://wptheming.com/2010/03/wordpress-3-0-enable-network/) to enable multi-site; use sub-directory config
 3.  Change wp-config.php and .htaccess as described in the admin
 4.  Follow [http://ottopress.com/2010/wordpress-3-0-multisite-domain-mapping-tutorial/](http://ottopress.com/2010/wordpress-3-0-multisite-domain-mapping-tutorial/) to enable domain mapping
 
@@ -49,11 +49,9 @@ comments: true
 
 ## Especially in case of Thesis 1.7:
 
-For Thesis, also see [http://www.clausconrad.com/blog/thesis-customizations-i-like](http://www.clausconrad.com/blog/thesis-customizations-i-like) to fix thumbs and post images.
+For Thesis, also see [/blog/thesis-customizations-i-like](/blog/thesis-customizations-i-like) to fix thumbs and post images.
 
-[http://www.binaryturf.com/using-thesis-theme-with-a-wordpress-multisite-installation/](http://www.binaryturf.com/using-thesis-theme-with-a-wordpress-multisite-installation/)
-
-[http://www.kristarella.com/2009/09/using-thesis-with-wpmu/](http://www.kristarella.com/2009/09/using-thesis-with-wpmu/)
+[https://kristarella.blog/2009/09/using-thesis-with-wpmu/](https://kristarella.blog/2009/09/using-thesis-with-wpmu/)
 
 1.  Restore Thesis options
 2.  Copy rotator images (if used)

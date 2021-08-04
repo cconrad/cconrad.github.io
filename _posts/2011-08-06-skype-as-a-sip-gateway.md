@@ -24,4 +24,4 @@ teaser: "Skype can now be used as a SIP gateway, enabling integration with legac
 ---
 A new business product, Skype Connect is a regular SIP gateway, albeit one that is connected to the Skype network. For 4.95 a line/month professional users and enterprises can receive calls from Skype users on regular phones (connected to a SIP VoIP router or software/hardware SIP PBX), receive calls from Skype landline numbers ("Skype-In numbers") and route their outgoing calls at cheap Skype rates.
 
-For more information, visit [Skype Connect](http://www.skype.com/intl/en/business/skype-connect/).
+For more information, visit [Skype Connect](https://www.skype.com/en/features/skype-connect/).

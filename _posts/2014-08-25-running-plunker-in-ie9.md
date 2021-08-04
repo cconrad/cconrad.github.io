@@ -26,4 +26,4 @@ wordpress_url: http://www.clausconrad.com/?p=777
 ---
 Even though I made my plunk public, IE9 would always load an empty file into the editor, when I pasted the URL into it.
 
-The solution I found [here](http://stackoverflow.com/questions/20959088/angularjs-1-2-7-ie8-resource-bug) is simple: Use a modern browser to write the code, then paste the "Run" preview iframe's URL into IE to run it. Unfortunately live update won't work this way, but it's better than not being able to test plunks  in older Internet Explorer browsers at all.
+The solution I found [here](https://stackoverflow.com/questions/20959088/angularjs-1-2-7-ie8-resource-bug) is simple: Use a modern browser to write the code, then paste the "Run" preview iframe's URL into IE to run it. Unfortunately live update won't work this way, but it's better than not being able to test plunks  in older Internet Explorer browsers at all.

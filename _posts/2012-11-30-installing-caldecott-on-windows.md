@@ -40,9 +40,9 @@ Error: Caldecott is not installed.
 
 To solve this problem, follow these steps:
 
-1.  You need a Ruby distribution from [rubyinstaller.org](http://rubyinstaller.org/) for this.  
-    You probably already have that, otherwise go [download the newest RubyInstaller from the top of this page](http://rubyinstaller.org/downloads).
-2.  [Download the latest DevKit](http://rubyinstaller.org/downloads) (Development Kit) from the same page, it is right below the heading "Development Kit".
+1.  You need a Ruby distribution from [rubyinstaller.org](https://rubyinstaller.org/) for this.  
+    You probably already have that, otherwise go [download the newest RubyInstaller from the top of this page](https://rubyinstaller.org/downloads/).
+2.  [Download the latest DevKit](https://rubyinstaller.org/downloads/) (Development Kit) from the same page, it is right below the heading "Development Kit".
 3.  Run the DevKit executable (it is just a self-extracting 7Z archive and can be unpacked with other tools, if necessary) and extract it somewhere. **Be sure to specify a new or empty directory as the destination.**
 4.  Rename the directory extracted in the previous step to _devkit_ and move it to your Ruby's installation folder, e. g. _C:\Ruby193_.
 5.  Open a command prompt as an administrator (e. g. by pressing the Start button, typing _cmd_, right-clicking the link to the command prompt and choosing "Run as Administrator").

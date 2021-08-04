@@ -23,7 +23,7 @@ tags:
 comments: true
 teaser: "Shortly after the launch of the Google+ project, GPlus.to began to offer personal URLs to Google+ profiles. If you have your own domain, here's a way to an even more personalized Google+ profile URL."
 ---
-Credits for this idea should go to [Thomas Rosenstand](http://www.thomas-rosenstand.dk/+) instead of me. Redirect www.yourdomain.com/+ to your Google+ profile - if your web server runs Apache, this can be achieved by inserting the following line in the domains `.htaccess` file or the servers `httpd.conf` (`apache2.conf` on Debian-based operating systems, such as Ubuntu):
+Credits for this idea should go to [Thomas Rosenstand](https://www.concept-i.dk/) instead of me. Redirect www.yourdomain.com/+ to your Google+ profile - if your web server runs Apache, this can be achieved by inserting the following line in the domains `.htaccess` file or the servers `httpd.conf` (`apache2.conf` on Debian-based operating systems, such as Ubuntu):
 
 `Redirect permanent /+ https://plus.google.com/107098868976669747695/posts`
 

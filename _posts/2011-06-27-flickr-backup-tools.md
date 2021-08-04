@@ -23,9 +23,9 @@ tags:
 comments: true
 teaser: "Backing up my Flickr photos has been on my to-do list for a while. Today I finally researched solutions; these two applications appear to be the best ones:"
 ---
-*   [FlickrEdit](http://sunkencity.org/flickredit)  
+*   [FlickrEdit](https://sunkencity.org/flickredit)  
     A free, cross-platform GUI tool written in Java.
-*   [Bulkr / Bulkr Pro](http://clipyourphotos.com/bulkr)  
+*   [Bulkr / Bulkr Pro](https://getbulkr.com/)  
     A cross-platform tool written in Adobe Air. Both versions can download all your photos incrementally. The paid Pro version supports more features, such as downloading the original sizes and metadata (tags, titles, descriptions, etc.).
 
 There are a couple of handfuls more applications claiming to being able to create Flickr backups. I chose these two because they are cross-platform - I don't want to be forced to use a specific operating system in the future or to re-download all my pictures using another tool. In the end, I decided to try Bulkr Pro as its website looked more polished (shame on me) and, being a developer, I prefer Flash over Java any time. On a more objective note, Bulkr Pro features an impressive list of testimonials and does only thing (backing up Flickr photos) instead of a whole list of features - something that always makes me assume it does that thing better than other multi-purpose tools. I guess I am really biased :/

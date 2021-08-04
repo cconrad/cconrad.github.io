@@ -52,7 +52,7 @@ Also:
 
 *   <del>Moved money between accounts to avoid paying interest</del>
 *   <del>Paid pension for 2009</del>
-*   <del>Published my [first word](http://www.urbandictionary.com/define.php?term=catural) in Urban Dictionary</del>
+*   <del>Published my [first word](https://www.urbandictionary.com/define.php?term=catural) in Urban Dictionary</del>
 *   <del>Tested fire alarms at home</del>
 *   <del>Repaired 2 inside doors of my apartment</del>
 

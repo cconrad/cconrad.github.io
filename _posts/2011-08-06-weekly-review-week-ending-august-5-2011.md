@@ -65,4 +65,4 @@ Life
 *   Get used to a regular rhythm again, now that the kids are back from their holidays
 *   Update servers and CMS
 
-Location:[Rabygatan,Malmö Municipality,Sweden](http://maps.google.com/maps?q=Rabygatan,Malm%C3%B6%20Municipality,Sweden%4055.585246%2C12.941320&z=10)
+Location:[Rabygatan,Malmö Municipality,Sweden](https://www.google.com/maps/place/55%C2%B035'06.9%22N+12%C2%B056'28.8%22E/@55.585246,12.9391313,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d55.585246!4d12.94132)

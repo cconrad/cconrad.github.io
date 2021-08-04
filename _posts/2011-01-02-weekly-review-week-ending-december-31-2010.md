@@ -21,7 +21,7 @@ categories:
 tags:
 - weekly-review
 comments: true
-teaser: "No, the date's no mistake - due to a post about <a href=\"http://sachachua.com/blog/2010/11/week-beginnings/\">week beginnings</a> by Sacha Chua (who also inspired me to write these weekly reviews in the first place) I am now ending my weeks on Fridays."
+teaser: "No, the date's no mistake - due to a post about <a href=\"https://sachachua.com/blog/2010/11/week-beginnings/\">week beginnings</a> by Sacha Chua (who also inspired me to write these weekly reviews in the first place) I am now ending my weeks on Fridays."
 ---
 **Plans from last week:**
 

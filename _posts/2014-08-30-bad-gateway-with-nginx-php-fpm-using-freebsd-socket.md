@@ -27,7 +27,7 @@ title: '"Bad gateway" with nginx, PHP-FPM using FreeBSD socket'
 wordpress_id: 779
 wordpress_url: http://www.clausconrad.com/?p=779
 ---
-Apparently there is a [bug](https://bugs.php.net/bug.php?id=67244) in the PHP version shipped with FreeBSD; ServerFault user MafiaInc kindly provided [the solution](http://serverfault.com/questions/593272/nginx-php-fpm-permission):
+Apparently there is a [bug](https://bugs.php.net/bug.php?id=67244) in the PHP version shipped with FreeBSD; ServerFault user MafiaInc kindly provided [the solution](https://serverfault.com/questions/593272/nginx-php-fpm-permission):
 
 1. Edit the file /usr/local/etc/php-fpm.conf
 

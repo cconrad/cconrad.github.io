@@ -28,13 +28,13 @@ The next version of IntelliJ IDEA (v12) will have integrated support for CloudFo
     [https://docs.appfog.com/getting-started/af-cli#installation](https://docs.appfog.com/getting-started/af-cli#installation "https://docs.appfog.com/getting-started/af-cli#installation")  
 
 2.  Make sure the "Command Line Tool Support" plugin is enabled in your IDE:  
-    ![](http://content.screencast.com/users/clausc/folders/Default/media/17f255e5-abd8-4584-bef8-beb3e8d33b42/11.26.2012-10.38.png)  
+    ![](https://content.screencast.com/users/clausc/folders/Default/media/17f255e5-abd8-4584-bef8-beb3e8d33b42/11.26.2012-10.38.png)  
 
 3.  Go to "Command Line Tools Support" in the "Project Settings" area of your IDE settings; click the + icon to add a new framework and choose "Custom Framework" from the dropdown that appears. Enter a name for the framework (e. g. "AppFog") and _af_ for both of the "Tool path" and "Alias" fields. (If _af_ is not in your path, you could also enter the full path into the "Tool path" field.) Finally, click "OK" in the dialog and "Apply" at the bottom of the Settings dialog:  
-    ![](http://content.screencast.com/users/clausc/folders/Default/media/12aa0b94-dd3b-429f-8593-c690a435220d/11.26.2012-10.44.png)  
+    ![](https://content.screencast.com/users/clausc/folders/Default/media/12aa0b94-dd3b-429f-8593-c690a435220d/11.26.2012-10.44.png)  
 
 4.  With the "af" line selected, click the "Edit" icon at the right of the Settings dialog, then **close** the Settings dialog:  
-    ![](http://content.screencast.com/users/clausc/folders/Default/media/253865c0-0b99-4bcf-a987-7ab29678f7f4/11.26.2012-10.50.png)  
+    ![](https://content.screencast.com/users/clausc/folders/Default/media/253865c0-0b99-4bcf-a987-7ab29678f7f4/11.26.2012-10.50.png)  
 
 5.  The IDE has opened an editor window with an XML file describing the new "custom framework". Replace all contents of this file with the following XML, then save and close the file:  
     
@@ -298,7 +298,7 @@ The next version of IntelliJ IDEA (v12) will have integrated support for CloudFo
     ``` 
     
 6.  Click "Tools" > "Run Command..." to open the command line pane:  
-    ![](http://content.screencast.com/users/clausc/folders/Default/media/dbc679a7-29fc-4d2a-b4d2-1bcad9a8bce7/11.26.2012-10.59.png)  
+    ![](https://content.screencast.com/users/clausc/folders/Default/media/dbc679a7-29fc-4d2a-b4d2-1bcad9a8bce7/11.26.2012-10.59.png)  
 
 7.  Type _af_ and press Space to get a list of AppFog commands. The list narrows down as you continue typing, or you can choose the desired command from the list using the mouse or arrow and Enter keys:  
-    ![](http://content.screencast.com/users/clausc/folders/Default/media/692f650b-725d-4565-b250-640af57401b9/11.26.2012-11.02.png)
+    ![](https://content.screencast.com/users/clausc/folders/Default/media/692f650b-725d-4565-b250-640af57401b9/11.26.2012-11.02.png)

@@ -2,13 +2,13 @@
  *
  * MediaElement.js
  * HTML5 <video> and <audio> shim and player
- * http://mediaelementjs.com/
+ * https://www.mediaelementjs.com/
  *
  * Creates a JavaScript object that mimics HTML5 MediaElement API
  * for browsers that don't understand HTML5 or can't play the provided codec
  * Can play MP4 (H.264), Ogg, WebM, FLV, WMV, WMA, ACC, and MP3
  *
- * Copyright 2010-2014, John Dyer (http://j.hn)
+ * Copyright 2010-2014, John Dyer (https://j.hn/)
  * License: MIT
  *
  */
@@ -265,7 +265,7 @@ mejs.Utility = {
 		return Number(secs.toFixed(decimalLen));
 	},	
 	
-	/* borrowed from SWFObject: http://code.google.com/p/swfobject/source/browse/trunk/swfobject/src/swfobject.js#474 */
+	/* borrowed from SWFObject: https://github.com/swfobject/swfobject#474 */
 	removeSwf: function(id) {
 		var obj = document.getElementById(id);
 		if (obj && /object|embed/i.test(obj.nodeName)) {
@@ -367,7 +367,7 @@ mejs.PluginDetector.addPlugin('flash','Shockwave Flash','application/x-shockwave
 mejs.PluginDetector.addPlugin('silverlight','Silverlight Plug-In','application/x-silverlight-2','AgControl.AgControl', function (ax) {
 	// Silverlight cannot report its version number to IE
 	// but it does have a isVersionSupported function, so we have to loop through it to get a version number.
-	// adapted from http://www.silverlightversion.com/
+	// adapted from https://www.silverlightversion.com/
 	var v = [0,0,0,0],
 		loopMatch = function(ax, v, i, n) {
 			while(ax.isVersionSupported(v[0]+ "."+ v[1] + "." + v[2] + "." + v[3])){
@@ -604,8 +604,7 @@ mejs.PluginMediaElement = function (pluginid, pluginType, mediaUrl) {
 };
 
 // JavaScript values and ExternalInterface methods that match HTML5 video properties methods
-// http://www.adobe.com/livedocs/flash/9.0/ActionScriptLangRefV3/fl/video/FLVPlayback.html
-// http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html
+// https://html.spec.whatwg.org/multipage/media.html
 mejs.PluginMediaElement.prototype = {
 
 	// special
@@ -904,7 +903,7 @@ mejs.MediaPluginBridge = {
 	},
 
 	// receives events from Flash/Silverlight and sends them out as HTML5 media events
-	// http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html
+	// https://html.spec.whatwg.org/multipage/media.html
 	fireEvent: function (id, eventName, values) {
 
 		var
@@ -1241,7 +1240,7 @@ mejs.HtmlMediaElementShim = {
 			return this.getTypeFromFile(url);
 		} else {
 			// only return the mime part of the type in case the attribute contains the codec
-			// see http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html#the-source-element
+			// see https://html.spec.whatwg.org/multipage/embedded-content.html#the-source-element
 			// `video/mp4; codecs="avc1.42E01E, mp4a.40.2"` becomes `video/mp4`
 			
 			if (type && ~type.indexOf(';')) {
@@ -1880,10 +1879,10 @@ window.MediaElement = mejs.MediaElement;
  *
  *
  * What is the concept beyond i18n?
- *   http://en.wikipedia.org/wiki/Internationalization_and_localization
+ *   https://en.wikipedia.org/wiki/Internationalization_and_localization
  *
  * What langcode should i use?
- *   http://en.wikipedia.org/wiki/IETF_language_tag
+ *   https://en.wikipedia.org/wiki/IETF_language_tag
  *   https://tools.ietf.org/html/rfc5646
  *
  *
@@ -1894,9 +1893,9 @@ window.MediaElement = mejs.MediaElement;
  *     - i18n.methods.checkPlain() (full copy)
  *
  *   The Drupal project is (like mediaelementjs) licensed under GPLv2.
- *    - http://drupal.org/licensing/faq/#q1
+ *    - https://www.drupal.org/about/licensing#q1
  *    - https://github.com/johndyer/mediaelement
- *    - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ *    - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
  *
  * @author
@@ -2036,12 +2035,12 @@ window.MediaElement = mejs.MediaElement;
 /*!
  *
  * MediaElementPlayer
- * http://mediaelementjs.com/
+ * https://mediaelementjs.com/
  *
  * Creates a controller bar for HTML5 <video> add <audio> tags
  * using jQuery and MediaElement.js (HTML5 Flash/Silverlight wrapper)
  *
- * Copyright 2010-2013, John Dyer (http://j.hn/)
+ * Copyright 2010-2013, John Dyer (https://j.hn/)
  * License: MIT
  *
  */
@@ -4515,7 +4514,7 @@ if (typeof jQuery != 'undefined') {
 									windowWidth = zoomMultiplier * $(window).width(),
 									screenWidth = screen.width,
 									// ** 13twelve
-									// Screen width is sort of useless: http://www.quirksmode.org/blog/archives/2013/11/screenwidth_is.html
+									// Screen width is sort of useless: https://www.quirksmode.org/blog/archives/2013/11/screenwidth_is.html
 									// My rMBP ignores devicePixelRatio when returning the values, so fullscreen would always fail the "suddenly not fullscreen" test
 									// Theory: the gap between reported values should give us an indication of browser behavior with screen.width and devicePixelRatio
 									zoomedWindowWidth = zoomMultiplier * windowWidth;
@@ -5381,7 +5380,7 @@ if (typeof jQuery != 'undefined') {
 
 	===============================
 
-	Adapted from: http://www.delphiki.com/html5/playr
+	Adapted from: https://www.delphiki.com/html5/playr/
 	*/
 	mejs.TrackFormatParser = {
 		webvtt: {

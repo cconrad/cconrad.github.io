@@ -50,6 +50,3 @@ Not so with the iPhone. Although I go to the "Personal hotspot" settings on the 
    ...where "John's iPhone" obviously should be replaced by the name of your hotspot ;-)
 
 3. Simply run the script or click the launcher icon whenever you want to connect to the iPhone, and it should come up after about a second. Unfortunately it is still necessary to go to the "Personal hotspot" settings page on the iPhone before this will work, but at least you're online faster than having to wait for auto-connect.
-  
-By the way, if you only ever connect to one accesspoint, Nixpanic has [a nice script that automates searching for a hidden
-network](http://blog.nixpanic.net/2011/01/connect-automatically-and-immediately.html) over at his blog.

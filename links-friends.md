@@ -8,4 +8,4 @@ Danish: [Blog om grøn té (macha)](https://thebloggen.wordpress.com/)
 
 Danish: [Efterlivet.dk](https://efterlivet.dk/)
 
-Danish: [Hvem er du utro? En anderledes b(l)og om kærlighed og utroskab](http://u-tro.dk/)
+Danish: [Hvem er du utro? En anderledes b(l)og om kærlighed og utroskab](https://u-tro.dk/)

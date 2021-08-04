@@ -21,14 +21,11 @@ tags:
 - opensolaris
 - openindiana
 - omnios
-teaser: "A list of some IPS package repositories for OmniOS, OpenIndiana and/or OpenSolaris."
-title: OmniOS/OpenIndiana IPS repositories
+teaser: "An IPS package repository for OmniOS, OpenIndiana and/or OpenSolaris."
+title: OmniOS/OpenIndiana IPS repository
 wordpress_id: 558
 wordpress_url: http://www.clausconrad.com/?p=558
 ---
   * pkg set-authority -O <http://pkg.openindiana.org/dev/> openindiana.org
-  * pkg set-authority -O <http://scott.mathematik.uni-ulm.de/release/> uulm.mawi
-  * pkg set-authority -O <http://pkg.cs.umd.edu/> cs.umd.edu
-  * pkg set-publisher -P -p <http://www.solarismultimedia.com/pkg>
   
-I am not affiliated with these repositories and you have to decide for yourself whether W trust them or not. You have been warned ;-)
+I am not affiliated with this repository and you have to decide for yourself whether to trust it or not. You have been warned ;-)

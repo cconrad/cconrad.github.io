@@ -33,17 +33,11 @@ Sweden is one of the more expensive countries in Europe I guess, but it is also 
 
 Some larger supermarket chains:  
 
-*   [ICA](http://www.ica.se/FrontServlet?s=in_english&state=start)
-*   [Netto](http://www.netto.se/internet/nettos/menu/main.nsf?Open)
-*   [Willy's](http://www.willys.se/)
+*   [ICA](https://www.ica.se/)
+*   [Netto](https://www.netto.se/)
+*   [Willy's](https://www.willys.se/)
 
 Some specialized sites:
 
-*   [CellIP](http://www.mysecretary.net/sv/index.html)  
-    If you need a Swedish phone number, even abroad to call family and friends in Sweden at a cheaper rate or to enable Swedes to call you at low rates. Page in Swedish.
-
-*   [bokfynd.nu](http://www.bokfynd.nu/)  
+*   [bokfynd.nu](https://www.bokfynd.nu/)  
     This site compares book prices from different vendors. Save some money on those books for your study. Page in Swedish.
-
-*   [Allt om Bredband](http://www.alltombredband.se/)  
-    Helps you compare offers if you need an internet connection in Sweden. Page in Swedish.

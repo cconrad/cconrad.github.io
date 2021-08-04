@@ -4,8 +4,6 @@ layout: page
 permalink: /links/clausconrad
 title: "Links: Claus Conrad"
 ---
-[Facebook](http://www.facebook.com/clausconrad)
+[Facebook](https://www.facebook.com/clausconrad)
 
-[Flickr](http://www.flickr.com/photos/clausconrad/)
-
-[LinkedIn](http://dk.linkedin.com/in/clausconrad)
+[LinkedIn](https://www.linkedin.com/in/clausconrad/)

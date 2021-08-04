@@ -25,5 +25,3 @@ teaser: "Getting the error \"Filen kan ikke kopieres, fordi filen med det angivn
 ---
 *   If you are on Windows: check the temporary folder setting under _admin/settings/file-system_. If it is set to _/tmp_, change it to an existing path.
 *   If it is set to a valid path, make sure the PHP/web server user can write to it.
-
-Thanks to [Andreas Haugstrup](http://www.drupaldanmark.dk/forum/spoerg-om-hjaelp/generelle-spoergsmaal/mappe-indstilling).

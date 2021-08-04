@@ -1,12 +1,12 @@
 /*!
  *
  * MediaElementPlayer
- * http://mediaelementjs.com/
+ * https://mediaelementjs.com/
  *
  * Creates a controller bar for HTML5 <video> add <audio> tags
  * using jQuery and MediaElement.js (HTML5 Flash/Silverlight wrapper)
  *
- * Copyright 2010-2013, John Dyer (http://j.hn/)
+ * Copyright 2010-2013, John Dyer (https://j.hn/)
  * License: MIT
  *
  */
@@ -2480,7 +2480,7 @@ if (typeof jQuery != 'undefined') {
 									windowWidth = zoomMultiplier * $(window).width(),
 									screenWidth = screen.width,
 									// ** 13twelve
-									// Screen width is sort of useless: http://www.quirksmode.org/blog/archives/2013/11/screenwidth_is.html
+									// Screen width is sort of useless: https://www.quirksmode.org/blog/archives/2013/11/screenwidth_is.html
 									// My rMBP ignores devicePixelRatio when returning the values, so fullscreen would always fail the "suddenly not fullscreen" test
 									// Theory: the gap between reported values should give us an indication of browser behavior with screen.width and devicePixelRatio
 									zoomedWindowWidth = zoomMultiplier * windowWidth;
@@ -3346,7 +3346,7 @@ if (typeof jQuery != 'undefined') {
 
 	===============================
 
-	Adapted from: http://www.delphiki.com/html5/playr
+	Adapted from: https://www.delphiki.com/html5/playr/
 	*/
 	mejs.TrackFormatParser = {
 		webvtt: {

@@ -26,9 +26,9 @@ teaser: Some notes about my experimentations with SmartOS (for personal use).
 *   **Change keymap**  
     Default is US, to change, add a line to /usbkey/config like this:  
     _default_keymap=denmark_  
-    [Source](http://wiki.smartos.org/display/DOC/extra+configuration+options#extraconfigurationoptions-Console%2FLogin%2FSSHkeys)
+    [Source](https://wiki.smartos.org/extra-configuration-options/#extraconfigurationoptions-Console%2FLogin%2FSSHkeys)
 
-    [](http://wiki.smartos.org/display/DOC/extra+configuration+options#extraconfigurationoptions-Console%2FLogin%2FSSHkeys)
+    [](https://wiki.smartos.org/extra-configuration-options/#extraconfigurationoptions-Console%2FLogin%2FSSHkeys)
 
 *   **VirtualBox networking**  
     * Set VirtualBox NIC to NAT mode  
@@ -44,10 +44,10 @@ teaser: Some notes about my experimentations with SmartOS (for personal use).
     _imgadm update_  
     _dsadm avail_  
     _dsadm import fdea06b0-3f24-11e2-ac50-0b645575ce9d_  
-    Create JSON configuration file for new VM ([source](http://d.pr/i/IJDq))  
-    [Source](http://opusmagnus.wordpress.com/2012/02/14/discovering-smartos/)
+    Create JSON configuration file for new VM   
+    [Source](https://terramagnus.com/discovering-smartos/)
 
-    [](http://opusmagnus.wordpress.com/2012/02/14/discovering-smartos/)
+    [](https://terramagnus.com/discovering-smartos/)
 
 *   **NAT for zones**  
-    [Source](http://wiki.smartos.org/display/DOC/extra+configuration+options#extraconfigurationoptions-Console%2FLogin%2FSSHkeys)
+    [Source](https://wiki.smartos.org/extra-configuration-options/#extraconfigurationoptions-Console%2FLogin%2FSSHkeys)

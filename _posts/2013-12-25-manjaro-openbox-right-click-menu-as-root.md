@@ -46,5 +46,4 @@ wordpress_url: http://www.clausconrad.com/?p=677
 
 * Save the file
   
-Thanks to _rfk1ll_ on the [Manjaro forum](http://forum.manjaro.org/index.php?topic=4679.0) for this invaluable
-hint.
+Thanks to _rfk1ll_ on the Manjaro forum for this invaluable hint.

@@ -258,6 +258,6 @@ That's it, you should now receive a daily mail shortly after 1AM, informing you 
 
 Some other opensource backup solutions that should work on FreeBSD:
 
-* [BackupPC](http://backuppc.sourceforge.net/) ([port](http://www.freshports.org/sysutils/backuppc/))
-* [Bacula](http://www.bacula.org/en/) (ports: [client](http://www.freshports.org/sysutils/bacula-client/)/[server](http://www.freshports.org/sysutils/bacula-server/))
-* [rsnapshot](http://www.rsnapshot.org/) ([port](http://www.freshports.org/sysutils/rsnapshot/))
+* [BackupPC](https://backuppc.github.io/backuppc/) ([port](https://www.freshports.org/sysutils/backuppc/))
+* [Bacula](https://www.bacula.org/) (ports: [client](https://www.freshports.org/sysutils/bacula-client/)/[server](https://www.freshports.org/sysutils/bacula-server/))
+* [rsnapshot](https://rsnapshot.org/) ([port](https://www.freshports.org/sysutils/rsnapshot/))

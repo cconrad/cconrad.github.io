@@ -28,7 +28,7 @@ wordpress_id: 607
 wordpress_url: http://www.clausconrad.com/?p=607
 ---
 1. Install Mercurial 1.7.5. Later versions may work, but that's what I use.
-2. Install [hg-git](http://hg-git.github.io/) (a Mercurial extension). I'm not exactly sure what version I use, all I can say is that the version does matter, different hg-git versions work (or not) with different Mercurial versions. A link to more information about finding the right combination is at the bottom of the hg-git page.
+2. Install [hg-git](https://hg-git.github.io/) (a Mercurial extension). I'm not exactly sure what version I use, all I can say is that the version does matter, different hg-git versions work (or not) with different Mercurial versions. A link to more information about finding the right combination is at the bottom of the hg-git page.
 3. Install git (latest version is fine).
 4. Create a "bare" git repository, like this:
 

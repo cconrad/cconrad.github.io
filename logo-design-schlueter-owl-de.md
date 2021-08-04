@@ -57,7 +57,7 @@ Please propose three designs for a logo for a German tractor users hobbyist grou
 
 12.  Your Website Address?
 
-    [www.schlueter-owl.de](http://www.schlueter-owl.de) (disregard the current logo, it is just a placeholder)
+    [www.schlueter-owl.de](https://www.schlueter-owl.de) (disregard the current logo, it is just a placeholder)
 
 13.  Websites of your immediate competitor?
 

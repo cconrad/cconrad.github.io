@@ -21,7 +21,7 @@ categories:
 tags:
 - productivity
 comments: true
-teaser: "I recently listened to an <a href=\"http://www.coasttocoastam.com/show/2010/01/20\">interview with Clint Arthur</a> about his \"Last year of your life\" program, which I found interesting. The program's five basic steps are:"
+teaser: "I recently listened to an <a href=\"https://www.coasttocoastam.com/show/2010-01-20-show/\">interview with Clint Arthur</a> about his \"Last year of your life\" program, which I found interesting. The program's five basic steps are:"
 ---
 1.  Decide this is the last year of your life.
 2.  Write down what you want to achieve.
@@ -67,5 +67,3 @@ My own unedited notes from the show:
 *   Your goals need to be realistic. Tripling your income is possible with the right attitude, going from zero to a million in 1 year is not. You have to be able to belief your goals if you want to be able to program your subconscious.
 *   You will make as much money as the value you provide to other people. The more real value you provide, the more you earn. Sitting on the couch watching TV is not providing value to anybody.
 *   The way a warrior lives: Today is a great day to die, because I lived all days before just the way I wanted to.
-
-You can [download the syllabus of the currently running program](http://www.thelastyearofyourlife.com/The_Last_Year_Of_Your_Life/Syllabus.html).

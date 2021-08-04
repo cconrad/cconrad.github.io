@@ -31,8 +31,7 @@ wordpress_url: http://www.clausconrad.com/?p=591
 
 Screenshot:
 
-[![vmlist](http://farm6.staticflickr.com/5549/9782574613_ba738d5694.jpg)](http://www.flickr.com/photos/clausconrad/9782574613/
-"vmlist by Claus Conrad, on Flickr" )
+[![vmlist](/assets/img/vmlist_9782574613_o.jpg)](/assets/img/vmlist_9782574613_o.jpg)
 
 This displays the Alias at the top left, the UUID at the top right, and the first IP address and RAM allocation on a second line. Stopped zones (if any) are displayed below the running ones.
 
@@ -80,4 +79,4 @@ if __name__ == "__main__":
   list_vms("stopped")  
 ```
 
-I hope this proves helpful to someone else. Of course this requires installing Python 2.7 in the global zone where `pkgin` isn't available by default, see here [how to install pkgin in the global zone](http://wiki.smartos.org/display/DOC/Installing+pkgin), after that you can simply do a `pkgin in python27`.
+I hope this proves helpful to someone else. Of course this requires installing Python 2.7 in the global zone where `pkgin` isn't available by default, see here [how to install pkgin in the global zone](https://pkgsrc.joyent.com/install-on-illumos/), after that you can simply do a `pkgin in python27`.

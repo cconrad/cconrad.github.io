@@ -30,7 +30,7 @@ wordpress_url: http://www.clausconrad.com/?p=846
 ---
 1. Make sure that the HTPC can always be reached from Vera, by giving it a static IP address or a DHCP reservation (using the DHCP server/router).
 
-2. Install [EventGhost](http://eventghost.org/downloads/) on the HTPC.
+2. Install EventGhost on the HTPC.
 
 3. In the Options of EventGhost, enable it to start automatically.
 

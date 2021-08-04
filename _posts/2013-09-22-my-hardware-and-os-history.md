@@ -68,13 +68,13 @@ If you've read this far, you might wonder what my point is in writing all of thi
 
 ## See also
 
-* [Commodore 64](http://en.wikipedia.org/wiki/Commodore_64)
-* [GEOS](http://en.wikipedia.org/wiki/GEOS_\(8-bit_operating_system\))
-* [Amstrad PCW 8256](http://en.wikipedia.org/wiki/Amstrad_PCW#PCW_8256_and_8512)
-* [CP/M](http://en.wikipedia.org/wiki/CP/M)
-* [MS-DOS](http://en.wikipedia.org/wiki/MS-DOS)
-* [PC-DOS](http://en.wikipedia.org/wiki/PC-DOS)
-* [Terminate](http://en.wikipedia.org/wiki/Terminate_(software))
-* [BeOS](http://en.wikipedia.org/wiki/BeOS)
-* [OS/2 Warp](http://en.wikipedia.org/wiki/OS/2#1994-1996:_The_.22Warp.22_years)
-* [SmartOS](http://en.wikipedia.org/wiki/SmartOS)
+* [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64)
+* [GEOS](https://en.wikipedia.org/wiki/GEOS_\(8-bit_operating_system\))
+* [Amstrad PCW 8256](https://en.wikipedia.org/wiki/Amstrad_PCW#PCW_8256_and_8512)
+* [CP/M](https://en.wikipedia.org/wiki/CP/M)
+* [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
+* [PC-DOS](https://en.wikipedia.org/wiki/PC-DOS)
+* [Terminate](https://en.wikipedia.org/wiki/Terminate_(software))
+* [BeOS](https://en.wikipedia.org/wiki/BeOS)
+* [OS/2 Warp](https://en.wikipedia.org/wiki/OS/2#1994-1996:_The_.22Warp.22_years)
+* [SmartOS](https://en.wikipedia.org/wiki/SmartOS)

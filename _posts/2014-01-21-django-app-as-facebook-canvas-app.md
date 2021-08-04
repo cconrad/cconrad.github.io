@@ -31,7 +31,7 @@ wordpress_id: 741
 wordpress_url: http://www.clausconrad.com/?p=741
 ---
 When you load a website through a Facebook canvas URL
-(http://apps.facebook.com/your_app_name), the request to your app is POSTed. By default, Django apps reject POST requests that don't contain a "csrf_token" with a "403 Forbidden" error.
+(https://apps.facebook.com/your_app_name), the request to your app is POSTed. By default, Django apps reject POST requests that don't contain a "csrf_token" with a "403 Forbidden" error.
 
 To disable this behavior, remove 'django.middleware.csrf.CsrfViewMiddleware' from your INSTALLED_APPS list. Obviously this will open your app up to XSS attacks, so make sure to use the [csrf_protect](https://docs.djangoproject.com/en/dev/ref/contrib/csrf/) decorator on views that accept POST requests from your own app.
 

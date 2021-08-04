@@ -1,9 +1,7 @@
 ---
 layout: page
-sidebar: left
 header: no
 status: publish
-header: no
 sidebar: left
 published: true
 title: Living in Sweden
@@ -27,7 +25,7 @@ tags:
 - hotel
 - house
 comments: true
-teaser: ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
+teaser: I'll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 ---
 Whenever possible I try to link to the English version of the pages, but some of them are in Swedish only. Just try to use the dictionaries from my list (see my story "Links: Swedish language") or ask in the forums or me if you have trouble understanding something :-)
 
@@ -35,13 +33,10 @@ There are many possibilities if you want to reside in Sweden for a longer time: 
 
 Did you know? In Sweden, real estate agents are required by law to work for both the seller and prospective buyer. That means a lawyer is usually not required when buying a "bostadsrätt", unlike some other countries.  
 
-*   [AndraHand.se](http://andrahand.se/Apartment/)  
-    Apartments for rent. Page in Swedish.
-
-*   [Boplats Sverige](http://www.boplatssverige.se/)  
+*   [Boplats Sverige](https://www.boplatssverige.se/)  
     Helps you find somebody to switch apartment with - if you already have a place. Page in Swedish.
 
-*   [Blocket.se](http://www.blocket.se/)  
+*   [Blocket.se](https://www.blocket.se/)  
     Classifieds where you can buy and sell everything between heaven and earth. Also apartments for rent. If you are looking for something, start by choosing a region, then a city from the map on the frontpage. After that, choose what you are interested in from the menu. If you are looking for a place to live you might want to look for:  
     Lägenheter = Apartments  
     Fritidsboende = A kind of holiday or summer house.  
@@ -53,14 +48,14 @@ Did you know? In Sweden, real estate agents are required by law to work for bot
     Köpes = Want to buy  
     önskes hyra = Want to rent
 
-*   [Swedish housing companies](http://sv.wikipedia.org/wiki/Kategori:Svenska_fastighetsbolag)  
+*   [Swedish housing companies](https://sv.wikipedia.org/wiki/Kategori:Svenska_fastighetsbolag)  
     Every larger town has at least one housing company that rents out apartments. Here you'll find a list of them (in Swedish).
 
-*   [Hotels.com](http://deals.hotels.com/)  
+*   [Hotels.com](https://www.hotels.com/)  
     Has many hotel offers in Sweden, though not necessarily the cheapest. Page in English and others.
 
-*   [Skatteverket](http://www.skatteverket.se/international/inenglish.4.3a2a542410ab40a421c80006827.html)  
+*   [Skatteverket](https://www.skatteverket.se/)  
     The Swedish tax office. Moving to Sweden doesn't mean you avoid this aspect of life, though you might just agree that you get a lot of value for your money. Page in English, Swedish and others.
 
-*   [Nordisk eTax](http://www.nordisketax.net/)  
+*   [Nordisk eTax](https://www.nordisketax.net/)  
     About taxation rules in the Nordic countries. Page in English, Swedish and others.

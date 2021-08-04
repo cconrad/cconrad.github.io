@@ -66,7 +66,7 @@ wordpress_url: http://www.clausconrad.com/?p=818
 
 7. Update the line "username" with the "E-mail" and the line "apitoken" with the API token from [your Toggl profile](https://www.toggl.com/app/profile), e.g.:
    
-   ![](http://content.screencast.com/users/clausc/folders/Jing/media/2b488de4-9d4d-40da-8c1c-59fabeb598ea/2015-01-25_0941.png)
+   ![](https://content.screencast.com/users/clausc/folders/Jing/media/2b488de4-9d4d-40da-8c1c-59fabeb598ea/2015-01-25_0941.png)
 
 8. Save and close the configuration file.
   

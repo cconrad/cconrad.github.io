@@ -25,7 +25,7 @@ teaser: "Plans from last week:"
 ---
 <u>Work</u>
 
-*   <del>Rented a shared office space at [Midzone](http://www.midzone.se/) (CC)</del>
+*   <del>Rented a shared office space at Midzone (CC)</del>
 *   <del>Finished development of nissehue.dk (KC)</del>
 *   <del>Improved forums with new features (Amino)</del>
 *   <del>Sent invoice (Amino)</del>

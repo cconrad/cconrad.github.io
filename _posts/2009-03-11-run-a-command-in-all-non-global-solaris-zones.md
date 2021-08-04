@@ -53,5 +53,3 @@ zlogin -S $zone "$*"
 fi  
 done
 ```
-
-Found at [http://www.armoredservers.com/support/Zones/zonerun](http://www.armoredservers.com/support/Zones/zonerun).

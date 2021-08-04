@@ -39,4 +39,4 @@ If you happen to use gnome-screensaver (default in Ubuntu), the following comman
 DISPLAY=:0 gnome-screensaver-command -p
 ```
 
-Thanks to [YaronSh](http://ubuntuforums.org/member.php?u=351150) on the [Ubuntu forums](http://ubuntuforums.org/showthread.php?t=632580).
+Thanks to YaronSh on the [Ubuntu forums](https://ubuntuforums.org/showthread.php?t=632580).

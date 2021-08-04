@@ -27,10 +27,7 @@ teaser: "All services in this list offer free source code hosting to open-source
 ---
 | Name | Supported VCS | Other features | Notes |
 | --- | --- | --- | --- |
-| [Assembla](http://www.assembla.com/) | Subversion, Git, Mercurial | Wiki, Issue tracking |
-| [Bitbucket](http://www.bitbucket.org/) | Mercurial | Wiki, Issue tracking |
-| [CodePlex](http://www.codeplex.com/) | Mercurial, Subversion, Team Foundation Server | Wiki, Issue tracking | Open-source only |
-| [Github](http://www.github.com/) | Git | Wiki, Issue tracking, Code review |
-| [Google Code](http://code.google.com/hosting/) | Subversion, Mercurial | Wiki, Issue tracking | Open-source only |
-| [Kiln](http://www.kilnhg.com/) | Mercurial | Wiki*, Issue tracking*, Code review* | * through integration with FogBugz |
-| [SourceForge](http://sourceforge.net/) | Subversion, Git, Mercurial | Wiki, Issue tracking, Forums | Open-source only |
+| [Assembla](https://www.assembla.com/) | Subversion, Git, Perforce | Wiki, Issue tracking |
+| [Atlassian Bitbucket](https://bitbucket.org/) | Mercurial | Wiki, Issue tracking |
+| [Github](https://www.github.com/) | Git | Wiki, Issue tracking, Code review |
+| [SourceForge](https://sourceforge.net/) | Subversion, Git, Mercurial | Wiki, Issue tracking, Forums | Open-source only |

@@ -23,10 +23,6 @@ tags:
 comments: true
 teaser: "This list contains all the customizations I have made to the Thesis theme, in order to ease upgrading later on."
 ---
-[Putting categories before pages in Thesis menu](http://fourblogger.com/how-to-put-categories-before-pages-in-thesis-navigation-menu/)
-
-[Using Thesis with a WordPress multi-site installation](http://www.binaryturf.com/using-thesis-theme-with-a-wordpress-multisite-installation)
-
 ## Making post images work with my multi-site installation
 
 _/wp-content/themes/thesis_17/lib/functions/post_images.php_:

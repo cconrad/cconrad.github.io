@@ -34,14 +34,11 @@ Since I currently develop a website meant to run on nginx on CentOS, the differe
 
 * * *
 
-PC-BSD is based on FreeBSD. Most importantly, these \*BSD distributions use 3 different software installation methods;
+PC-BSD is based on FreeBSD. Most importantly, these \*BSD distributions use 2 different software installation methods;
 
-* [pkg_add](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/packages-using.html)  
-  The "old" binary installation method. Installs binary (pre-compiled) packages.
-
-* [pkgng](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/pkgng-intro.html)  
+* [pkgng](https://docs.freebsd.org/en/books/handbook/ports/#pkgng-intro)  
   The "new" binary installation method. Installs binary (pre-compiled) packages.
   As far as I know, these are the same packages provided by _pkg_add_ and related tools. To switch to pkgng, run the _pkg_ bootstrap command. Once you go pkgng, you can't go back to using the pkg_add etc, commands anymore.
 
-* [ports](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/ports-using.html)  
+* [ports](https://docs.freebsd.org/en/books/handbook/ports/#ports-using)  
   The ports collection offers more packages than the binary alternatives described above. The disadvantage is that these packages need to be compiled from source code locally, potentially taking a lot more time. However, the ports system supposedly uses the same database as the binary packaging systems, so stuff doesn't get out of sync, and it handles dependencies just like the other commands.

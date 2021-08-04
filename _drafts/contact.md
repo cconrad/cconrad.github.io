@@ -11,5 +11,5 @@ permalink: "/contact/"
 - [Google Forms][2]
 
 
- [1]: http://www.wufoo.com/
+ [1]: https://www.wufoo.com/
  [2]: https://www.google.com/intl/de_de/forms/about/

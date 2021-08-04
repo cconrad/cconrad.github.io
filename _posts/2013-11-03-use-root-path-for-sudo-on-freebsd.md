@@ -35,4 +35,4 @@ wordpress_url: http://www.clausconrad.com/?p=642
 
 3. Save the file
   
-For more information see the [sudoers](http://www.gsp.com/cgi-bin/man.cgi?topic=sudoers) man page. Note, however, that there are [good reasons to keep the invoking user's PATH](http://askubuntu.com/a/147905).
+For more information see the [sudoers](https://linux.die.net/man/5/sudoers) man page. Note, however, that there are [good reasons to keep the invoking user's PATH](https://askubuntu.com/questions/146869/why-does-sudo-not-add-roots-path-with-ubuntu-12-04/147905#147905).

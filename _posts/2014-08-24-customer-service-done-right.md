@@ -66,7 +66,8 @@ What I think Airbnb is doing right here:
 * Relate to recent activity
 * Ask general questions about satisfaction
 * Acknowledge that this is the first contact with customer service
-* Make sure the mail is legible on both desktop and mobi* Greet the customer by name
+* Make sure the mail is legible on both desktop and mobile devices
+* Greet the customer by name
 * Relate to recent activity
 * Ask general questions about satisfaction
 * Acknowledge that this is the first contact with customer service
@@ -75,7 +76,6 @@ What I think Airbnb is doing right here:
 * Provide relevant links
 * Allow the customer to respond by mail instead of having to click a link to a form (or even worse, make them log in to reply)
 * Mention the representative's name at the beginning and end of the mail
-le devices
 * Paragraph lengths that make sense and improve readability
 * Provide relevant links
 * Allow the customer to respond by mail instead of having to click a link to a form (or even worse, make them log in to reply)

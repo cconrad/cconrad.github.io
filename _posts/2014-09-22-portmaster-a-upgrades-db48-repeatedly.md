@@ -29,4 +29,4 @@ wordpress_url: http://www.clausconrad.com/?p=783
 portmaster -o databases/db48 databases/db42
 ```
 
-Thanks to [Stephen Scotter](http://www.stephen-scotter.net/computers/freebsd/databasesdb48-installed-upgraded-repeatedly) for pointing me in the right direction with his blog entry, I just had to replace _db47_ with _db42_ to get it to work on my machine. After the above command, _portmaster -a_ only installed _db48_ once more, then stopped with the message _===>>> All ports are up to date_.
+Thanks to [Stephen Scotter](https://www.stephen-scotter.net/computers/freebsd/databasesdb48-installed-upgraded-repeatedly) for pointing me in the right direction with his blog entry, I just had to replace _db47_ with _db42_ to get it to work on my machine. After the above command, _portmaster -a_ only installed _db48_ once more, then stopped with the message _===>>> All ports are up to date_.

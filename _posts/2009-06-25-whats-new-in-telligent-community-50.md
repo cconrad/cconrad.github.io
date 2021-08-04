@@ -23,8 +23,6 @@ tags:
 comments: true
 teaser: "Are you considering to upgrade your CommunityServer 2008.5 to the newest edition 5.0, now dubbed Telligent Community? Here's a list of differences between the two versions."
 ---
-To find differences between other versions of Telligent CommunityServer check out their [feature comparison matrix](http://telligent.com/communities/technical/community/w/documentation/feature-comparison-from-community-server-2-1-to-telligent-community-5-0.aspx "feature comparison matrix").
-
 ## Groups
 
 *   Joinless groups

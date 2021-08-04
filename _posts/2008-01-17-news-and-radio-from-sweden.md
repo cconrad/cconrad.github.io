@@ -36,8 +36,5 @@ If you have some good links, please add a comment!
 *   [The Local](https://www.thelocal.se/)  
     Swedish news in English.
 
-*   [SR](http://www.sr.se/cgi-bin/International/nyhetssidor/index.asp?nyheter=1&ProgramID=2054)  
+*   [SR](https://sverigesradio.se/)  
     Largest Swedish radio broadcaster. Page in English and Swedish.
-
-*   [RADIOSEVEN](http://www.radioseven.se/)  
-    My favorite Swedish radio station. Only dance music and a tiny bit of Swedish talk. Page in Swedish only.

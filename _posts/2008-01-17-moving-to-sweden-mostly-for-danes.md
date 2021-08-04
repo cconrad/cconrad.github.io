@@ -30,17 +30,5 @@ Whenever possible I try to link to the English version of the pages, but some of
 
 This is mostly of interests for Danes - sorry I'm so subjective here...
 
-*   [ØresundDirekt](http://www.oresunddirekt.com/)  
+*   [ØresundDirekt](https://www.oresunddirekt.com/)  
     Mostly for Danes and Swedes from the border region (Copenhagen/Skåne). Information about the differences between the countries, living in one country and working in the other etc. Page in Swedish and Danish.
-
-*   [Flyt til Sverige](http://flyttilsverige.nu/frontpage/)  
-    Again a page mostly for Danes, pursuading them to move to Sweden. (Who wouldn't want to anyway?!) Page in Danish only.
-
-*   [Øresund Region](http://www.oresundsregionen.org/index.php?)  
-    About the border region between Sweden and Denmark. Page in English, Swedish and others.
-
-*   [Hallo Norden](http://www.hallonorden.org/ssp/hn/module/presentation/?XModuleId=13883&LanguageId=13115)  
-    Information for those moving between the Nordic countries. Page in English, Swedish and others.
-
-*   [Scanianet](http://www.scanianet.dk/)  
-    Information for people moving from Denmark to Sweden. Page in Danish only.

@@ -23,7 +23,7 @@ tags:
 comments: true
 teaser: "This is a walkthrough for backing up files to Amazon's data centers, more specifically to an EC2 instance with an EBS root volume. While it is tailored to a UNIX-like environment (as that's what I use - Solaris 10, Debian and Mac OS X 10.6 Snow Leopard), all tools used in these scripts are also available for Windows environments. Some adaptation of the commands might be required."
 ---
-I recommend that you are at least slightly familiar with the [AWS services](http://aws.amazon.com/) before continuing to read this walkthrough.
+I recommend that you are at least slightly familiar with the [AWS services](https://aws.amazon.com/) before continuing to read this walkthrough.
 
 ### Choosing an AWS backup method
 
@@ -33,15 +33,15 @@ There are many variations of using Amazon Web Services to back up your data. In 
 
 For backing up directly to S3, several tools exist.
 
-*   **[JetS3t synchronize](http://jets3t.s3.amazonaws.com/applications/applications.html#synchronize)**  
+*   **[JetS3t synchronize](https://jets3t.s3.amazonaws.com/applications/applications.html#synchronize)**  
 
     Synchronize is part of a larger suite of S3-tools called "JetS3t". It is a command-line based tool written in Java and so it requires a Java runtime, but otherwise it can be run like any other CLI application and doesn't require a GUI. Don't let the simple name fool you - it is one of the better tools for backing up data to S3\. Apart from Synchronize, JetS3t also contains a GUI to manage files on S3 called "Cockpit" and a SDK for Java developers to integrate S3 into their software. I have used Synchronize on several servers and continue to use it. One problem I experienced several times with this tool was its huge memory consumption when backing up large numbers of files. My server with the largest number of files currently needs to back up over 700,000 files and even though I increased the memory for Java to 2 GB it still ran out of RAM. This might not be due to Synchronize or JetS3t itself, but made me look for other solutions for this server, such as the one presented below. However I still consider Synchronize to be very well-written and user-friendly, and if the number of files you need to back up is small (like in "below 50,000 files") it is a very reliable application. (Please also consider my general comments about backing up directly to S3 below though.)
 
-*   **[s3sync.rb](http://s3sync.net/wiki)**  
+*   **[s3sync.rb](https://s3sync.net/wiki.html)**  
 
     Another popular solution I tried, s3sync.rb is a Ruby-based script that works kind-of like rsync. Unlike JetS3t it had no problems backing up my collection of 700,000 small files. However, it created an enourmous number of requests to S3, resulting in a huge bill from Amazon, so I don't use it anymore. Apart from that it worked well though. (Please also consider my general comments about backing up directly to S3 below.)
 
-*   **[JungleDisk](http://www.jungledisk.com/)**  
+*   **[JungleDisk](https://www.jungledisk.com/)**  
 
     I am reluctant to include this here because I haven't had a chance to try it, but JungleDisk appears to be a popular solution for backing up data to S3 and it looks pretty good on paper. I didn't use it because it seems to require a GUI.
 
@@ -67,11 +67,11 @@ For increased security, EBS volumes can be snapshotted to S3 as often and with a
 
 ### My guide
 
-Based on the determined importance of my data, the fact that this is a second site (in addition to on-site backup) and budgetary constraints, I chose to use an EBS volume as an EC2 instance root without snapshotting the volume to S3\. This is the method I am going to describe in detail in the rest of this walkthrough. Before cloning this process I invite you to study the [AWS documentation](http://aws.amazon.com/documentation) to determine its fitness for your purposes.
+Based on the determined importance of my data, the fact that this is a second site (in addition to on-site backup) and budgetary constraints, I chose to use an EBS volume as an EC2 instance root without snapshotting the volume to S3\. This is the method I am going to describe in detail in the rest of this walkthrough. Before cloning this process I invite you to study the [AWS documentation](https://docs.aws.amazon.com/index.html) to determine its fitness for your purposes.
 
 ### Signing up for Amazon AWS
 
-If you don't have an AWS account yet, [sign up here](http://aws-portal.amazon.com/gp/aws/developer/subscription/index.html?productCode=AmazonEC2) using your Amazon login (or create one using the same link, if you aren't an Amazon customer yet). Even if you've already ordered books and stuff from Amazon, signup for AWS services is separate from that. However, the only AWS service you need for this guide is EC2.
+If you don't have an AWS account yet, [sign up here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fportal.aws.amazon.com%2Fbilling%2Fhome%3Fstate%3DhashArgs%2523%252Fdevpay%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A934814114565%3Auser%2Fportal-aws-auth&forceMobileApp=0&code_challenge=xph9Oqd5JRTW5GW2EATrYIcjs9dVCQAgEyNwi7Jrw1g&code_challenge_method=SHA-256) using your Amazon login (or create one using the same link, if you aren't an Amazon customer yet). Even if you've already ordered books and stuff from Amazon, signup for AWS services is separate from that. However, the only AWS service you need for this guide is EC2.
 
 ### Choosing an AWS region
 
@@ -105,9 +105,9 @@ JAVA_HOME=/path/to/java
 PATH=/path/to/ec2-api-tools/bin:$PATH
 ```
 
-Download and install the latest version of [boto](http://code.google.com/p/boto/).
+Download and install the latest version of [boto](https://github.com/boto/boto).
 
-[Configure your region in ~/.boto](http://gitabulous.com/ec2_tut.html#a-note-about-regions)
+Configure your region in ~/.boto.
 
 ### Setting up the instance
 
@@ -150,4 +150,4 @@ TBD
 
 ### Foot notes
 
-<a id="footnote-1"></a>1: Thanks to [Alestic](http://alestic.com/2009/12/ec2-ebs-boot-resize)
+<a id="footnote-1"></a>1: Thanks to [Alestic](https://alestic.com/2009/12/ec2-ebs-boot-resize/)

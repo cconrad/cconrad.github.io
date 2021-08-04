@@ -11,7 +11,7 @@ categories:
 comments: true
 date: 2014-09-28 20:10:35 +0000
 date_gmt: 2014-09-28 18:10:35 +0000
-excerpt: I have been running <a href="http://backuppc.sourceforge.net/">BackupPC</a>
+excerpt: I have been running <a href="https://backuppc.github.io/backuppc/">BackupPC</a>
   to back up jails on a FreeBSD box for a while now and been very satisfied with its
   stability. However recently I ran into problems with upgrading Apache, which is
   used as an optional web interface for BackupPC.
@@ -24,12 +24,12 @@ tags:
 - freebsd
 - backuppc
 - lighttpd
-teaser: "I have been running <a href=\"http://backuppc.sourceforge.net/\">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC."
+teaser: "I have been running <a href=\"https://backuppc.github.io/backuppc/\">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC."
 title: Running BackupPC with lighttpd instead of Apache
 wordpress_id: 787
 wordpress_url: http://www.clausconrad.com/?p=787
 ---
-I was under the mistaken impression that BackupPC's frontend only worked with Apache, so when I found [instructions on the ArchLinux wiki](https://wiki.archlinux.org/index.php/BackupPC#Alternative_lighttpd_configuration) to run it on [lighttpd](http://www.lighttpd.net/) instead, I gave it a try on FreeBSD, and with these few changes to the configuration it runs just fine:
+I was under the mistaken impression that BackupPC's frontend only worked with Apache, so when I found [instructions on the ArchLinux wiki](https://wiki.archlinux.org/index.php/BackupPC#Alternative_lighttpd_configuration) to run it on [lighttpd](https://www.lighttpd.net/) instead, I gave it a try on FreeBSD, and with these few changes to the configuration it runs just fine:
 
 1. Delete Apache:
 

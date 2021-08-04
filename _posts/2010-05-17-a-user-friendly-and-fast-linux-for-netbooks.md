@@ -20,7 +20,7 @@ categories:
 - System administration
 tags: []
 comments: true
-teaser: "Thanks to <a href=\"http://makeuseof.com/tag/jolicloud-operating-system-download-for-netbook/\">MakeUseOf</a> I discovered <a href=\"http://www.jolicloud.com/\">Jolicloud</a>, a version of Linux optimized for netbooks."
+teaser: "Thanks to <a href=\"https://www.makeuseof.com/tag/jolicloud-operating-system-download-for-netbook/\">MakeUseOf</a> I discovered Jolicloud, a version of Linux optimized for netbooks."
 ---
 For the last year or so I had given up on using my Asus Eee 900 for anything more than the occasional recipe surfing in the kitchen, it was simply too slow to open tabs or do any normal computer work. The original Linux wasn't too slow, but nothing near fabulous either. I tried Ubuntu Netbook Remix, which felt even more unresponsive to me. Some months ago I switched to Windows 7 just to get disappointed once more.
 

@@ -53,9 +53,6 @@ This is one of the easiest ways to regain space on your C: drive, and the one be
 
 To do this, you simply create a folder for either documents, music, pictures or videos on the SD card, then include the new location in the library.
 
-To read more about this method, see [Include folders in a
-library](http://windows.microsoft.com/en-us/windows7/include-folders-in-a-library) at microsoft.com.
-
 ### Advantages
 
 * Good support - the way the operating system is meant to be used
@@ -75,7 +72,7 @@ This method works for a few more folders than the one above. It is also pretty w
 
 To use this method, you right-click one or more folders inside your user profile (e. g. "My Documents"), select the Location tab, and select a new folder located on the portable drive.
 
-To read more about this approach, see [Redirect a folder to a new location](http://windows.microsoft.com/en-us/windows/redirect-folder-new-location#1TC=windows-7) at microsoft.com. (While the article linked to here is for Windows 7, it works the same way in newer versions of Windows.)
+To read more about this approach, see [Redirect a folder to a new location](https://docs.microsoft.com/en-us/windows-server/storage/folder-redirection/folder-redirection-rup-overview) at microsoft.com.
 
 ### Advantages
 
@@ -94,7 +91,7 @@ This method is not really a hack, but I call it this way because it isn't suppor
 This involves editing the registry and is likely to go wrong, if you already have data in your user profile directory.
 
 To read more about this approach, [click
-here](http://www.nextofwindows.com/how-to-change-user-profile-default-location-in-windows-7/). While it says "Windows 7" in the linked article, this should also work on newer versions - but be sure to read the disadvantages below before considering it.
+here](https://www.nextofwindows.com/how-to-change-user-profile-default-location-in-windows-7/). While it says "Windows 7" in the linked article, this should also work on newer versions - but be sure to read the disadvantages below before considering it.
 
 ### Advantages
 
@@ -112,7 +109,7 @@ here](http://www.nextofwindows.com/how-to-change-user-profile-default-location-i
 
 This method involves moving the directory with all user profiles (e.g. _C:\Users_) outside of Windows (e.g. in rescue mode) and creating a symbolic link from the old directory to the new one.
 
-To read more about this approach, see [How To Change User Profile Location in Windows 8 without Registry Hack](http://www.nextofwindows.com/how-to-change-user-profile-location-in-windows-8-without-registry-hack/). While the linked article refers to Windows 8, it should also work with earlier versions of
+To read more about this approach, see [How To Change User Profile Location in Windows 8 without Registry Hack](https://www.nextofwindows.com/how-to-change-user-profile-location-in-windows-8-without-registry-hack/). While the linked article refers to Windows 8, it should also work with earlier versions of
 Windows, down to Vista.
 
 **Tip:**

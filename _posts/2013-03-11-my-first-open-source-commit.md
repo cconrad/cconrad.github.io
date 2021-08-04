@@ -22,4 +22,4 @@ tags: []
 comments: true
 teaser: "This is a VERY small patch, but still, I'm a little bit proud that my first try to commit a patch to an open source project was accepted ;-)"
 ---
-[http://bugs.dojotoolkit.org/ticket/15669](http://bugs.dojotoolkit.org/ticket/15669)
+[https://bugs.dojotoolkit.org/ticket/15669](https://bugs.dojotoolkit.org/ticket/15669)

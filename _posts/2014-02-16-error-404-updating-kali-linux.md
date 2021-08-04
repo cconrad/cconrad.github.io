@@ -27,7 +27,7 @@ wordpress_url: http://www.clausconrad.com/?p=756
 ---
 While updating a new installation of Kali Linux, I received the error message `Err http://http.kali.org/kali/ kali/non-free metasploit amd64 4.8.2-2014012201-1kali0 404 Not Found`.
 
-Apparently, the hostname _http.kali.org_ points to a CDN and not all of its mirrors contain updated packages. In order to solve this I went to the Kali [mirror list](http://http.kali.org/README.mirrorlist) and chose another mirror from my continent. I then updated the file _/etc/apt/sources.list_ accordingly (replace with your chosen mirror):
+Apparently, the hostname _http.kali.org_ points to a CDN and not all of its mirrors contain updated packages. In order to solve this I went to the Kali [mirror list](https://http.kali.org/README.mirrorlist) and chose another mirror from my continent. I then updated the file _/etc/apt/sources.list_ accordingly (replace with your chosen mirror):
 
 * Uncomment this line:
 
