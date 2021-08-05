@@ -2,8 +2,6 @@
 layout: page
 sidebar: left
 status: publish
-header: no
-sidebar: left
 published: true
 title: Public transport in Sweden
 author:

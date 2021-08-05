@@ -1,7 +1,5 @@
 ---
 layout: page
-sidebar: left
-header: no
 status: publish
 header: no
 sidebar: left

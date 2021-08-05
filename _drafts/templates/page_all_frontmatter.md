@@ -13,7 +13,6 @@ tags:
 #
 # Styling
 #
-header: no
 header:
     image_fullwidth:
     image:
