@@ -44,7 +44,7 @@ exclude:
   - README.md
   - vendor
 favicon-32x32: null
-google_analytics_tracking_id: UA-7127862-2
+google_analytics_tracking_id: null
 highlight: rouge
 improve_content: null
 include:
