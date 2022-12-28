@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: 'Weekly review: Week ending February 16, 2013'
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2013-02-16 14:28:08 +01:00
+date_gmt: 2013-02-16 13:28:08 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: Trying to get into the routine of writing these updates again...
+title: 'Weekly review: Week ending February 16, 2013'
 wordpress_id: 509
 wordpress_url: http://www.clausconrad.com/?p=509
-date: '2013-02-16 14:28:08 +0000'
-date_gmt: '2013-02-16 13:28:08 +0000'
-categories:
-- Personal
-tags: []
-comments: true
-teaser: "Trying to get into the routine of writing these updates again..."
 ---
 <span style="text-decoration: underline;">Work</span>
 

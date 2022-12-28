@@ -7,22 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-10-08 08:08:37 +0000
+date: 2014-10-08 08:08:37 +02:00
 date_gmt: 2014-10-08 06:08:37 +0000
-excerpt: "Being met with an error when opening Outlook or (worse), an archived PST
-  file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool
-  does a good job at recovering mails in many cases.\r\n\r\n"
+excerpt: "Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- office
-- outlook
-teaser: "Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases."
+  - office
+  - outlook
+teaser: Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases.
 title: Repairing Outlook PST files
 wordpress_id: 796
 wordpress_url: http://www.clausconrad.com/?p=796

@@ -7,20 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-09-23 19:34:26 +0000
+date: 2014-09-23 19:34:26 +02:00
 date_gmt: 2014-09-23 17:34:26 +0000
-excerpt: "Setting an environment variable for the next command is easy with bash -
-  as it turns out, also with csh. Here's how:\r\n\r\n"
+excerpt: "Setting an environment variable for the next command is easy with bash - as it turns out, also with csh. Here's how:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-teaser: "Setting an environment variable for the next command is easy with bash - as it turns out, also with csh. Here's how:"
+  - freebsd
+teaser: 'Setting an environment variable for the next command is easy with bash - as it turns out, also with csh. Here''s how:'
 title: Set environment variable for one command with csh
 wordpress_id: 785
 wordpress_url: http://www.clausconrad.com/?p=785

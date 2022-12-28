@@ -1,7 +1,7 @@
 ---
-permalink: /sitemap.xml
-title: 'Site map for robots'
 layout: null
+permalink: /sitemap.xml
+title: Site map for robots
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 {% comment %}

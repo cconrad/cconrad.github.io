@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2016-05-21 18:01:43 +0000
+date: 2016-05-21 18:01:43 +02:00
 date_gmt: 2016-05-21 16:01:43 +0000
 header: false
 layout: page
@@ -17,9 +17,9 @@ published: true
 sidebar: left
 status: publish
 tags:
-- saltstack
-- gnupg
-teaser: "Some notes on how to encrypt sensitive data in SaltStack pillar files, e.g. to commit them to source code repositories."
+  - saltstack
+  - gnupg
+teaser: Some notes on how to encrypt sensitive data in SaltStack pillar files, e.g. to commit them to source code repositories.
 title: Using the GPG renderer to protect Salt pillar items
 wordpress_id: 858
 wordpress_url: http://www.clausconrad.com/?p=858

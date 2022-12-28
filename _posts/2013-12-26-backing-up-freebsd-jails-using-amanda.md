@@ -7,23 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-26 17:16:15 +0000
+date: 2013-12-26 17:16:15 +01:00
 date_gmt: 2013-12-26 16:16:15 +0000
-excerpt: "Some notes about how I set up Amanda server and clients to back up jails
-  on a FreeBSD host.\r\n\r\n"
+excerpt: "Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- backup
-- freebsd
-- amanda
-- jails
-teaser: "Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host."
+  - backup
+  - freebsd
+  - amanda
+  - jails
+teaser: Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host.
 title: Backing up FreeBSD jails using Amanda
 wordpress_id: 679
 wordpress_url: http://www.clausconrad.com/?p=679

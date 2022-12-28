@@ -7,22 +7,21 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-08-30 15:58:40 +0000
+date: 2014-08-30 15:58:40 +02:00
 date_gmt: 2014-08-30 13:58:40 +0000
-excerpt: "After updating a FreeBSD jail I got the dreaded \"502 Bad gateway\" error
-  from nginx, here's how I fixed it:\r\n\r\n"
+excerpt: "After updating a FreeBSD jail I got the dreaded \"502 Bad gateway\" error from nginx, here's how I fixed it:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- php-fpm
-- nginx
-teaser: "After updating a FreeBSD jail I got the dreaded \"502 Bad gateway\" error from nginx, here's how I fixed it:"
+  - freebsd
+  - php-fpm
+  - nginx
+teaser: 'After updating a FreeBSD jail I got the dreaded "502 Bad gateway" error from nginx, here''s how I fixed it:'
 title: '"Bad gateway" with nginx, PHP-FPM using FreeBSD socket'
 wordpress_id: 779
 wordpress_url: http://www.clausconrad.com/?p=779

@@ -1,7 +1,7 @@
 ---
-header: no
+header: 'no'
 layout: page
 permalink: /blog/category/howto/development
-title: "Development"
+title: Development
 ---
 {% include list-posts category='Development' %}

@@ -7,23 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-23 20:33:36 +0000
+date: 2013-12-23 20:33:36 +01:00
 date_gmt: 2013-12-23 19:33:36 +0000
-excerpt: "<p>Some personal notes about troubleshooting audio problems with HDMI out
-  on a HTPC running Arch Linux.</p>\r\n"
+excerpt: "<p>Some personal notes about troubleshooting audio problems with HDMI out on a HTPC running Arch Linux.</p>\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- linux
-- audio
-- alsa
-- pulseaudio
-teaser: "Some personal notes about troubleshooting audio problems with HDMI out on a HTPC running Arch Linux."
+  - linux
+  - audio
+  - alsa
+  - pulseaudio
+teaser: Some personal notes about troubleshooting audio problems with HDMI out on a HTPC running Arch Linux.
 title: Troubleshooting Linux sound problems
 wordpress_id: 669
 wordpress_url: http://www.clausconrad.com/?p=669

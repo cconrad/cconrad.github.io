@@ -7,20 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Personal
+  - Personal
 comments: true
-date: 2014-08-24 13:04:10 +0000
+date: 2014-08-24 13:04:10 +02:00
 date_gmt: 2014-08-24 11:04:10 +0000
-excerpt: "Recently, I sent a mail to Airbnb, requesting a feature that I believe would
-  benefit me and other customers of their service. Here's what happened:\r\n\r\n"
+excerpt: "Recently, I sent a mail to Airbnb, requesting a feature that I believe would benefit me and other customers of their service. Here's what happened:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- airbnb
-teaser: "Recently, I sent a mail to Airbnb, requesting a feature that I believe would benefit me and other customers of their service. Here's what happened:"
+  - airbnb
+teaser: 'Recently, I sent a mail to Airbnb, requesting a feature that I believe would benefit me and other customers of their service. Here''s what happened:'
 title: Customer service done right
 wordpress_id: 775
 wordpress_url: http://www.clausconrad.com/?p=775

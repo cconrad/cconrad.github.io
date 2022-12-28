@@ -7,25 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2015-08-22 18:05:30 +0000
+date: 2015-08-22 18:05:30 +02:00
 date_gmt: 2015-08-22 16:05:30 +0000
-excerpt: "Got the dreaded <em>could not create shared memory segment</em> error again
-  after upgrading my jail (now managed by iocage, but I had the same issue using ezjail
-  previously) with PostgreSQL to FreeBSD 10.2-RELEASE. Here's how I fixed it this
-  time:\r\n"
+excerpt: "Got the dreaded <em>could not create shared memory segment</em> error again after upgrading my jail (now managed by iocage, but I had the same issue using ezjail previously) with PostgreSQL to FreeBSD 10.2-RELEASE. Here's how I fixed it this time:\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- jails
-- postgresql
-- iocage
-teaser: "Got the dreaded <em>could not create shared memory segment</em> error again after upgrading my jail (now managed by iocage, but I had the same issue using ezjail previously) with PostgreSQL to FreeBSD 10.2-RELEASE. Here's how I fixed it this time:"
+  - freebsd
+  - jails
+  - postgresql
+  - iocage
+teaser: 'Got the dreaded <em>could not create shared memory segment</em> error again after upgrading my jail (now managed by iocage, but I had the same issue using ezjail previously) with PostgreSQL to FreeBSD 10.2-RELEASE. Here''s how I fixed it this time:'
 title: Running PostgreSQL in iocage-managed jail on FreeBSD 10.2-RELEASE
 wordpress_id: 828
 wordpress_url: http://www.clausconrad.com/?p=828

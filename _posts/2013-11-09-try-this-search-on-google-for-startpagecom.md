@@ -7,22 +7,21 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Development
+  - Development
 comments: true
-date: 2013-11-09 14:27:30 +0000
+date: 2013-11-09 14:27:30 +01:00
 date_gmt: 2013-11-09 13:27:30 +0000
-excerpt: "Trying alternative search engines is fun, but sometimes you want to repeat
-  your search on good ol' Google. This script helps Startpage users achieve that.\r\n\r\n"
+excerpt: "Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- opensource
-- userscript
-- chrome
-teaser: "Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that."
+  - opensource
+  - userscript
+  - chrome
+teaser: Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that.
 title: '"Try this search on Google" for startpage.com'
 wordpress_id: 648
 wordpress_url: http://www.clausconrad.com/?p=648

@@ -7,21 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-11-03 21:12:13 +0000
+date: 2013-11-03 21:12:13 +01:00
 date_gmt: 2013-11-03 20:12:13 +0000
-excerpt: "Sudo on FreeBSD uses the users PATH to find the command it is asked to run.
-  Here's how to change that to use root's PATH instead.\r\n\r\n"
+excerpt: "Sudo on FreeBSD uses the users PATH to find the command it is asked to run. Here's how to change that to use root's PATH instead.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- security
-- freebsd
-teaser: "Sudo on FreeBSD uses the users PATH to find the command it is asked to run. Here's how to change that to use root's PATH instead."
+  - security
+  - freebsd
+teaser: Sudo on FreeBSD uses the users PATH to find the command it is asked to run. Here's how to change that to use root's PATH instead.
 title: Use root PATH for sudo on FreeBSD
 wordpress_id: 642
 wordpress_url: http://www.clausconrad.com/?p=642

@@ -7,19 +7,18 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Personal
+  - Personal
 comments: true
-date: 2014-10-05 22:02:48 +0000
+date: 2014-10-05 22:02:48 +02:00
 date_gmt: 2014-10-05 20:02:48 +0000
-excerpt: "I realize this is a very short blog post, but I just wanted to point anyone
-  interested at this link:\r\n\r\n"
+excerpt: "I realize this is a very short blog post, but I just wanted to point anyone interested at this link:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags: []
-teaser: "I realize this is a very short blog post, but I just wanted to point anyone interested at this link:"
+teaser: 'I realize this is a very short blog post, but I just wanted to point anyone interested at this link:'
 title: Gamify your life
 wordpress_id: 791
 wordpress_url: http://www.clausconrad.com/?p=791

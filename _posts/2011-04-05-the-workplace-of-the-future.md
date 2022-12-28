@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: The workplace of the future
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2011-04-05 18:55:30 +02:00
+date_gmt: 2011-04-05 16:55:30 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - philosophy
+teaser: I just read a report from Skype (via <a href="https://mashable.com/archive/wfh-survey">Mashable</a>) that finds 62% of all surveyed companies already use remote workers, i.e. employees working from home ("WFH") some or all of their time.
+title: The workplace of the future
 wordpress_id: 409
 wordpress_url: http://www.clausconrad.com/blog/the-workplace-of-the-future
-date: '2011-04-05 18:55:30 +0000'
-date_gmt: '2011-04-05 16:55:30 +0000'
-categories:
-- Personal
-tags:
-- philosophy
-comments: true
-teaser: "I just read a report from Skype (via <a href=\"https://mashable.com/archive/wfh-survey\">Mashable</a>) that finds 62% of all surveyed companies already use remote workers, i.e. employees working from home (\"WFH\") some or all of their time."
 ---
 While this is presumably a US based survey I guess the situation here in Scandinavia is comparable, and I believe this is a trend that will continue over the next years and decades. In my opinion the trend to work remotely, which became a possibility thanks to technology such as Skype and the Internet in general, goes hand in hand with two other trends in the industry: specialization and loose groups of people working together on a project basis rather than a company basis.
 

@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Colour Catcher review
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Uncategorized
+comments: true
+date: 2011-04-07 11:23:26 +02:00
+date_gmt: 2011-04-07 09:23:26 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - review
+teaser: Over the last week or so I've been testing a product called Colour Catcher that promises to reduce or even eliminate the risk of discolored clothes, increasing the lifetime of ones garments and allowing one to wash more different clothes at the same time.
+title: Colour Catcher review
 wordpress_id: 410
 wordpress_url: http://www.clausconrad.com/?p=410
-date: '2011-04-07 11:23:26 +0000'
-date_gmt: '2011-04-07 09:23:26 +0000'
-categories:
-- Uncategorized
-tags:
-- review
-comments: true
-teaser: "Over the last week or so I've been testing a product called Colour Catcher that promises to reduce or even eliminate the risk of discolored clothes, increasing the lifetime of ones garments and allowing one to wash more different clothes at the same time."
 ---
 I didn't want to take a lot of risk for the first wash, so I mixed only red and blue colors of clothes that all had already been washed several times previously together with one "sheet" of Colour Catcher. The result was as usual, though the once white Colour Catcher had taken on a reddish note after the run, absorbing at least some of the clothes' color.
 

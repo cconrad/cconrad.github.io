@@ -7,22 +7,21 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-09-23 14:03:12 +0000
+date: 2013-09-23 14:03:12 +02:00
 date_gmt: 2013-09-23 12:03:12 +0000
-excerpt: "The installation instructions at couchbase.com can result in error messages
-  when installing 2.1.1 on CentOS. Here's how to resolve those.\r\n"
+excerpt: "The installation instructions at couchbase.com can result in error messages when installing 2.1.1 on CentOS. Here's how to resolve those.\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- couchbase
-- centos
-- rhel
-teaser: "The installation instructions at couchbase.com can result in error messages when installing 2.1.1 on CentOS. Here's how to resolve those."
+  - couchbase
+  - centos
+  - rhel
+teaser: The installation instructions at couchbase.com can result in error messages when installing 2.1.1 on CentOS. Here's how to resolve those.
 title: Installing Couchbase 2.1.1 on CentOS 6.4
 wordpress_id: 609
 wordpress_url: http://www.clausconrad.com/?p=609

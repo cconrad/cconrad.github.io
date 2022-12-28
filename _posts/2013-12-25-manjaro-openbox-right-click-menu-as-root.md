@@ -7,21 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-25 16:21:33 +0000
+date: 2013-12-25 16:21:33 +01:00
 date_gmt: 2013-12-25 15:21:33 +0000
-excerpt: "After installing Manjarobox I couldn't get the application menu to work
-  as root. Here's how I solved it:\r\n\r\n"
+excerpt: "After installing Manjarobox I couldn't get the application menu to work as root. Here's how I solved it:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- manjaro
-- openbox
-teaser: "After installing Manjarobox I couldn't get the application menu to work as root. Here's how I solved it:"
+  - manjaro
+  - openbox
+teaser: 'After installing Manjarobox I couldn''t get the application menu to work as root. Here''s how I solved it:'
 title: Manjaro Openbox right-click menu as root
 wordpress_id: 677
 wordpress_url: http://www.clausconrad.com/?p=677

@@ -7,19 +7,18 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Development
+  - Development
 comments: true
-date: 2014-08-25 09:25:56 +0000
+date: 2014-08-25 09:25:56 +02:00
 date_gmt: 2014-08-25 07:25:56 +0000
-excerpt: "While testing some code using Plunker I discovered that it doesn't support
-  IE9.\r\n\r\n"
+excerpt: "While testing some code using Plunker I discovered that it doesn't support IE9.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags: []
-teaser: "While testing some code using Plunker I discovered that it doesn't support IE9."
+teaser: While testing some code using Plunker I discovered that it doesn't support IE9.
 title: Running Plunker in IE9
 wordpress_id: 777
 wordpress_url: http://www.clausconrad.com/?p=777

@@ -1,5 +1,5 @@
 ---
-header: no
+header: 'no'
 layout: page
 permalink: /links/
 title: Links

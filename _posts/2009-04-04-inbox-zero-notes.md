@@ -1,28 +1,28 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Inbox Zero
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Howto
+comments: true
+date: 2009-04-04 21:46:14 +02:00
+date_gmt: 2009-04-04 19:46:14 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - productivity
+  - email
+teaser: 'I just watched Merlin Mann’s brilliant productivity video “Inbox Zero” from 2007 for the second time, these are my unedited notes from the video:'
+title: Inbox Zero
 wordpress_id: 448
 wordpress_url: http://www.clausconrad.com/?p=448
-date: '2009-04-04 21:46:14 +0000'
-date_gmt: '2009-04-04 19:46:14 +0000'
-categories:
-- Howto
-tags:
-- productivity
-- email
-comments: true
-teaser: "I just watched Merlin Mann’s brilliant productivity video “Inbox Zero” from 2007 for the second time, these are my unedited notes from the video:"
 ---
 *   Time and attention are finite. _Demands_ on your time and attention are infinite.
 *   Email's just a medium. It's not a purpose in itself.

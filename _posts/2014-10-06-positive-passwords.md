@@ -7,21 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Personal
+  - Personal
 comments: true
-date: 2014-10-06 07:42:04 +0000
+date: 2014-10-06 07:42:04 +02:00
 date_gmt: 2014-10-06 05:42:04 +0000
-excerpt: "If you believe in the power of positive affirmations, why not combine it
-  with the security of strong passwords?\r\n\r\n"
+excerpt: "If you believe in the power of positive affirmations, why not combine it with the security of strong passwords?\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- nerdy
-- selfimprovement
-teaser: "If you believe in the power of positive affirmations, why not combine it with the security of strong passwords?"
+  - nerdy
+  - selfimprovement
+teaser: If you believe in the power of positive affirmations, why not combine it with the security of strong passwords?
 title: Positive passwords
 wordpress_id: 794
 wordpress_url: http://www.clausconrad.com/?p=794

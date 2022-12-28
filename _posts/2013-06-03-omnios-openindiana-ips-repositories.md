@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-06-03 10:46:18 +0000
+date: 2013-06-03 10:46:18 +02:00
 date_gmt: 2013-06-03 08:46:18 +0000
 excerpt: A list of some IPS package repositories for OmniOS, OpenIndiana and/or OpenSolaris.
 header: false
@@ -18,10 +18,10 @@ published: true
 sidebar: left
 status: publish
 tags:
-- opensolaris
-- openindiana
-- omnios
-teaser: "An IPS package repository for OmniOS, OpenIndiana and/or OpenSolaris."
+  - opensolaris
+  - openindiana
+  - omnios
+teaser: An IPS package repository for OmniOS, OpenIndiana and/or OpenSolaris.
 title: OmniOS/OpenIndiana IPS repository
 wordpress_id: 558
 wordpress_url: http://www.clausconrad.com/?p=558

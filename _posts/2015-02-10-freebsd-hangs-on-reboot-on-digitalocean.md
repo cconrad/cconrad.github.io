@@ -7,21 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2015-02-10 19:29:33 +0000
+date: 2015-02-10 19:29:33 +01:00
 date_gmt: 2015-02-10 18:29:33 +0000
-excerpt: "My FreeBSD droplets on DigitalOcean used to hang on the following line when
-  rebooted:\r\n\r\n"
+excerpt: "My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- digitalocean
-teaser: "My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:"
+  - freebsd
+  - digitalocean
+teaser: 'My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:'
 title: FreeBSD hangs on reboot on DigitalOcean
 wordpress_id: 822
 wordpress_url: http://www.clausconrad.com/?p=822

@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: The Last Year Of Your Life
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2010-01-25 13:19:20 +01:00
+date_gmt: 2010-01-25 12:19:20 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - productivity
+teaser: 'I recently listened to an <a href="https://www.coasttocoastam.com/show/2010-01-20-show/">interview with Clint Arthur</a> about his "Last year of your life" program, which I found interesting. The program''s five basic steps are:'
+title: The Last Year Of Your Life
 wordpress_id: 438
 wordpress_url: http://www.clausconrad.com/?p=438
-date: '2010-01-25 13:19:20 +0000'
-date_gmt: '2010-01-25 12:19:20 +0000'
-categories:
-- Personal
-tags:
-- productivity
-comments: true
-teaser: "I recently listened to an <a href=\"https://www.coasttocoastam.com/show/2010-01-20-show/\">interview with Clint Arthur</a> about his \"Last year of your life\" program, which I found interesting. The program's five basic steps are:"
 ---
 1.  Decide this is the last year of your life.
 2.  Write down what you want to achieve.

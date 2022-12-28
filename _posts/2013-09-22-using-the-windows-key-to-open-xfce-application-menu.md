@@ -7,22 +7,21 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-09-22 17:37:04 +0000
+date: 2013-09-22 17:37:04 +02:00
 date_gmt: 2013-09-22 15:37:04 +0000
-excerpt: "How to open your Xfce's application menu using the Windows key in three
-  easy steps:\r\n"
+excerpt: "How to open your Xfce's application menu using the Windows key in three easy steps:\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- pc-bsd
-- xfce
-teaser: "How to open your Xfce's application menu using the Windows key in three easy steps:"
+  - freebsd
+  - pc-bsd
+  - xfce
+teaser: 'How to open your Xfce''s application menu using the Windows key in three easy steps:'
 title: Using the Windows key to open Xfce application menu
 wordpress_id: 605
 wordpress_url: http://www.clausconrad.com/?p=605

@@ -1,8 +1,8 @@
 ---
-header: no
+header: 'no'
 layout: page
 permalink: /links/friends
-title: "Recommended links: Family & Friends"
+title: 'Recommended links: Family & Friends'
 ---
 Danish: [Blog om grøn té (macha)](https://thebloggen.wordpress.com/)
 

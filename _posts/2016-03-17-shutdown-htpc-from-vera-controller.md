@@ -7,23 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2016-03-17 20:31:45 +0000
+date: 2016-03-17 20:31:45 +01:00
 date_gmt: 2016-03-17 19:31:45 +0000
-excerpt: "Here's how I configured my girlfriend's Vera to shutdown her (Windows-based)
-  HTPC when a certain scene gets triggered:\r\n"
+excerpt: "Here's how I configured my girlfriend's Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- windows
-- htpc
-- vera
-- home-automation
-teaser: "Here's how I configured my girlfriend's Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:"
+  - windows
+  - htpc
+  - vera
+  - home-automation
+teaser: 'Here''s how I configured my girlfriend''s Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:'
 title: Shutdown HTPC from Vera controller
 wordpress_id: 846
 wordpress_url: http://www.clausconrad.com/?p=846

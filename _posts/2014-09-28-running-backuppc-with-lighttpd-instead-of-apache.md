@@ -7,24 +7,21 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-09-28 20:10:35 +0000
+date: 2014-09-28 20:10:35 +02:00
 date_gmt: 2014-09-28 18:10:35 +0000
-excerpt: I have been running <a href="https://backuppc.github.io/backuppc/">BackupPC</a>
-  to back up jails on a FreeBSD box for a while now and been very satisfied with its
-  stability. However recently I ran into problems with upgrading Apache, which is
-  used as an optional web interface for BackupPC.
+excerpt: I have been running <a href="https://backuppc.github.io/backuppc/">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC.
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- backuppc
-- lighttpd
-teaser: "I have been running <a href=\"https://backuppc.github.io/backuppc/\">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC."
+  - freebsd
+  - backuppc
+  - lighttpd
+teaser: I have been running <a href="https://backuppc.github.io/backuppc/">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC.
 title: Running BackupPC with lighttpd instead of Apache
 wordpress_id: 787
 wordpress_url: http://www.clausconrad.com/?p=787

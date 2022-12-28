@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: 'Weekly review: Week ending Dec 13, 2009'
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2009-12-14 15:47:52 +01:00
+date_gmt: 2009-12-14 14:47:52 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - weekly-review
+teaser: 'Plans from last week:'
+title: 'Weekly review: Week ending Dec 13, 2009'
 wordpress_id: 92
 wordpress_url: http://www.clausconrad2.com/?p=92
-date: '2009-12-14 15:47:52 +0000'
-date_gmt: '2009-12-14 14:47:52 +0000'
-categories:
-- Personal
-tags:
-- weekly-review
-comments: true
-teaser: "Plans from last week:"
 ---
 <u>Work</u>
 

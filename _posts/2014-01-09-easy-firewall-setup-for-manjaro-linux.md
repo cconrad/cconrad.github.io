@@ -7,23 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-01-09 19:08:56 +0000
+date: 2014-01-09 19:08:56 +01:00
 date_gmt: 2014-01-09 18:08:56 +0000
-excerpt: "How to set up a simple firewall on your Manjaro-powered laptop or desktop
-  computer.\r\n\r\n"
+excerpt: "How to set up a simple firewall on your Manjaro-powered laptop or desktop computer.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- linux
-- manjaro
-- firewall
-- ufw
-teaser: "How to set up a simple firewall on your Manjaro-powered laptop or desktop computer."
+  - linux
+  - manjaro
+  - firewall
+  - ufw
+teaser: How to set up a simple firewall on your Manjaro-powered laptop or desktop computer.
 title: Easy firewall setup for Manjaro Linux
 wordpress_id: 735
 wordpress_url: http://www.clausconrad.com/?p=735

@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-03-09 21:51:23 +0000
+date: 2014-03-09 21:51:23 +01:00
 date_gmt: 2014-03-09 20:51:23 +0000
 header: false
 layout: page
@@ -17,7 +17,7 @@ published: true
 sidebar: left
 status: publish
 tags:
-- manjaro
+  - manjaro
 title: Add Manjaro Openbox flavor to Manjaro XFCE
 wordpress_id: 760
 wordpress_url: http://www.clausconrad.com/?p=760

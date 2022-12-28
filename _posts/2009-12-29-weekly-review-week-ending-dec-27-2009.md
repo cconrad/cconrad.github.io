@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: 'Weekly review: Week ending Dec 27, 2009'
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2009-12-29 16:41:41 +01:00
+date_gmt: 2009-12-29 15:41:41 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - weekly-review
+teaser: Ooh, last week was over so fast, and I didn't get lots of stuff done before Sunday/Monday due to the holidays - but it was nice spending time with my family and I had some good talks with them.
+title: 'Weekly review: Week ending Dec 27, 2009'
 wordpress_id: 86
 wordpress_url: http://www.clausconrad2.com/?p=86
-date: '2009-12-29 16:41:41 +0000'
-date_gmt: '2009-12-29 15:41:41 +0000'
-categories:
-- Personal
-tags:
-- weekly-review
-comments: true
-teaser: "Ooh, last week was over so fast, and I didn't get lots of stuff done before Sunday/Monday due to the holidays - but it was nice spending time with my family and I had some good talks with them."
 ---
 <a id="last-week"></a>**Plans from last week:**
 

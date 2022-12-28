@@ -1,29 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: 'Cheaper than locally: ordering food online in Sweden'
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
-excerpt: "You're a parent? Living in Sweden? Trying to save money by shopping at Netto,
-  ALDI or LIDL?\r\n\r\nRead on -&nbsp;there might be cheaper alternatives to buy some
-  of your food!"
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2013-04-19 14:49:36 +02:00
+date_gmt: 2013-04-19 12:49:36 +0000
+excerpt: "You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALDI or LIDL?\r\n\r\nRead on -&nbsp;there might be cheaper alternatives to buy some of your food!"
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALDI or LIDL? Read on - there might be cheaper alternatives to buy some of your food!
+title: 'Cheaper than locally: ordering food online in Sweden'
 wordpress_id: 555
 wordpress_url: http://www.clausconrad.com/?p=555
-date: '2013-04-19 14:49:36 +0000'
-date_gmt: '2013-04-19 12:49:36 +0000'
-categories:
-- Personal
-tags: []
-comments: true
-teaser: "You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALDI or LIDL? Read on - there might be cheaper alternatives to buy some of your food!"
 ---
 When I was visiting the US i frequently shopped food at Amazon.com. Since that time I have always been jealous of the assortment, prices and delivery speed of Amazon's grocery department, advantages that haven't been available to Swedish residents - until recently, that is.
 

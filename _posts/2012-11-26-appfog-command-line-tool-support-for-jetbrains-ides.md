@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: AppFog command line tool support for Jetbrains IDEs
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2012-11-26 11:06:08 +01:00
+date_gmt: 2012-11-26 10:06:08 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: If you use AppFog and develop using IntelliJ IDEA, PhpStorm, RubyMine, PyCharm or WebStorm, this command line tool configuration file can make your job a bit easier.
+title: AppFog command line tool support for Jetbrains IDEs
 wordpress_id: 492
 wordpress_url: http://www.clausconrad.com/?p=492
-date: '2012-11-26 11:06:08 +0000'
-date_gmt: '2012-11-26 10:06:08 +0000'
-categories:
-- Development
-tags: []
-comments: True
-teaser: "If you use AppFog and develop using IntelliJ IDEA, PhpStorm, RubyMine, PyCharm or WebStorm, this command line tool configuration file can make your job a bit easier."
 ---
 The next version of IntelliJ IDEA (v12) will have integrated support for CloudFoundry and I guess that means AppFog too, however the current version 11 has no such feature. Fortunately all Jetbrains IDEs have support for command line tools, so I don't have to switch to a terminal or command prompt to run "af" commands - this works out of the box. Since I can't remember all command line options and their syntax, I made a configuration file to enable auto-complete of "af" commands in the Jetbrains IDE command line. If you want to use this, here's how to install it:
 

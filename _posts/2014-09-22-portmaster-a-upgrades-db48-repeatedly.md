@@ -7,20 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-09-22 18:55:58 +0000
+date: 2014-09-22 18:55:58 +02:00
 date_gmt: 2014-09-22 16:55:58 +0000
-excerpt: "On a FreeBSD box, each time I ran \"portmaster -a\" it wanted to reinstall
-  the <em>db48</em> package. This fixed it:\r\n\r\n"
+excerpt: "On a FreeBSD box, each time I ran \"portmaster -a\" it wanted to reinstall the <em>db48</em> package. This fixed it:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-teaser: "On a FreeBSD box, each time I ran \"portmaster -a\" it wanted to reinstall the <em>db48</em> package. This fixed it:"
+  - freebsd
+teaser: 'On a FreeBSD box, each time I ran "portmaster -a" it wanted to reinstall the <em>db48</em> package. This fixed it:'
 title: portmaster -a upgrades db48 repeatedly
 wordpress_id: 783
 wordpress_url: http://www.clausconrad.com/?p=783

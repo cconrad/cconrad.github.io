@@ -7,19 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Personal
+  - Personal
 comments: true
-date: 2021-10-24 14:10:41 +0200
+date: 2021-10-24 14:10:41 +02:00
 date_gmt: 2021-10-24 12:10:41 +0000
-excerpt: "I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far."
+excerpt: I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far.
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- pkm
-teaser: "I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far."
+  - pkm
+teaser: I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far.
 title: Personal knowledge management tools and methodologies
 ---
 ## Hierarchical knowledge silos

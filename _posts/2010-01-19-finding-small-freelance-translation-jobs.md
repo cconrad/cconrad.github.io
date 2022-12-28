@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Finding small freelance translation jobs
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Howto
+comments: true
+date: 2010-01-19 11:15:50 +01:00
+date_gmt: 2010-01-19 10:15:50 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: I was recently asked how a non-certified translator could land smaller freelance jobs. Now I am certainly no expert on this, but I have done a few translations and know a bit or two about outsourcing from a buyer perspective, so here are a couple of suggestions on how I would go about landing smaller tasks.
+title: Finding small freelance translation jobs
 wordpress_id: 80
 wordpress_url: http://www.clausconrad2.com/?p=80
-date: '2010-01-19 11:15:50 +0000'
-date_gmt: '2010-01-19 10:15:50 +0000'
-categories:
-- Howto
-tags: []
-comments: true
-teaser: "I was recently asked how a non-certified translator could land smaller freelance jobs. Now I am certainly no expert on this, but I have done a few translations and know a bit or two about outsourcing from a buyer perspective, so here are a couple of suggestions on how I would go about landing smaller tasks."
 ---
 ### Use your (social) network
 

@@ -7,27 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-12-15 19:08:21 +0000
+date: 2014-12-15 19:08:21 +01:00
 date_gmt: 2014-12-15 18:08:21 +0000
-excerpt: "If you are the owner of a Windows tablet, hybrid or \"2-in-1\" computer,
-  you know how easy it can be to fill its (usually small) hard drive with downloaded
-  files, documents, pictures or application data. If your device sports a SD card
-  slot you might have considered moving your Documents or user profile there. While
-  this is possible, there are several methods to achieve this goal. In this post I
-  try to explore the advantages and disadvantages of different approaches to saving
-  precious hard drive space by storing some of your data on the SD card (or other
-  portable drive).\r\n\r\n"
+excerpt: "If you are the owner of a Windows tablet, hybrid or \"2-in-1\" computer, you know how easy it can be to fill its (usually small) hard drive with downloaded files, documents, pictures or application data. If your device sports a SD card slot you might have considered moving your Documents or user profile there. While this is possible, there are several methods to achieve this goal. In this post I try to explore the advantages and disadvantages of different approaches to saving precious hard drive space by storing some of your data on the SD card (or other portable drive).\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- windows
-teaser: "If you are the owner of a Windows tablet, hybrid or \"2-in-1\" computer, you know how easy it can be to fill its (usually small) hard drive with downloaded files, documents, pictures or application data. If your device sports a SD card slot you might have considered moving your Documents or user profile there. While this is possible, there are several methods to achieve this goal. In this post I try to explore the advantages and disadvantages of different approaches to saving precious hard drive space by storing some of your data on the SD card (or other portable drive)."
-title: "Saving space on hybrids: how to move the Documents or profile folder"
+  - windows
+teaser: >-
+  If you are the owner of a Windows tablet, hybrid or "2-in-1" computer, you know how easy it can be to fill its (usually small) hard drive with downloaded files, documents, pictures or application data. If your device sports a SD card slot you might have considered moving your Documents or user profile there. While this is possible, there are several methods to achieve this goal. In this post I try to explore the advantages and disadvantages of different approaches to saving precious hard drive
+  space by storing some of your data on the SD card (or other portable drive).
+title: 'Saving space on hybrids: how to move the Documents or profile folder'
 wordpress_id: 800
 wordpress_url: http://www.clausconrad.com/?p=800
 ---

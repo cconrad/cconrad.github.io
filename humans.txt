@@ -1,8 +1,8 @@
 ---
 layout: null
-title: "Staff Information"
-source: "https://humanstxt.org/Standard.html"
 permalink: /humans.txt
+source: https://humanstxt.org/Standard.html
+title: Staff Information
 ---
 /* TEAM */
 {% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}

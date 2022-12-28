@@ -1,31 +1,30 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Backup Jenkins configuration to S3
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
-excerpt: Here's a simple Jenkins job that backs up your Jenkins configuration (i.e.
-  job definitions) to Amazon S3.
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2013-04-09 15:33:16 +02:00
+date_gmt: 2013-04-09 13:33:16 +0000
+excerpt: Here's a simple Jenkins job that backs up your Jenkins configuration (i.e. job definitions) to Amazon S3.
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - backup
+  - jenkins
+  - s3
+teaser: Here's a simple Jenkins job that backs up your Jenkins configuration (i.e. job definitions) to Amazon S3.
+title: Backup Jenkins configuration to S3
 wordpress_id: 544
 wordpress_url: http://www.clausconrad.com/?p=544
-date: '2013-04-09 15:33:16 +0000'
-date_gmt: '2013-04-09 13:33:16 +0000'
-categories:
-- System administration
-tags:
-- backup
-- jenkins
-- s3
-comments: true
-teaser: "Here's a simple Jenkins job that backs up your Jenkins configuration (i.e. job definitions) to Amazon S3."
 ---
 ## Dependencies
 

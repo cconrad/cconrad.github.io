@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Development
+  - Development
 comments: true
-date: 2013-09-23 11:06:13 +0000
+date: 2013-09-23 11:06:13 +02:00
 date_gmt: 2013-09-23 09:06:13 +0000
 excerpt: "How to convert Mercurial (hg) repos to Git, including all commits and history:\r\n"
 header: false
@@ -18,11 +18,11 @@ published: true
 sidebar: left
 status: publish
 tags:
-- mercurial
-- git
-- hg
-- scm
-teaser: "How to convert Mercurial (hg) repos to Git, including all commits and history:"
+  - mercurial
+  - git
+  - hg
+  - scm
+teaser: 'How to convert Mercurial (hg) repos to Git, including all commits and history:'
 title: Converting Mercurial repositories to Git
 wordpress_id: 607
 wordpress_url: http://www.clausconrad.com/?p=607

@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: 'Weekly review: Week ending April 8, 2011'
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2011-04-09 17:09:36 +02:00
+date_gmt: 2011-04-09 15:09:36 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - weekly-review
+teaser: 'Plans from last week:'
+title: 'Weekly review: Week ending April 8, 2011'
 wordpress_id: 418
 wordpress_url: http://www.clausconrad.com/?p=418
-date: '2011-04-09 17:09:36 +0000'
-date_gmt: '2011-04-09 15:09:36 +0000'
-categories:
-- Personal
-tags:
-- weekly-review
-comments: true
-teaser: "Plans from last week:"
 ---
 Work
 

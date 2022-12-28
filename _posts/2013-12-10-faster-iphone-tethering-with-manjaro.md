@@ -7,24 +7,23 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-10 09:41:34 +0000
+date: 2013-12-10 09:41:34 +01:00
 date_gmt: 2013-12-10 08:41:34 +0000
-excerpt: "How to avoid having to wait for Manjaro to auto-connect to your iPhone's
-  hotspot, when you activate tethering:\r\n\r\n"
+excerpt: "How to avoid having to wait for Manjaro to auto-connect to your iPhone's hotspot, when you activate tethering:\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- manjaro
-- arch
-- networkmanager
-- cli
-- wifi
-teaser: "How to avoid having to wait for Manjaro to auto-connect to your iPhone's hotspot, when you activate tethering:"
+  - manjaro
+  - arch
+  - networkmanager
+  - cli
+  - wifi
+teaser: 'How to avoid having to wait for Manjaro to auto-connect to your iPhone''s hotspot, when you activate tethering:'
 title: Faster iPhone tethering with Manjaro
 wordpress_id: 659
 wordpress_url: http://www.clausconrad.com/?p=659

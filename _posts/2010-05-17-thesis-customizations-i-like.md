@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Thesis customizations I like
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2010-05-17 23:08:29 +02:00
+date_gmt: 2010-05-17 21:08:29 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - thesis
+teaser: This list contains all the customizations I have made to the Thesis theme, in order to ease upgrading later on.
+title: Thesis customizations I like
 wordpress_id: 261
 wordpress_url: http://www.clausconrad.com/blog/thesis-customizations-i-like
-date: '2010-05-17 23:08:29 +0000'
-date_gmt: '2010-05-17 21:08:29 +0000'
-categories:
-- Development
-tags:
-- thesis
-comments: true
-teaser: "This list contains all the customizations I have made to the Thesis theme, in order to ease upgrading later on."
 ---
 ## Making post images work with my multi-site installation
 

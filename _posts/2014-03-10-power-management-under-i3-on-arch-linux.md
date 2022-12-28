@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-03-10 17:14:41 +0000
+date: 2014-03-10 17:14:41 +01:00
 date_gmt: 2014-03-10 16:14:41 +0000
 header: false
 layout: page
@@ -17,8 +17,8 @@ published: true
 sidebar: left
 status: publish
 tags:
-- manjaro
-- i3
+  - manjaro
+  - i3
 title: Power management under i3 on Arch Linux
 wordpress_id: 767
 wordpress_url: http://www.clausconrad.com/?p=767

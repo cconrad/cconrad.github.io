@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Does your CommunityServer have spam profiles?
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2009-12-03 20:25:17 +01:00
+date_gmt: 2009-12-03 19:25:17 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - communityserver
+teaser: If you run a popular web community based on Telligents CommunityServer platform and allow everyone to register without e-mail verification for convenience, spammers are likely to know this too.
+title: Does your CommunityServer have spam profiles?
 wordpress_id: 100
 wordpress_url: http://www.clausconrad2.com/?p=100
-date: '2009-12-03 20:25:17 +0000'
-date_gmt: '2009-12-03 19:25:17 +0000'
-categories:
-- Development
-tags:
-- communityserver
-comments: true
-teaser: "If you run a popular web community based on Telligents CommunityServer platform and allow everyone to register without e-mail verification for convenience, spammers are likely to know this too."
 ---
 These user profiles pollute your authority and you probably want to delete them, but first you have to identify them. I found the following query helpful for this purpose:
 

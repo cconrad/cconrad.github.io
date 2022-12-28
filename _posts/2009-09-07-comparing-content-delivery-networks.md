@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Comparing Content Delivery Networks
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2009-09-07 16:56:33 +02:00
+date_gmt: 2009-09-07 14:56:33 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - performance
+teaser: Comparison of some popular Content Delivery Networks (CDN) targeting SMB customers.
+title: Comparing Content Delivery Networks
 wordpress_id: 124
 wordpress_url: http://www.clausconrad2.com/?p=124
-date: '2009-09-07 16:56:33 +0000'
-date_gmt: '2009-09-07 14:56:33 +0000'
-categories:
-- Development
-tags:
-- performance
-comments: true
-teaser: "Comparison of some popular Content Delivery Networks (CDN) targeting SMB customers." 
 ---
 | Network | Type | Origin | Edges | Storage $/GB/mo. | Delivery $/GB | Support $/mo. | CNAME |
 |-

@@ -7,22 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-10 13:07:15 +0000
+date: 2013-12-10 13:07:15 +01:00
 date_gmt: 2013-12-10 12:07:15 +0000
-excerpt: "<p>When disconnecting from a network and reconnecting later, SpiderOak always
-  stays \"disconnected\" here and doesn't backup any more files. Here's a simple script
-  I run in that case:</p>\r\n"
+excerpt: "<p>When disconnecting from a network and reconnecting later, SpiderOak always stays \"disconnected\" here and doesn't backup any more files. Here's a simple script I run in that case:</p>\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- linux
-- spideroak
-teaser: "When disconnecting from a network and reconnecting later, SpiderOak always stays \"disconnected\" here and doesn't backup any more files. Here's a simple script I run in that case:"
+  - linux
+  - spideroak
+teaser: 'When disconnecting from a network and reconnecting later, SpiderOak always stays "disconnected" here and doesn''t backup any more files. Here''s a simple script I run in that case:'
 title: Restarting SpiderOak after switching networks
 wordpress_id: 664
 wordpress_url: http://www.clausconrad.com/?p=664

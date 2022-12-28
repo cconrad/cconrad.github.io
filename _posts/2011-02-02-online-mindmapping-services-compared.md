@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Online mindmapping services compared
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Uncategorized
+comments: true
+date: 2011-02-02 18:57:06 +01:00
+date_gmt: 2011-02-02 17:57:06 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - lifehacking
+title: Online mindmapping services compared
 wordpress_id: 376
 wordpress_url: http://www.clausconrad.com/?p=376
-date: '2011-02-02 18:57:06 +0000'
-date_gmt: '2011-02-02 17:57:06 +0000'
-categories:
-- Uncategorized
-tags:
-- lifehacking
-comments: true
 ---
 | Name | Price | Sharing | Real-time collaboration | Offline use | iOS | Android | API | Import/Export |
 |-

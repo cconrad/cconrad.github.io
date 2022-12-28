@@ -1,7 +1,7 @@
 ---
-header: no
+header: 'no'
 layout: page
-title: "Logo design schlueter-owl.de"
+title: Logo design schlueter-owl.de
 ---
 Please propose three designs for a logo for a German tractor users hobbyist group, according to the questionnaire below.
 

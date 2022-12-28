@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: CommunityServer 2008.5 Blogs API reference
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2010-10-18 18:39:10 +02:00
+date_gmt: 2010-10-18 16:39:10 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - communityserver
+teaser: Some details about the blog API in CommunityServer 2008.
+title: CommunityServer 2008.5 Blogs API reference
 wordpress_id: 332
 wordpress_url: http://www.clausconrad.com/?p=332
-date: '2010-10-18 18:39:10 +0000'
-date_gmt: '2010-10-18 16:39:10 +0000'
-categories:
-- Development
-tags:
-- communityserver
-comments: true
-teaser: "Some details about the blog API in CommunityServer 2008."
 ---
 ### Blogs
 

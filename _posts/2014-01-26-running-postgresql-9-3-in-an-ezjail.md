@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-01-26 18:34:55 +0000
+date: 2014-01-26 18:34:55 +01:00
 date_gmt: 2014-01-26 17:34:55 +0000
 excerpt: "To get this working I had to follow these steps:\r\n"
 header: false
@@ -18,10 +18,10 @@ published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- jails
-- postgresql
-teaser: "To get this working I had to follow these steps:"
+  - freebsd
+  - jails
+  - postgresql
+teaser: 'To get this working I had to follow these steps:'
 title: Running Postgresql 9.3 in an ezjail
 wordpress_id: 751
 wordpress_url: http://www.clausconrad.com/?p=751

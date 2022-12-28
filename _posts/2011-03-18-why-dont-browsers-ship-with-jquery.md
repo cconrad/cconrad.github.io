@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Why don't browsers ship with jQuery?
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2011-03-18 12:21:52 +01:00
+date_gmt: 2011-03-18 11:21:52 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: This is really not so much a blog entry as it is a question... why don't browsers "ship" with jQuery and other common frameworks?
+title: Why don't browsers ship with jQuery?
 wordpress_id: 403
 wordpress_url: http://www.clausconrad.com/?p=403
-date: '2011-03-18 12:21:52 +0000'
-date_gmt: '2011-03-18 11:21:52 +0000'
-categories:
-- Development
-tags: []
-comments: true
-teaser: "This is really not so much a blog entry as it is a question... why don't browsers \"ship\" with jQuery and other common frameworks?"
 ---
 Years ago, browser vendors competed over JavaScript engine features, nowadays they compete over JavaScript engine performance. Thanks to cross-browser frameworks (with jQuery being the most prominent) features and compatibility are no longer an issue. Isn't it time for browser vendors to compete on features such as pre-loading different JS framework versions and replacing remote loads of these with already cached versions?
 

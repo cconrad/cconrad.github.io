@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-02-16 12:49:47 +0000
+date: 2014-02-16 12:49:47 +01:00
 date_gmt: 2014-02-16 11:49:47 +0000
 excerpt: "How to solve the error \"404 Not Found\" during Kali Linux updates:\r\n"
 header: false
@@ -18,9 +18,9 @@ published: true
 sidebar: left
 status: publish
 tags:
-- linux
-- security
-teaser: "How to solve the error \"404 Not Found\" during Kali Linux updates:"
+  - linux
+  - security
+teaser: 'How to solve the error "404 Not Found" during Kali Linux updates:'
 title: Error 404 updating Kali Linux
 wordpress_id: 756
 wordpress_url: http://www.clausconrad.com/?p=756

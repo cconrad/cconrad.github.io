@@ -1,35 +1,33 @@
 ---
-layout: page
-sidebar: left
-status: publish
-header: no
-sidebar: left
-published: true
-title: Public transport in Sweden
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
-header: no
+author_login: claus
+categories:
+  - Personal
+comments: true
+date: 2008-01-17 14:27:06 +01:00
+date_gmt: 2008-01-17 13:27:06 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - flights
+  - public transport
+  - sweden
+  - train
+  - bus
+  - plane
+  - transportation
+teaser: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
+title: Public transport in Sweden
 wordpress_id: 521
 wordpress_url: http://www.clausconrad.com/?p=521
-date: '2008-01-17 14:27:06 +0000'
-date_gmt: '2008-01-17 13:27:06 +0000'
-categories:
-- Personal
-tags:
-- flights
-- public transport
-- sweden
-- train
-- bus
-- plane
-- transportation
-comments: true
-teaser: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 ---
 Whenever possible I try to link to the English version of the pages, but some of them are in Swedish only. Just try to use the dictionaries from my list (see my story "Links: Swedish language") or ask in the forums or me if you have trouble understanding something :-)
 

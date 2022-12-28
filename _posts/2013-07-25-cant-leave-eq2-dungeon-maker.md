@@ -7,20 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Howto
+  - Howto
 comments: true
-date: 2013-07-25 12:08:56 +0000
+date: 2013-07-25 12:08:56 +02:00
 date_gmt: 2013-07-25 10:08:56 +0000
-excerpt: "When designing a dungeon in EQ2's Dungeon Maker, the \"Leave dungeon\" on
-  the Housing window might not work. Here's a workaround:\r\n"
+excerpt: "When designing a dungeon in EQ2's Dungeon Maker, the \"Leave dungeon\" on the Housing window might not work. Here's a workaround:\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- everquest2
-teaser: "When designing a dungeon in EQ2's Dungeon Maker, the \"Leave dungeon\" on the Housing window might not work. Here's a workaround:"
+  - everquest2
+teaser: 'When designing a dungeon in EQ2''s Dungeon Maker, the "Leave dungeon" on the Housing window might not work. Here''s a workaround:'
 title: Can't leave EQ2 Dungeon Maker?
 wordpress_id: 576
 wordpress_url: http://www.clausconrad.com/?p=576

@@ -1,28 +1,28 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: How to build a DB9-to-RJ45 serial cable
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2009-05-25 22:13:54 +02:00
+date_gmt: 2009-05-25 20:13:54 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - cisco
+  - hardware
+teaser: This type of cable has a female DB9 connector on one end and a male RJ45 plug on the other. It is used to connect to the serial console of older Cisco devices and Sun gear, among others.
+title: How to build a DB9-to-RJ45 serial cable
 wordpress_id: 144
 wordpress_url: http://www.clausconrad2.com/?p=144
-date: '2009-05-25 22:13:54 +0000'
-date_gmt: '2009-05-25 20:13:54 +0000'
-categories:
-- System administration
-tags:
-- cisco
-- hardware
-comments: true
-teaser: "This type of cable has a female DB9 connector on one end and a male RJ45 plug on the other. It is used to connect to the serial console of older Cisco devices and Sun gear, among others."
 ---
 | RJ45 pin | RJ45 color | DB9 pin |
 | --- | --- | --- |

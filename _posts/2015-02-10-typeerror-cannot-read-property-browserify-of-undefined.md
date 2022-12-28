@@ -7,20 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Development
+  - Development
 comments: true
-date: 2015-02-10 12:17:37 +0000
+date: 2015-02-10 12:17:37 +01:00
 date_gmt: 2015-02-10 11:17:37 +0000
-excerpt: "<p>I got this not so helpful error while using Browserify to bundle a web
-  application.</p>\r\n"
+excerpt: "<p>I got this not so helpful error while using Browserify to bundle a web application.</p>\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- browserify
-teaser: "I got this not so helpful error while using Browserify to bundle a web application."
+  - browserify
+teaser: I got this not so helpful error while using Browserify to bundle a web application.
 title: 'TypeError: Cannot read property ''browserify'' of undefined'
 wordpress_id: 820
 wordpress_url: http://www.clausconrad.com/?p=820

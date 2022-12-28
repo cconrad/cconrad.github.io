@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: A user-friendly and fast Linux for netbooks?
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2010-05-17 18:15:46 +02:00
+date_gmt: 2010-05-17 16:15:46 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: Thanks to <a href="https://www.makeuseof.com/tag/jolicloud-operating-system-download-for-netbook/">MakeUseOf</a> I discovered Jolicloud, a version of Linux optimized for netbooks.
+title: A user-friendly and fast Linux for netbooks?
 wordpress_id: 254
 wordpress_url: http://www.clausconrad.com/?p=254
-date: '2010-05-17 18:15:46 +0000'
-date_gmt: '2010-05-17 16:15:46 +0000'
-categories:
-- System administration
-tags: []
-comments: true
-teaser: "Thanks to <a href=\"https://www.makeuseof.com/tag/jolicloud-operating-system-download-for-netbook/\">MakeUseOf</a> I discovered Jolicloud, a version of Linux optimized for netbooks."
 ---
 For the last year or so I had given up on using my Asus Eee 900 for anything more than the occasional recipe surfing in the kitchen, it was simply too slow to open tabs or do any normal computer work. The original Linux wasn't too slow, but nothing near fabulous either. I tried Ubuntu Netbook Remix, which felt even more unresponsive to me. Some months ago I switched to Windows 7 just to get disappointed once more.
 

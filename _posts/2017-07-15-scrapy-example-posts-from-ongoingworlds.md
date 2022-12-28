@@ -7,21 +7,19 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Development
+  - Development
 comments: true
-date: 2017-07-15 15:26:11 +0000
+date: 2017-07-15 15:26:11 +02:00
 date_gmt: 2017-07-15 13:26:11 +0000
-excerpt: "Scrapy is a software project for fetching structured data (think spreadsheets
-  or databases) from any website. These are some notes for dummies and forgetful people
-  like me.\r\n\r\n"
+excerpt: "Scrapy is a software project for fetching structured data (think spreadsheets or databases) from any website. These are some notes for dummies and forgetful people like me.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- scrapy
-teaser: "Scrapy is a software project for fetching structured data (think spreadsheets or databases) from any website. These are some notes for dummies and forgetful people like me."
+  - scrapy
+teaser: Scrapy is a software project for fetching structured data (think spreadsheets or databases) from any website. These are some notes for dummies and forgetful people like me.
 title: 'Scrapy example: posts from OngoingWorlds'
 wordpress_id: 873
 wordpress_url: http://www.clausconrad.com/?p=873

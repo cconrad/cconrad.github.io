@@ -7,23 +7,21 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2015-12-31 19:23:33 +0000
+date: 2015-12-31 19:23:33 +01:00
 date_gmt: 2015-12-31 18:23:33 +0000
-excerpt: Just some notes-to-self on how to compile and install <a href="https://www.tarsnap.com/">tarsnap</a>
-  and <a href="https://github.com/alexjurkiewicz/acts">acts</a> on Ubuntu 14.04 and
-  its derivatives.
+excerpt: Just some notes-to-self on how to compile and install <a href="https://www.tarsnap.com/">tarsnap</a> and <a href="https://github.com/alexjurkiewicz/acts">acts</a> on Ubuntu 14.04 and its derivatives.
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- linux-mint
-- tarsnap
-- acts
-teaser: "Just some notes-to-self on how to compile and install <a href=\"https://www.tarsnap.com/\">tarsnap</a> and <a href=\"https://github.com/alexjurkiewicz/acts\">acts</a> on Ubuntu 14.04 and its derivatives."
+  - linux-mint
+  - tarsnap
+  - acts
+teaser: Just some notes-to-self on how to compile and install <a href="https://www.tarsnap.com/">tarsnap</a> and <a href="https://github.com/alexjurkiewicz/acts">acts</a> on Ubuntu 14.04 and its derivatives.
 title: Installing tarsnap on Linux Mint 17.3
 wordpress_id: 834
 wordpress_url: http://www.clausconrad.com/?p=834

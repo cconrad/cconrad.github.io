@@ -1,29 +1,29 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Drop caps in Thesis
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2010-05-17 22:36:14 +02:00
+date_gmt: 2010-05-17 20:36:14 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - wordpress
+  - thesis
+  - css
+teaser: Reading Asnio inspired me to implement drop caps on this blog, and searching for an easy way to add them I came across Miguel's post on <a href="http://webhole.net/2009/11/03/thesis-theme-tip-how-to-add-drop-caps-to-all-posts/">adding drop caps to all posts  in Thesis</a> at once.
+title: Drop caps in Thesis
 wordpress_id: 258
 wordpress_url: http://www.clausconrad.com/?p=258
-date: '2010-05-17 22:36:14 +0000'
-date_gmt: '2010-05-17 20:36:14 +0000'
-categories:
-- Development
-tags:
-- wordpress
-- thesis
-- css
-comments: true
-teaser: "Reading Asnio inspired me to implement drop caps on this blog, and searching for an easy way to add them I came across Miguel's post on <a href=\"http://webhole.net/2009/11/03/thesis-theme-tip-how-to-add-drop-caps-to-all-posts/\">adding drop caps to all posts  in Thesis</a> at once."
 ---
 Apparently, Thesis has a built-in CSS class called "drop_cap" that can be manually added to posts. Adding this class to the first letter of posts manually isn't a viable solution, Miguel writes, and I couldn't agree more - it's prone to be forgotten as well as ugly, because it violates the rule of separation of content and layout.
 

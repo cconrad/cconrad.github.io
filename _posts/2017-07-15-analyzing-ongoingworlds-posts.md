@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Personal
+  - Personal
 comments: true
-date: 2017-07-15 16:16:35 +0000
+date: 2017-07-15 16:16:35 +02:00
 date_gmt: 2017-07-15 14:16:35 +0000
 header: false
 layout: page
@@ -17,11 +17,9 @@ published: true
 sidebar: left
 status: publish
 tags:
-- ongoingworlds
-- pbem
-teaser: "The <a href=\"/blog/scrapy-example-posts-from-ongoingworlds\">previous post</a>
-  used Scrapy to extract post data from the website OngoingWorlds. Here are a few
-  conclusions from that spider crawl:\r\n"
+  - ongoingworlds
+  - pbem
+teaser: "The <a href=\"/blog/scrapy-example-posts-from-ongoingworlds\">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:\r\n"
 title: Analyzing OngoingWorlds posts
 wordpress_id: 875
 wordpress_url: http://www.clausconrad.com/?p=875

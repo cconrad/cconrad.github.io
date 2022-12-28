@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Meta description do's and don'ts
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2010-04-02 18:26:49 +02:00
+date_gmt: 2010-04-02 16:26:49 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - seo
+title: Meta description do's and don'ts
 wordpress_id: 70
 wordpress_url: http://www.clausconrad2.com/?p=70
-date: '2010-04-02 18:26:49 +0000'
-date_gmt: '2010-04-02 16:26:49 +0000'
-categories:
-- Development
-tags:
-- seo
-comments: true
 ---
 ### Do:
 

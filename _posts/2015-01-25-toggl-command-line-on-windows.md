@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Howto
+  - Howto
 comments: true
-date: 2015-01-25 10:00:05 +0000
+date: 2015-01-25 10:00:05 +01:00
 date_gmt: 2015-01-25 09:00:05 +0000
 excerpt: "How to run toggl-cli on Windows (using Git bash):\r\n\r\n"
 header: false
@@ -18,12 +18,12 @@ published: true
 sidebar: left
 status: publish
 tags:
-- productivity
-- windows
-- toggl
-- cli
-- bash
-teaser: "How to run toggl-cli on Windows (using Git bash):"
+  - productivity
+  - windows
+  - toggl
+  - cli
+  - bash
+teaser: 'How to run toggl-cli on Windows (using Git bash):'
 title: Toggl command line on Windows
 wordpress_id: 818
 wordpress_url: http://www.clausconrad.com/?p=818

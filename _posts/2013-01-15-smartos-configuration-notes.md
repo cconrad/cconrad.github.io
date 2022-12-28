@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: SmartOS configuration notes
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2013-01-15 14:07:37 +01:00
+date_gmt: 2013-01-15 13:07:37 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - smartos
+teaser: Some notes about my experimentations with SmartOS (for personal use).
+title: SmartOS configuration notes
 wordpress_id: 504
 wordpress_url: http://www.clausconrad.com/?p=504
-date: '2013-01-15 14:07:37 +0000'
-date_gmt: '2013-01-15 13:07:37 +0000'
-categories:
-- System administration
-tags:
-- smartos
-comments: true
-teaser: Some notes about my experimentations with SmartOS (for personal use).
 ---
 *   **Change keymap**  
     Default is US, to change, add a line to /usbkey/config like this:  

@@ -1,25 +1,25 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Migrating a bunch of WordPress blogs to a single WordPress 3.0 multi-site installation
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2010-06-13 01:22:38 +02:00
+date_gmt: 2010-06-12 23:22:38 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+title: Migrating a bunch of WordPress blogs to a single WordPress 3.0 multi-site installation
 wordpress_id: 295
 wordpress_url: http://www.clausconrad.com/?p=295
-date: '2010-06-13 01:22:38 +0000'
-date_gmt: '2010-06-12 23:22:38 +0000'
-categories:
-- System administration
-tags: []
-comments: true
 ---
 ## General setup:
 

@@ -7,25 +7,23 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Development
+  - Development
 comments: true
-date: 2014-01-21 19:37:29 +0000
+date: 2014-01-21 19:37:29 +01:00
 date_gmt: 2014-01-21 18:37:29 +0000
-excerpt: "As a newbie to Django, getting an empty page in the Facebook canvas tricked
-  me up quite a bit. Here are some reasons for getting a blank canvas, even though
-  your app works when accessed directly.\r\n\r\n"
+excerpt: "As a newbie to Django, getting an empty page in the Facebook canvas tricked me up quite a bit. Here are some reasons for getting a blank canvas, even though your app works when accessed directly.\r\n\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- development
-- facebook
-- django
-- web
-- canvas
-teaser: "As a newbie to Django, getting an empty page in the Facebook canvas tricked me up quite a bit. Here are some reasons for getting a blank canvas, even though your app works when accessed directly."
+  - development
+  - facebook
+  - django
+  - web
+  - canvas
+teaser: As a newbie to Django, getting an empty page in the Facebook canvas tricked me up quite a bit. Here are some reasons for getting a blank canvas, even though your app works when accessed directly.
 title: Django app as Facebook canvas app
 wordpress_id: 741
 wordpress_url: http://www.clausconrad.com/?p=741

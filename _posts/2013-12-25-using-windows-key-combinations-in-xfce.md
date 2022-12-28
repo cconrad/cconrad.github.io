@@ -7,23 +7,22 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-25 13:09:43 +0000
+date: 2013-12-25 13:09:43 +01:00
 date_gmt: 2013-12-25 12:09:43 +0000
-excerpt: "<p>Here's a quick trick for conveniently launching applications using the
-  Windows key plus another key in Xfce4:</p>\r\n"
+excerpt: "<p>Here's a quick trick for conveniently launching applications using the Windows key plus another key in Xfce4:</p>\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- productivity
-- xfce
-- keyboard
-- whisker-menu
-teaser: "Here's a quick trick for conveniently launching applications using the Windows key plus another key in Xfce4:"
+  - productivity
+  - xfce
+  - keyboard
+  - whisker-menu
+teaser: 'Here''s a quick trick for conveniently launching applications using the Windows key plus another key in Xfce4:'
 title: Using Windows key combinations in Xfce
 wordpress_id: 674
 wordpress_url: http://www.clausconrad.com/?p=674

@@ -7,21 +7,20 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2013-12-29 17:20:55 +0000
+date: 2013-12-29 17:20:55 +01:00
 date_gmt: 2013-12-29 16:20:55 +0000
-excerpt: "<p>Here's a little wrapper script I wrote to let BackupPC archive onto a
-  SFTP server.</p>\r\n"
+excerpt: "<p>Here's a little wrapper script I wrote to let BackupPC archive onto a SFTP server.</p>\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags:
-- backuppc
-- remote
-teaser: "Here's a little wrapper script I wrote to let BackupPC archive onto a SFTP server."
+  - backuppc
+  - remote
+teaser: Here's a little wrapper script I wrote to let BackupPC archive onto a SFTP server.
 title: Using BackupPC to archive backups via SFTP
 wordpress_id: 719
 wordpress_url: http://www.clausconrad.com/?p=719

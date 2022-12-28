@@ -1,29 +1,29 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Diigo backup script
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Uncategorized
+comments: true
+date: 2013-04-07 19:05:53 +02:00
+date_gmt: 2013-04-07 17:05:53 +0000
 excerpt: A simple script to backup your Diigo bookmarks to a JSON file.
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - backup
+  - opensource
+  - python
+teaser: A simple script to backup your Diigo bookmarks to a JSON file.
+title: Diigo backup script
 wordpress_id: 541
 wordpress_url: http://www.clausconrad.com/?p=541
-date: '2013-04-07 19:05:53 +0000'
-date_gmt: '2013-04-07 17:05:53 +0000'
-categories:
-- Uncategorized
-tags:
-- backup
-- opensource
-- python
-comments: true
-teaser: "A simple script to backup your Diigo bookmarks to a JSON file."
 ---
 Download/contribute: [https://github.com/cconrad/diigo-backup](https://github.com/cconrad/diigo-backup)

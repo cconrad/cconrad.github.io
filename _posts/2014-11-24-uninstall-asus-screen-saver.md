@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2014-11-24 20:29:59 +0000
+date: 2014-11-24 20:29:59 +01:00
 date_gmt: 2014-11-24 19:29:59 +0000
 excerpt: Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook.
 header: false
@@ -18,9 +18,9 @@ published: true
 sidebar: left
 status: publish
 tags:
-- hardware
-- windows
-teaser: "Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook."
+  - hardware
+  - windows
+teaser: Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook.
 title: Uninstall "Asus Screen Saver"
 wordpress_id: 798
 wordpress_url: http://www.clausconrad.com/?p=798

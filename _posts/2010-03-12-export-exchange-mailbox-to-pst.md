@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Export Exchange mailbox to PST
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2010-03-12 12:04:56 +01:00
+date_gmt: 2010-03-12 11:04:56 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - exchange
+teaser: 'How to export a mailbox from Exchange 2007 SP1 to a PST file:'
+title: Export Exchange mailbox to PST
 wordpress_id: 72
 wordpress_url: http://www.clausconrad2.com/?p=72
-date: '2010-03-12 12:04:56 +0000'
-date_gmt: '2010-03-12 11:04:56 +0000'
-categories:
-- System administration
-tags:
-- exchange
-comments: true
-teaser: "How to export a mailbox from Exchange 2007 SP1 to a PST file:"
 ---
 1.  Prerequisites:  
     You will need a machine with a 32-bit version of Windows (Windows 7 is fine) and Outlook 2003 or 2007.  

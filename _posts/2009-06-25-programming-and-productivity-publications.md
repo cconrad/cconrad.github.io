@@ -1,26 +1,26 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Programming and productivity publications
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2009-06-25 20:25:39 +02:00
+date_gmt: 2009-06-25 18:25:39 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags: []
+teaser: Scott Hanselman recently wrote up a list of "<a href="https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books">Six Essential Language Agnostic Programming Books</a>". That list, including the comments with other suggestions, is certainly worth a look. I have to admit that I haven't read most of what he lists, and only skimmed others.
+title: Programming and productivity publications
 wordpress_id: 443
 wordpress_url: http://www.clausconrad.com/?p=443
-date: '2009-06-25 20:25:39 +0000'
-date_gmt: '2009-06-25 18:25:39 +0000'
-categories:
-- Development
-tags: []
-comments: true
-teaser: "Scott Hanselman recently wrote up a list of \"<a href=\"https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books\">Six Essential Language Agnostic Programming Books</a>\". That list, including the comments with other suggestions, is certainly worth a look. I have to admit that I haven't read most of what he lists, and only skimmed others."
 ---
 Instead of trying to add to his list, here I think a little broader than just programming: which books and other media have had an impact on my professional or general productivity?
 

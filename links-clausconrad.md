@@ -1,8 +1,8 @@
 ---
-header: no
+header: 'no'
 layout: page
 permalink: /links/clausconrad
-title: "Links: Claus Conrad"
+title: 'Links: Claus Conrad'
 ---
 [Facebook](https://www.facebook.com/clausconrad)
 

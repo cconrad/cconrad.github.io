@@ -1,29 +1,29 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Check for WordPress updates from the outside
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - System administration
+comments: true
+date: 2013-03-31 18:45:07 +02:00
+date_gmt: 2013-03-31 16:45:07 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - wordpress
+  - opensource
+  - jenkins
+teaser: '"wp-external-update-check" is a small WordPress plugin that lets you check your WordPress site(s) for updates.'
+title: Check for WordPress updates from the outside
 wordpress_id: 539
 wordpress_url: http://www.clausconrad.com/?p=539
-date: '2013-03-31 18:45:07 +0000'
-date_gmt: '2013-03-31 16:45:07 +0000'
-categories:
-- System administration
-tags:
-- wordpress
-- opensource
-- jenkins
-comments: true
-teaser: "\"wp-external-update-check\" is a small WordPress plugin that lets you check your WordPress site(s) for updates."
 ---
 It provides a secret URL to check for updates to the WordPress core, plugins and themes, without requiring cookie-based authentication. It is meant to be used from external monitoring or continous integration systems.
 

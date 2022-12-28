@@ -1,28 +1,28 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Debugging Pyramid with PyCharm
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Development
+comments: true
+date: 2011-01-30 19:45:10 +01:00
+date_gmt: 2011-01-30 18:45:10 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - pyramid
+  - pycharm
+teaser: I recently came across the PyCharm IDE and almost instantly fell in love.
+title: Debugging Pyramid with PyCharm
 wordpress_id: 373
 wordpress_url: http://www.clausconrad.com/?p=373
-date: '2011-01-30 19:45:10 +0000'
-date_gmt: '2011-01-30 18:45:10 +0000'
-categories:
-- Development
-tags:
-- pyramid
-- pycharm
-comments: True
-teaser: I recently came across the PyCharm IDE and almost instantly fell in love. 
 ---
 PyCharm is made by JetBrains, the developers of IntelliJ IDEA and ReSharper - these guys have proven their ability to create full-featured, developer-friendly IDEs in the past and its obvious they used their knowledge to create PyCharm, too.
 

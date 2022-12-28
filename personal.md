@@ -1,5 +1,5 @@
 ---
-header: no
+header: 'no'
 layout: page
 permalink: /blog/category/personal
 title: Personal

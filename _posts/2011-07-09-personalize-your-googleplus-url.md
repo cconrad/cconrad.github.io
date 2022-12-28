@@ -1,27 +1,27 @@
 ---
-layout: page
-status: publish
-header: no
-sidebar: left
-published: true
-title: Personalize your Google+ URL
 author:
   display_name: Claus Conrad
-  login: claus
   email: webmaster@clausconrad.com
+  login: claus
   url: ''
-author_login: claus
 author_email: webmaster@clausconrad.com
+author_login: claus
+categories:
+  - Howto
+comments: true
+date: 2011-07-09 20:00:18 +02:00
+date_gmt: 2011-07-09 18:00:18 +0000
+header: 'no'
+layout: page
+published: true
+sidebar: left
+status: publish
+tags:
+  - google+
+teaser: Shortly after the launch of the Google+ project, GPlus.to began to offer personal URLs to Google+ profiles. If you have your own domain, here's a way to an even more personalized Google+ profile URL.
+title: Personalize your Google+ URL
 wordpress_id: 432
 wordpress_url: http://www.clausconrad.com/?p=432
-date: '2011-07-09 20:00:18 +0000'
-date_gmt: '2011-07-09 18:00:18 +0000'
-categories:
-- Howto
-tags:
-- google+
-comments: true
-teaser: "Shortly after the launch of the Google+ project, GPlus.to began to offer personal URLs to Google+ profiles. If you have your own domain, here's a way to an even more personalized Google+ profile URL."
 ---
 Credits for this idea should go to [Thomas Rosenstand](https://www.concept-i.dk/) instead of me. Redirect www.yourdomain.com/+ to your Google+ profile - if your web server runs Apache, this can be achieved by inserting the following line in the domains `.htaccess` file or the servers `httpd.conf` (`apache2.conf` on Debian-based operating systems, such as Ubuntu):
 

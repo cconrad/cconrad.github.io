@@ -7,20 +7,18 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- Personal
+  - Personal
 comments: true
-date: 2013-09-22 02:10:39 +0000
+date: 2013-09-22 02:10:39 +02:00
 date_gmt: 2013-09-22 00:10:39 +0000
-excerpt: "I have used most types of operating systems throughout the years. For those
-  not interested in a little history, please skip this entry. Otherwise, read more
-  after the break.\r\n"
+excerpt: "I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break.\r\n"
 header: false
 layout: page
 published: true
 sidebar: left
 status: publish
 tags: []
-teaser: "I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break."
+teaser: I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break.
 title: My hardware and OS history
 wordpress_id: 599
 wordpress_url: http://www.clausconrad.com/?p=599

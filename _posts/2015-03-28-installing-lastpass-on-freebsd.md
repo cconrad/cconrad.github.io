@@ -7,9 +7,9 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 categories:
-- System administration
+  - System administration
 comments: true
-date: 2015-03-28 14:09:20 +0000
+date: 2015-03-28 14:09:20 +01:00
 date_gmt: 2015-03-28 13:09:20 +0000
 header: false
 layout: page
@@ -17,9 +17,9 @@ published: true
 sidebar: left
 status: publish
 tags:
-- freebsd
-- lastpass
-teaser: "Chromium: LastPass is available in the store, works fine."
+  - freebsd
+  - lastpass
+teaser: 'Chromium: LastPass is available in the store, works fine.'
 title: Installing LastPass on FreeBSD
 wordpress_id: 825
 wordpress_url: http://www.clausconrad.com/?p=825
