@@ -13,7 +13,7 @@ date: 2013-04-07 19:05:53 +02:00
 date_gmt: 2013-04-07 17:05:53 +0000
 excerpt: A simple script to backup your Diigo bookmarks to a JSON file.
 header: 'no'
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

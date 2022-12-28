@@ -13,7 +13,7 @@ date: 2015-08-22 18:05:30 +02:00
 date_gmt: 2015-08-22 16:05:30 +0000
 excerpt: "Got the dreaded <em>could not create shared memory segment</em> error again after upgrading my jail (now managed by iocage, but I had the same issue using ezjail previously) with PostgreSQL to FreeBSD 10.2-RELEASE. Here's how I fixed it this time:\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

@@ -13,7 +13,7 @@ date: 2014-11-24 20:29:59 +01:00
 date_gmt: 2014-11-24 19:29:59 +0000
 excerpt: Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook.
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

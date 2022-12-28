@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.liquid
 format: video
 ---
 <div class="row">
@@ -28,7 +28,7 @@ format: video
 
 					{{ content }}
 					{% if page.show_meta == true %}
-					{% include _meta_information.html %}
+					{% include "_meta_information.liquid" %}
 					{% endif %}
 				</div><!-- /.medium-8.columns -->
 			</div><!-- /.row -->

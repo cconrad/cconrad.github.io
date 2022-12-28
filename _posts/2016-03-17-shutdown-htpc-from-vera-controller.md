@@ -13,7 +13,7 @@ date: 2016-03-17 20:31:45 +01:00
 date_gmt: 2016-03-17 19:31:45 +0000
 excerpt: "Here's how I configured my girlfriend's Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

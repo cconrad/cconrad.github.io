@@ -13,7 +13,7 @@ date: 2015-10-17 19:15:13 +02:00
 date_gmt: 2015-10-17 17:15:13 +0000
 excerpt: "The default display manager of Manjaro XFCE Edition, version 2015.09, is <a href=\"https://wiki.manjaro.org/index.php/Install_Display_Managers#LightDM\">LightDM</a>.\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

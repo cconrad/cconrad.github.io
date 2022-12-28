@@ -13,7 +13,7 @@ date: 2014-09-28 20:10:35 +02:00
 date_gmt: 2014-09-28 18:10:35 +0000
 excerpt: I have been running <a href="https://backuppc.github.io/backuppc/">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC.
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

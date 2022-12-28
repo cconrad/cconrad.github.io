@@ -13,7 +13,7 @@ date: 2013-12-10 09:41:34 +01:00
 date_gmt: 2013-12-10 08:41:34 +0000
 excerpt: "How to avoid having to wait for Manjaro to auto-connect to your iPhone's hotspot, when you activate tethering:\r\n\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

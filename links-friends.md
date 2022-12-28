@@ -1,6 +1,6 @@
 ---
 header: 'no'
-layout: page
+layout: page.liquid
 permalink: /links/friends
 title: 'Recommended links: Family & Friends'
 ---

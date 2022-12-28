@@ -13,7 +13,7 @@ date: 2015-12-31 19:23:33 +01:00
 date_gmt: 2015-12-31 18:23:33 +0000
 excerpt: Just some notes-to-self on how to compile and install <a href="https://www.tarsnap.com/">tarsnap</a> and <a href="https://github.com/alexjurkiewicz/acts">acts</a> on Ubuntu 14.04 and its derivatives.
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

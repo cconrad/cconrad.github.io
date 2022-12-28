@@ -1,8 +1,8 @@
 <aside>
     <div class="panel radius">
         <h3>Search this site</h3>
-        {% include _google_search.html %}
+        {% include "_google_search.liquid" %}
         <h3>Recent articles</h3>
-        {% include list-posts entries='5' offset='1' %}
+        {% include "list-posts.liquid" entries:'5' offset:'1' %}
     </div>
 </aside>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.liquid
 format: post
 ---
 <div class="row t30">
@@ -40,11 +40,11 @@ format: post
 			</span>
 
 			{% if page.show_meta == true %}
-			{% include _meta_information.html %}
+			{% include "_meta_information.liquid" %}
 			{% endif %}
 
 			{% if page.comments == true %}
-			{% include _comments.html %}
+			{% include "_comments.liquid" %}
 			{% endif %}
 		</article>
 	</div><!-- /.medium-8.columns -->
@@ -52,14 +52,14 @@ format: post
 
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">
-		{% include _sidebar.html %}
+		{% include "_sidebar.liquid" %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
 
 	{% if page.sidebar == "right" %}
 	<div class="medium-4 columns">
-		{% include _sidebar.html %}
+		{% include "_sidebar.liquid" %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->

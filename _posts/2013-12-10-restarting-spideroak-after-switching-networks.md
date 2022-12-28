@@ -13,7 +13,7 @@ date: 2013-12-10 13:07:15 +01:00
 date_gmt: 2013-12-10 12:07:15 +0000
 excerpt: "<p>When disconnecting from a network and reconnecting later, SpiderOak always stays \"disconnected\" here and doesn't backup any more files. Here's a simple script I run in that case:</p>\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

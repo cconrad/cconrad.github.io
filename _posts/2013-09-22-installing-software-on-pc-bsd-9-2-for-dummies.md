@@ -13,7 +13,7 @@ date: 2013-09-22 03:02:12 +02:00
 date_gmt: 2013-09-22 01:02:12 +0000
 excerpt: "I am currently learning my way around PC-BSD 9.2. Read more about why and my findings after the break.\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

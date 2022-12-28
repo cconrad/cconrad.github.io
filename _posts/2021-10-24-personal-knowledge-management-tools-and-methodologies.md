@@ -13,7 +13,7 @@ date: 2021-10-24 14:10:41 +02:00
 date_gmt: 2021-10-24 12:10:41 +0000
 excerpt: I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far.
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

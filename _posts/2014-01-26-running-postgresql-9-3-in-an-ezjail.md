@@ -13,7 +13,7 @@ date: 2014-01-26 18:34:55 +01:00
 date_gmt: 2014-01-26 17:34:55 +0000
 excerpt: "To get this working I had to follow these steps:\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

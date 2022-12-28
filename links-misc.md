@@ -1,6 +1,6 @@
 ---
 header: 'no'
-layout: page
+layout: page.liquid
 permalink: /links/misc
 title: 'Recommended links: Miscellaneous'
 ---

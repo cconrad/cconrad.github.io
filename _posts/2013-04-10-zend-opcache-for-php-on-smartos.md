@@ -13,7 +13,7 @@ date: 2013-04-10 21:14:12 +02:00
 date_gmt: 2013-04-10 19:14:12 +0000
 excerpt: Installing an opcode cache such as Zend OPcache is a simple way to improve your PHP's performance on SmartOS. Here's how.
 header: 'no'
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.liquid
 format: blog-index
 ---
 <div id="header-home">
@@ -17,17 +17,17 @@ format: blog-index
 {% endcomment %}
 <div class="row t60">
 	{% if page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
+		{% include "_frontpage-widget.liquid" widget:page.widget1 %}
 	{% endif %}
 
 
 	{% if page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
+		{% include "_frontpage-widget.liquid" widget:page.widget2 %}
 	{% endif %}
 
 
 	{% if page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
+		{% include "_frontpage-widget.liquid" widget:page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
 
@@ -96,7 +96,7 @@ format: blog-index
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include "list-posts.liquid" entries:'3' offset:'1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}

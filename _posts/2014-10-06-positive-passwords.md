@@ -13,7 +13,7 @@ date: 2014-10-06 07:42:04 +02:00
 date_gmt: 2014-10-06 05:42:04 +0000
 excerpt: "If you believe in the power of positive affirmations, why not combine it with the security of strong passwords?\r\n\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

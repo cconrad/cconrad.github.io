@@ -1,6 +1,6 @@
 ---
 header: 'no'
-layout: page
+layout: page.liquid
 permalink: /blog/category/howto/
 title: Howto
 ---

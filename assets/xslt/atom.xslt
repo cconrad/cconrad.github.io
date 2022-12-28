@@ -1,5 +1,5 @@
 ---
-layout: xml-style
+layout: xml-style.liquid
 title: "Atom Feed (Styled)"
 sitemap:
   exclude: true

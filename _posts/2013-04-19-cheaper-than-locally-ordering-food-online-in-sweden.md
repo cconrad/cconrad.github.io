@@ -13,7 +13,7 @@ date: 2013-04-19 14:49:36 +02:00
 date_gmt: 2013-04-19 12:49:36 +0000
 excerpt: "You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALDI or LIDL?\r\n\r\nRead on -&nbsp;there might be cheaper alternatives to buy some of your food!"
 header: 'no'
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

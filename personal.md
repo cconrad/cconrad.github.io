@@ -1,7 +1,7 @@
 ---
 header: 'no'
-layout: page
+layout: page.liquid
 permalink: /blog/category/personal
 title: Personal
 ---
-{% include list-posts category='Personal' %}
+{% include "list-posts.liquid" category:'Personal' %}

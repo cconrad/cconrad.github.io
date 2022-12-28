@@ -1,6 +1,5 @@
 ---
 breadcrumbs: true
-layout: null
 source: https://www.evagoras.com/2011/02/10/improving-an-xml-feed-display-through-css-and-xslt/
 ---
 <?xml version="1.0" encoding="UTF-8"?>
@@ -11,19 +10,19 @@ source: https://www.evagoras.com/2011/02/10/improving-an-xml-feed-display-throug
 	<html>
 	<head>
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-		{% include _head.html %}
+		{% include "_head.liquid" %}
 		]]></xsl:text>
 	</head>
 	<body id="top-of-page">
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-		{% include _navigation.html %}
-		{% include _masthead.html %}
-		{% include alert warning=page.disclaimer classes="text-center" %}
+		{% include "_navigation.liquid" %}
+		{% include "_masthead.liquid" %}
+		{% include "alert.liquid" warning:page.disclaimer classes:"text-center" %}
 		]]></xsl:text>
 		{{ content }}
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-		{% include _footer.html %}
-		{% include _footer_scripts.html %}
+		{% include "_footer.liquid" %}
+		{% include "_footer_scripts.liquid" %}
 		]]></xsl:text>
 	</body>
 	</html>

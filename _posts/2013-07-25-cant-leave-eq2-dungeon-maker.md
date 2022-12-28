@@ -13,7 +13,7 @@ date: 2013-07-25 12:08:56 +02:00
 date_gmt: 2013-07-25 10:08:56 +0000
 excerpt: "When designing a dungeon in EQ2's Dungeon Maker, the \"Leave dungeon\" on the Housing window might not work. Here's a workaround:\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

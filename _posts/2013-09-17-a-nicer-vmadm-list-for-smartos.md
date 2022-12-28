@@ -13,7 +13,7 @@ date: 2013-09-17 09:44:38 +02:00
 date_gmt: 2013-09-17 07:44:38 +0000
 excerpt: "The default output of <code>vmadm list</code> in SmartOS can be a little hard to read (especially if you, like me, use long aliases for your zones). Here is a little Python script that formats the list of VMs for a more user-friendly output.\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

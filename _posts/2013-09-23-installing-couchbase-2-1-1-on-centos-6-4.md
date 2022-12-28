@@ -13,7 +13,7 @@ date: 2013-09-23 14:03:12 +02:00
 date_gmt: 2013-09-23 12:03:12 +0000
 excerpt: "The installation instructions at couchbase.com can result in error messages when installing 2.1.1 on CentOS. Here's how to resolve those.\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

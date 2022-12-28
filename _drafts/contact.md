@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.liquid
 title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""

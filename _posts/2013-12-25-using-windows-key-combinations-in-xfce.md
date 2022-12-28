@@ -13,7 +13,7 @@ date: 2013-12-25 13:09:43 +01:00
 date_gmt: 2013-12-25 12:09:43 +0000
 excerpt: "<p>Here's a quick trick for conveniently launching applications using the Windows key plus another key in Xfce4:</p>\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

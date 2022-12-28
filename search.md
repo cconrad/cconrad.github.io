@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page.liquid
 permalink: /search/
 title: Search
 ---
 
-{% include _google_search.html %}
+{% include "_google_search.liquid" %}

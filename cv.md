@@ -1,6 +1,6 @@
 ---
 header: no
-layout: page
+layout: page.liquid
 title: Curriculum vitae
 ---
 ### Resume

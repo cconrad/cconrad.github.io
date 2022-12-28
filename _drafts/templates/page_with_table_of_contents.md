@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page-fullwidth.liquid
 #
 # Content
 #

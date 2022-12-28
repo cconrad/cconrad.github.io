@@ -1,5 +1,5 @@
 ---
-layout: xml-style
+layout: xml-style.liquid
 title: "RSS Feed (Styled)"
 header: false
 sitemap:

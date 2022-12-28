@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.liquid
 #
 # Content
 #
@@ -32,4 +32,4 @@ permalink:
 #      caption: Description – not necessary
 ---
 
-{% include gallery %}
+{% include "gallery.liquid" %}

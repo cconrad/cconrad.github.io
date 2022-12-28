@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: video.liquid
 #
 # Content
 #

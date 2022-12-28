@@ -13,7 +13,7 @@ date: 2013-12-23 20:33:36 +01:00
 date_gmt: 2013-12-23 19:33:36 +0000
 excerpt: "<p>Some personal notes about troubleshooting audio problems with HDMI out on a HTPC running Arch Linux.</p>\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

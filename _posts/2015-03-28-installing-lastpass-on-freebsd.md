@@ -12,7 +12,7 @@ comments: true
 date: 2015-03-28 14:09:20 +01:00
 date_gmt: 2015-03-28 13:09:20 +0000
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

@@ -13,7 +13,7 @@ date: 2014-01-09 19:08:56 +01:00
 date_gmt: 2014-01-09 18:08:56 +0000
 excerpt: "How to set up a simple firewall on your Manjaro-powered laptop or desktop computer.\r\n\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

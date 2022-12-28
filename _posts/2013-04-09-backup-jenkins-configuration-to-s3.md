@@ -13,7 +13,7 @@ date: 2013-04-09 15:33:16 +02:00
 date_gmt: 2013-04-09 13:33:16 +0000
 excerpt: Here's a simple Jenkins job that backs up your Jenkins configuration (i.e. job definitions) to Amazon S3.
 header: 'no'
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

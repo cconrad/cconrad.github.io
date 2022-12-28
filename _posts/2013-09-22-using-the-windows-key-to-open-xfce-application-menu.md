@@ -13,7 +13,7 @@ date: 2013-09-22 17:37:04 +02:00
 date_gmt: 2013-09-22 15:37:04 +0000
 excerpt: "How to open your Xfce's application menu using the Windows key in three easy steps:\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

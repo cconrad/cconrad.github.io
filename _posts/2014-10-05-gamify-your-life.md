@@ -13,7 +13,7 @@ date: 2014-10-05 22:02:48 +02:00
 date_gmt: 2014-10-05 20:02:48 +0000
 excerpt: "I realize this is a very short blog post, but I just wanted to point anyone interested at this link:\r\n\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

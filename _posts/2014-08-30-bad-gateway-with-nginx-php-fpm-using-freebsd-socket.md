@@ -13,7 +13,7 @@ date: 2014-08-30 15:58:40 +02:00
 date_gmt: 2014-08-30 13:58:40 +0000
 excerpt: "After updating a FreeBSD jail I got the dreaded \"502 Bad gateway\" error from nginx, here's how I fixed it:\r\n\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

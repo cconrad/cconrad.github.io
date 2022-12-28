@@ -13,7 +13,7 @@ date: 2017-07-15 15:26:11 +02:00
 date_gmt: 2017-07-15 13:26:11 +0000
 excerpt: "Scrapy is a software project for fetching structured data (think spreadsheets or databases) from any website. These are some notes for dummies and forgetful people like me.\r\n\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

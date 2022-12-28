@@ -13,7 +13,7 @@ date: 2013-12-29 17:20:55 +01:00
 date_gmt: 2013-12-29 16:20:55 +0000
 excerpt: "<p>Here's a little wrapper script I wrote to let BackupPC archive onto a SFTP server.</p>\r\n"
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

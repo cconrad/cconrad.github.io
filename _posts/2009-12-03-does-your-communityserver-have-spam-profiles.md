@@ -12,7 +12,7 @@ comments: true
 date: 2009-12-03 20:25:17 +01:00
 date_gmt: 2009-12-03 19:25:17 +0000
 header: 'no'
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

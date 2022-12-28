@@ -13,7 +13,7 @@ date: 2013-06-03 10:46:18 +02:00
 date_gmt: 2013-06-03 08:46:18 +0000
 excerpt: A list of some IPS package repositories for OmniOS, OpenIndiana and/or OpenSolaris.
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

@@ -13,7 +13,7 @@ date: 2021-10-17 18:51:41 +02:00
 date_gmt: 2021-10-17 16:51:41 +0000
 excerpt: For the first time, all my SaltStack minions at home are turned on and reachable concurrently.
 header: false
-layout: page
+layout: page.liquid
 published: true
 sidebar: left
 status: publish

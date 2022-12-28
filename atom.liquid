@@ -1,5 +1,4 @@
 ---
-layout: null
 permalink: /atom.xml
 title: Atom Feed
 ---
@@ -8,24 +7,24 @@ title: Atom Feed
 <?xml-stylesheet type="text/css" href="{{ site.baseurl }}/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>{{ site.url }}{{ site.baseurl }}/</id>
-	<title>{{ site.title | xml_escape }}</title>
+	<title>{{ site.title }}</title>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 
-	<subtitle>{{ site.description | xml_escape }}</subtitle>
+	<subtitle>{{ site.description }}</subtitle>
 
 	{% if site.author %}
 		{% assign author = site.data.authors[site.author] %}
 		<author>
 			{% if author.name %}
-				<name>{{ author.name | xml_escape }}</name>
+				<name>{{ author.name }}</name>
 			{% else %}
-				<name>{{ site.author | xml_escape }}</name>
+				<name>{{ site.author }}</name>
 			{% endif %}
 			{% if author.email %}
-				<email>{{ author.email | xml_escape }}</email>
+				<email>{{ author.email }}</email>
 			{% endif %}
 			{% if author.uri %}
-				<uri>{{ author.uri | xml_escape }}</uri>
+				<uri>{{ author.uri }}</uri>
 			{% endif %}
 		</author>
 	{% endif %}
@@ -38,34 +37,34 @@ title: Atom Feed
 	{% for post in site.posts limit: 10 %}
 		<entry>
 			<id>{{ site.url }}{{ site.baseurl }}{{ post.url }}</id>
-			<title>{{ post.title | strip_html | strip_newlines | xml_escape }}</title>
-			<link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+			<title>{{ post.title | strip_html | strip_newlines }}</title>
+			<link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title }}" />
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 
 			{% if post.author %}
 				{% assign author = site.data.authors[post.author] %}
 				<author>
 					{% if author.name %}
-						<name>{{ author.name | xml_escape }}</name>
+						<name>{{ author.name }}</name>
 					{% else %}
-						<name>{{ post.author | xml_escape }}</name>
+						<name>{{ post.author }}</name>
 					{% endif %}
 					{% if author.email %}
-						<email>{{ author.email | xml_escape }}</email>
+						<email>{{ author.email }}</email>
 					{% endif %}
 					{% if author.uri %}
-						<uri>{{ author.uri | xml_escape }}</uri>
+						<uri>{{ author.uri }}</uri>
 					{% endif %}
 				</author>
 			{% endif %}
-			<summary>{{ post.teaser | xml_escape }}</summary>
-			<content type="html" xml:base="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.content | xml_escape }}</content>
+			<summary>{{ post.teaser }}</summary>
+			<content type="html" xml:base="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.content }}</content>
 
 			{% for category in post.categories %}
-				<category term="{{ category | xml_escape }}" />
+				<category term="{{ category }}" />
 			{% endfor %}
 			{% for tag in post.tags %}
-				<category term="{{ tag | xml_escape }}" />
+				<category term="{{ tag }}" />
 			{% endfor %}
 
 			<published>{{ post.date | date_to_xmlschema }}</published>
