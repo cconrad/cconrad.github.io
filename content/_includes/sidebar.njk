@@ -4,7 +4,7 @@
             <img alt="{{ siteconfig.imageAlt }}" src="{{ siteconfig.image }}" class="rounded-full h-36 border dark:border-gray-100 border-indigo-600" height="144px" width="144px" />
         </a>
         <div class="text-center font-semibold pt-6 text-gray-400">
-            <a href="/" class="mx-auto">{{ siteconfig.title }}</a>
+            <a href="/" class="mx-auto">{{ siteconfig.prettyTitle }}</a>
         </div>
         <div class="text-center text-sm pt-3 text-gray-400">
             {{ siteconfig.description }}
@@ -13,16 +13,22 @@
     <div class="menu">
         <ul class="list-none pl-0">
             <li class="navitem text-center uppercase {{ page.url | isHomeLink('/') }}">
-                <a href="/" class="block no-underline">Posts</a>
+                <a href="/" class="block no-underline">Blog</a>
             </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/who') }}">
-                <a href="/who/" class="block no-underline">Who</a>
+            <li class="navitem text-center {{ page.url | isActiveLink('/blog/category/howto/development/') }}">
+                <a href="/blog/category/howto/development/" class="block no-underline">Development</a>
             </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/why') }}">
-                <a href="/why/" class="block no-underline">Why</a>
+            <li class="navitem text-center {{ page.url | isActiveLink('/blog/category/howto/system-administration/') }}">
+                <a href="/blog/category/howto/system-administration/" class="block no-underline">System administration</a>
             </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/archive') }}">
-                <a href="/archive/" class="block no-underline">Archive</a>
+            <li class="navitem text-center {{ page.url | isActiveLink('/blog/category/personal/') }}">
+                <a href="/blog/category/personal/" class="block no-underline">Personal</a>
+            </li>
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/links/friends/') }}">
+                <a href="/links/friends/" class="block no-underline">Friends</a>
+            </li>
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/cv/') }}">
+                <a href="/cv/" class="block no-underline">CV</a>
             </li>
         </ul>
     </div>
@@ -87,23 +93,7 @@
             </svg>
         </a>
         {% endif %}
-        {% if siteconfig.socialTwitter %}
-        <a href="https://twitter.com/{{ siteconfig.socialTwitter }}" aria-label="Open Twitter profile"  target="_blank" class="w-5 h-5" rel="noopener">
-            <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <title>Twitter icon</title>
-                <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
-            </svg>
-        </a>
-        {% endif %}
-        {% if siteconfig.socialYouTube %}
-        <a href="https://www.youtube.com/channel/{{ siteconfig.socialYouTube }}" aria-label="Open YouTube channel"  target="_blank" class="w-5 h-5" rel="noopener">
-            <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="p-0.5">
-                <title>YouTube icon</title> 
-                <path d="M23.498,3.186 C23.2220635,2.14660344 22.4135596,1.33276534 21.376,1.05 C19.505,0.545 12,0.545 12,0.545 C12,0.545 4.495,0.545 2.623,1.05 C1.5859324,1.33325676 0.777941373,2.14696201 0.502,3.186 C0,5.07 0,9 0,9 C0,9 0,12.93 0.502,14.814 C0.777936456,15.8533966 1.58644041,16.6672347 2.624,16.95 C4.495,17.455 12,17.455 12,17.455 C12,17.455 19.505,17.455 21.377,16.95 C22.4146666,16.6674185 23.2232481,15.8535024 23.499,14.814 C24,12.93 24,9 24,9 C24,9 24,5.07 23.498,3.186 Z M8.545,13.432 L8.545,3.432 L18.545,8.432 L8.545,13.432 Z" id="Shape"></path>
-            </svg>
-        </a>
-        {% endif %}
-        <a href="{{ '/blog.rss' | absoluteUrl }}" aria-label="Open RSS feed" target="_blank" class="w-5 h-5" rel="noopener">
+        <a href="{{ '/atom.xml' | absoluteUrl }}" aria-label="Open RSS feed" target="_blank" class="w-5 h-5" rel="noopener">
             <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 -256 1792 1792">
                 <title>RSS icon</title>
                 <g transform="matrix(1,0,0,-1,212.61017,1346.1695)" id="g2991">

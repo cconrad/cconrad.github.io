@@ -1,11 +1,10 @@
 ---
 eleventyExcludeFromCollections: true
-permalink: /blog.rss
+permalink: /atom.xml
 ---
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ siteconfig.title }}</title>
+  <title>{{ siteconfig.prettyTitle }}</title>
   <subtitle>{{ siteconfig.description }}</subtitle>
   <link href="{{ '/blog.rss' | absoluteUrl }}" rel="self"/>
   <link href="{{ siteconfig.url }}"/>

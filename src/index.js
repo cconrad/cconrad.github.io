@@ -1,5 +1,4 @@
 import { scrollToTop, slideLeftSidebar } from "./ui";
-import { searchContent, toggleSearch } from "./search";
 import { copyUrlToClipboard } from "./utils";
 
 window.scrollToTop = function () {

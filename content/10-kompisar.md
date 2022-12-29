@@ -1,5 +1,6 @@
 ---
-layout: page-fullwidth.liquid
+eleventyExcludeFromCollections: true
+layout: page.njk
 title: 10-kompisar
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
@@ -24,7 +25,7 @@ jQuery(function () {
     });
 });
 </script>
-
+ 
 <h1 id="task" style="line-height: 50px; font-size: 50px">
 	<span id="question">?</span>
 	 + 

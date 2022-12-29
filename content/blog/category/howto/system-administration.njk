@@ -1,14 +1,14 @@
 ---
 eleventyExcludeFromCollections: true
 layout: base.njk
-title: Archive
+title: System administration
+permalink: blog/category/howto/system-administration/
 meta:
   robots:
     value: noindex
 ---
-
 <div class="postlist pb-8 mt-8 font-light dark:font-extralight pt-4">
-    {% for post in collections.posts | reverse %}
+    {% for post in collections['system-administration'] | reverse %}
         {% set currentYear = post | year %}
         {% set previousYear = collections.posts | getPreviousCollectionItem(post) | year %}
         {% if loop.first %}
