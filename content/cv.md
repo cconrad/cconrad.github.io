@@ -1,35 +1,39 @@
 ---
-header: no
-layout: page.liquid
+eleventyExcludeFromCollections: true
+layout: base.njk
 title: Curriculum vitae
 ---
-### Resume
+<div class="content page pt-4">
 
-I am a software developer with broad expertise, having successfully implemented end-to-end solutions using numerous technologies. Recently my primary focus has been on frontend and client-side web development using open-source frameworks, though I believe in a "choosing the right tool for the right job" philosophy.
+## Cover letter
+
+I am a software developer/technical project manager with broad expertise, having successfully implemented end-to-end solutions using numerous technologies. Most recently my primary focus has been on SPA development using open-source frameworks, though I believe in a "choosing the right tool for the right job" philosophy.
 
 Keeping myself constantly updated about the rapidly changing world of web and app development is something I take a lot of pride in, to the extent of sometimes literally dreaming about new technologies after falling asleep to the latest industry podcasts. While I generally consider open-source software as important building blocks for custom projects due to their extensability, I strive to never take a religious stance on business choices and consequently enjoy working with whatever technology fits the job and environment at hand in the best way.
 
-In a world of constantly changing browser and OS market shares I consider web standards and cross-browser support to be very important. Whenever feasible I use a development strategy of progressive enhancement, enabling older browsers to fall back to a less feature-rich but still usable site/web app. AJAX, HTML5 and "responsive design" are all samples of technologies I made use of years before they became industry-wide buzz words. This also applies to "devops", which I have always seen as a logical extension of the work areas of a professional web developer, where deployment and scalability need to be more than bugs to be fixed.
+In a world of constantly changing browser and OS market shares I consider web standards to be very important. Whenever feasible I use a development strategy of progressive enhancement, enabling older browsers to fall back to a less feature-rich but still usable site/app. AJAX, HTML5 and "responsive design" are all samples of technologies I made use of years before they became industry-wide buzz words. This also applies to "DevOps", which I have always seen as a logical extension of the work areas of a professional developer, where deployment and scalability need to be more than an afterthought.
 
-Some of the technologies I have worked with include: jQuery, Dojo, Sencha Touch, AJAX, JSON and generic Javascript; Microsoft .NET, Windows Forms, C#, ASP.NET Web Forms and ASP.NET MVC; HTML 4.01, XHTML and HTML5; Magento, Drupal 7, Symfony 2 and generic PHP; Pyramid and Python/IronPython; Microsoft SQL Server 2000 through 2008, IBM DB2, MySQL 4 and 5, Sqlite 3 and PostgreSQL 9, as well as all versions of CSS.
+## Tools and technologies
 
-### Personal data
+JavaScript, jQuery, Dojo, Sencha Touch, Angular, AJAX, JSON, .NET, Windows Forms, C#, Web Forms, ASP.NET MVC, HTML 4.01, XHTML, HTML5, Magento, Drupal, Symfony, WordPress, Pyramid, Python, IronPython, Microsoft SQL Server, IBM DB2, MySQL, Sqlite, PostgreSQL, CSS, npm, JIRA, Confluence, Docusaurus, git, Ansible, SaltStack, Jenkins, PowerShell
 
-| Born: | 1981 in Flensburg, Germany |
-| Living in: | Farum, Denmark since 2020 |
-| Worked in: | Denmark and Sweden |
-| In IT: | Since 2004 |
+## Personal data
 
-### Languages
+<dt>Born:</dt><dd>1981 in Flensburg, Germany</dd>
+<dt>Residence:</dt><dd>Farum, Denmark since 2020</dd>
+<dt>Worked in:</dt><dd>Denmark and Sweden</dd>
+<dt>In IT:</dt><dd>Since 2004</dd>
 
-| Language | Oral level | Written level |
+## Languages
+
+| Language | Spoken level | Written level |
 | --- | --- | --- |
 | Danish | Fluent | Comparable to a native writer |
 | English | Presentational level | Fluent |
 | Swedish | Some knowledge | Intermediate |
 | German | Mother tongue | Native writer |
 
-### Project and work experience
+## Project and work experience
 
 <table>
 <thead>
