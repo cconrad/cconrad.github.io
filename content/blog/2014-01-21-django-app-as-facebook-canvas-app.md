@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-01-21 19:37:29 +01:00
-date_gmt: 2014-01-21 18:37:29 +0000
-excerpt: "As a newbie to Django, getting an empty page in the Facebook canvas tricked me up quite a bit. Here are some reasons for getting a blank canvas, even though your app works when accessed directly."
-header: false
+date: 2014-01-21T18:37:29.000Z
+excerpt: As a newbie to Django, getting an empty page in the Facebook canvas tricked me up quite a bit. Here are some reasons for getting a blank canvas, even though your app works when accessed directly.
 published: true
-sidebar: left
-status: publish
 tags:
   - development
   - facebook
@@ -21,8 +9,6 @@ tags:
   - web
   - canvas
 title: Django app as Facebook canvas app
-wordpress_id: 741
-wordpress_url: http://www.clausconrad.com/?p=741
 ---
 When you load a website through a Facebook canvas URL
 (https://apps.facebook.com/your_app_name), the request to your app is POSTed. By default, Django apps reject POST requests that don't contain a "csrf_token" with a "403 Forbidden" error.

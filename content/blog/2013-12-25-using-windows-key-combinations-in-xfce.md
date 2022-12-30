@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-12-25 13:09:43 +01:00
-date_gmt: 2013-12-25 12:09:43 +0000
-excerpt: "A quick tip for conveniently launching applications using the Windows key plus another key in Xfce4:"
-header: false
+date: 2013-12-25T12:09:43.000Z
+excerpt: 'A quick tip for conveniently launching applications using the Windows key plus another key in Xfce4:'
 published: true
-sidebar: left
-status: publish
 tags:
   - productivity
   - xfce
@@ -21,8 +9,6 @@ tags:
   - whisker-menu
   - system-administration
 title: Using Windows key combinations in Xfce
-wordpress_id: 674
-wordpress_url: http://www.clausconrad.com/?p=674
 ---
 If you like me are coming to Xfce from a Windows background, you are likely used to opening the applications menu using your meta key (often called Windows key because of its symbol). This can easily be achieved in Xfce like so:
 
@@ -34,24 +20,30 @@ the key combination.
 
 Whisker menu can be closed by pressing Escape, but it's a bit of a hassle and feels weird. In order to resolve this, create a shell script that launches your application, followed by running the command "xfce4-popup-whiskermenu". Yes, this is the same command used above to open the menu - with the menu already open, this command will instead close Whisker menu.
 
-**Examples:**
+## Examples
 
-Launching a calculator with Win+C:  
-_cat ~/bin/whisker-calculator.sh_
+### Launching a calculator with Win+C
+
+~/bin/whisker-calculator.sh
+
 ```shell
 galculator &
 xfce4-popup-whiskermenu &
 ```
 
-Launching a file manager with Win+E:  
-_cat ~/bin/whisker-filemanager.sh_
+### Launching a file manager with Win+E
+
+~/bin/whisker-filemanager.sh
+
 ```shell
 spacefm &
 xfce4-popup-whiskermenu &
 ```
 
-Launching a terminal with Win+R:  
-_cat ~/bin/whisker-terminal.sh_
+### Launching a terminal with Win+R
+
+cat ~/bin/whisker-terminal.sh
+
 ```shell
 lxterminal &
 xfce4-popup-whiskermenu &

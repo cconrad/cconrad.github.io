@@ -1,22 +1,8 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2011-06-27 11:18:03 +02:00
-date_gmt: 2011-06-27 09:18:03 +0000
+date: 2011-06-27T09:18:03.000Z
 excerpt: Basic syntax highlighting and error checking of CoffeeScript is only officially available in Jetbrains RubyMine IDE - read on to get it in other IDEs.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 title: CoffeeScript support for JetBrains PhpStorm/WebStorm/PyCharm
-wordpress_id: 424
-wordpress_url: http://www.clausconrad.com/?p=424
 ---
 To get the same level of support for CoffeeScript in PhpStorm (and probably in similar JetBrains IDEs such as WebStorm and PyCharm), simply copy the CoffeeScript plugin directory from a trial version of the latest version of RubyMine:
 

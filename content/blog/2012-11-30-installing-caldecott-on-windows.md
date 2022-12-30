@@ -1,28 +1,14 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2012-11-30 14:12:07 +01:00
-date_gmt: 2012-11-30 13:12:07 +0000
+date: 2012-11-30T13:12:07.000Z
 excerpt: Caldecott is a ruby gem required for e. g. tunneling to AppFog services. This short writeup explains how to get it running on Windows.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - development
 title: Installing Caldecott on Windows
-wordpress_id: 497
-wordpress_url: http://www.clausconrad.com/?p=497
 ---
 I wrote this because I received the following error trying to establish a tunnel to a MySQL instance on AppFog:
 
-```
+```text
 To use `af tunnel', you must first install Caldecott:
 
         gem install caldecott
@@ -46,11 +32,20 @@ To solve this problem, follow these steps:
 5.  Open a command prompt as an administrator (e. g. by pressing the Start button, typing _cmd_, right-clicking the link to the command prompt and choosing "Run as Administrator").
 6.  Change to the devkit folder by typing e. g. _cd C:\Ruby194\devkit_ (depends on your Ruby installation folder of course).
 7.  Run the following command:  
-    `ruby dk.rb init`
-8.  Run the following command:  
-    `ruby dk.rb install`
-9.  Finally, to install Caldecott, run the following command:
+
+    ```ruby
+    ruby dk.rb init
     ```
+
+8.  Run the following command:  
+
+    ```ruby
+    ruby dk.rb install
+    ```
+
+9.  Finally, to install Caldecott, run the following command:
+
+    ```shell
     gem install caldecott --platform=ruby
     ```
 

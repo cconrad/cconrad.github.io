@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2012-07-14 00:00:37 +02:00
-date_gmt: 2012-07-13 22:00:37 +0000
+date: 2012-07-13T22:00:37.000Z
 excerpt: It's been almost a year since I wrote my last weekly review here - and I can't promise to write one next week either.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - weekly-review
   - personal
 title: 'Weekly review: Week ending July 14, 2012'
-wordpress_id: 470
-wordpress_url: http://www.clausconrad.com/?p=470
 ---
 Shame on me, but I am sitting in a train bound back home, after returning 3 of our special needs kids back to their father - they have been with us for 2 weeks - 'nough said?
 

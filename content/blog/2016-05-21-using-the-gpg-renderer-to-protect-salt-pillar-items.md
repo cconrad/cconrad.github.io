@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2016-05-21 18:01:43 +02:00
-date_gmt: 2016-05-21 16:01:43 +0000
+date: 2016-05-21T16:01:43.000Z
 excerpt: Some notes on how to encrypt sensitive data in SaltStack pillar files, e.g. to commit them to source code repositories.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - saltstack
   - gnupg
   - system-administration
 title: Using the GPG renderer to protect Salt pillar items
-wordpress_id: 858
-wordpress_url: http://www.clausconrad.com/?p=858
 ---
 ## Note about virtual machines
   
@@ -50,16 +36,19 @@ To install GnuPG version 1 (version 2 does not work, SaltStack expects the execu
 On the salt master, complete the following steps to create a GnuPG key pair.
 
 Create a directory to hold the private key:
+
 ```shell
 sudo mkdir -p /etc/salt/gpgkeys
 ```
 
 Set appropriate permissions for the directory holding the private key:
+
 ```shell
 sudo chmod 0700 /etc/salt/gpgkeys
 ```
 
 Create a GnuPG key pair in the created directory:
+
 ```shell
 sudo gpg --gen-key --homedir /etc/salt/gpgkeys
 ```
@@ -140,12 +129,12 @@ sudo salt mysql-server pillar.items
 
 ...which outputs the decrypted pillars, as they would be used when referenced from state SLS files:
 
-```
+```text
         mysql_server:  
             ----------  
             password:  
                 my-super-secret-password  
-```    
+```
 
 Now we can safely commit secret pillar data to version control.
 

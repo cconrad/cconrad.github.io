@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2011-03-03 01:09:09 +01:00
-date_gmt: 2011-03-03 00:09:09 +0000
+date: 2011-03-03T00:09:09.000Z
 excerpt: I'm an avid reader of LifeHacker and recently tried out the Linux Mint distribution after reading <a href="http//lifehacker.com/#!5469575/why-linux-mint-might-be-a-better-beginners-linux-than-ubuntu">this post</a>.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - linux
   - rants
   - personal
 title: Is Linux Mint adware?
-wordpress_id: 400
-wordpress_url: http://www.clausconrad.com/?p=400
 ---
 While I don't use Linux on the desktop, I run a couple of servers on Ubuntu and other distributions. My interest in Linux on the desktop roots in friends and relatives sometimes asking me for advice on cheap/free operating systems for older boxes and laptops, which is why I try to keep a little informed on developments in this area as well.
 

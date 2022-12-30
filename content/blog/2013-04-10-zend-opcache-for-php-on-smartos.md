@@ -1,27 +1,13 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-04-10 21:14:12 +02:00
-date_gmt: 2013-04-10 19:14:12 +0000
+date: 2013-04-10T19:14:12.000Z
 excerpt: Installing an opcode cache such as Zend OPcache is a simple way to improve your PHP's performance on SmartOS. Here's how.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - performance
   - smartos
   - php
   - system-administration
 title: Zend OPcache for PHP on SmartOS
-wordpress_id: 548
-wordpress_url: http://www.clausconrad.com/?p=548
 ---
 Zend OPcache (previously known as Zend Optimizer+) is one of several opcode caches for PHP, the other most well-known being APC and eAccelerator. Zend Optimizer Plus has been available in binary form together with Zend Server (CE) for some time, but Zend recently decided to contribute the code to the PHP project. Thus it can now be used on platforms such as SmartOS, where Zend Server isn't an option. Thank you Zend! :)
 

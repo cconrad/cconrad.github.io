@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2015-02-10 19:29:33 +01:00
-date_gmt: 2015-02-10 18:29:33 +0000
-excerpt: "My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:"
-header: false
+date: 2015-02-10T18:29:33.000Z
+excerpt: 'My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:'
 published: true
-sidebar: left
-status: publish
 tags:
   - freebsd
   - digitalocean
   - system-administration
 title: FreeBSD hangs on reboot on DigitalOcean
-wordpress_id: 822
-wordpress_url: http://www.clausconrad.com/?p=822
 ---
 `Timecounters tick every 10.000 msec`
 

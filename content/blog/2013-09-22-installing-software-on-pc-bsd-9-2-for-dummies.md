@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-09-22 03:02:12 +02:00
-date_gmt: 2013-09-22 01:02:12 +0000
+date: 2013-09-22T01:02:12.000Z
 excerpt: I am currently learning my way around PC-BSD 9.2. Read more about why and my findings after the break.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - freebsd
   - pc-bsd
   - system-administration
 title: Installing software on PC-BSD 9.2 - for dummies
-wordpress_id: 598
-wordpress_url: http://www.clausconrad.com/?p=598
 ---
 I have used most types of operating systems throughout the years. For those interested in a little history, [see here](/blog/my-hardware-and-os-history). For those just interested in the package installation process on PC-BSD, please skip the next paragraphs until after the horizontal line.
 

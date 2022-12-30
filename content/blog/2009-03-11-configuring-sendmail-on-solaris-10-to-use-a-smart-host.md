@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-03-11 00:09:44 +01:00
-date_gmt: 2009-03-10 23:09:44 +0000
+date: 2009-03-10T23:09:44.000Z
 excerpt: 'Solaris 10 comes with sendmail, a very powerful but also very complex mail server. This tutorial covers only a very specific scenario, for which I was unable to find an example: I wanted sendmail to accept mail from any computer in my LAN and relay (forward) all of those mails to a “smart host”, i.e. an external mail server provided by my ISP.'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - solaris
   - system-administration
 title: Configuring sendmail on Solaris 10 to use a smart host
-wordpress_id: 156
-wordpress_url: http://www.clausconrad2.com/?p=156
 ---
 Wondering what I need this setup for? I have a couple of web servers which generate mail to external addresses, and my ISP blocks port 25 - except to its own mail server. I don't have a need to process internal mails in the LAN or incoming mail from the internet, as mails for me and my users are hosted externally.
 

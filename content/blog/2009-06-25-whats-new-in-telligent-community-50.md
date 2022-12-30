@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-06-25 11:35:15 +02:00
-date_gmt: 2009-06-25 11:35:15 +0000
+date: 2009-06-25T09:35:15.000Z
 excerpt: Are you considering to upgrade your CommunityServer 2008.5 to the newest edition 5.0, now dubbed Telligent Community? Here's a list of differences between the two versions.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - communityserver
   - development
 title: What's new in Telligent Community 5.0?
-wordpress_id: 133
-wordpress_url: http://www.clausconrad2.com/?p=133
 ---
 ## Groups
 

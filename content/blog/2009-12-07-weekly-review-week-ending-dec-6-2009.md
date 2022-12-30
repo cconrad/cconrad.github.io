@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-12-07 02:22:33 +01:00
-date_gmt: 2009-12-07 01:22:33 +0000
+date: 2009-12-07T01:22:33.000Z
 excerpt: 'Plans from last week:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - weekly-review
   - personal
 title: 'Weekly review: Week ending Dec 6, 2009'
-wordpress_id: 96
-wordpress_url: http://www.clausconrad2.com/?p=96
 ---
 <u>Work</u>
 

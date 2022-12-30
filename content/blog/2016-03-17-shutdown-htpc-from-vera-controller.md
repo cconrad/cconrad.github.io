@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2016-03-17 20:31:45 +01:00
-date_gmt: 2016-03-17 19:31:45 +0000
-excerpt: "Here's how I configured my girlfriend's Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:"
-header: false
+date: 2016-03-17T19:31:45.000Z
+excerpt: 'Here''s how I configured my girlfriend''s Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:'
 published: true
-sidebar: left
-status: publish
 tags:
   - windows
   - htpc
@@ -21,8 +9,6 @@ tags:
   - home-automation
   - system-administration
 title: Shutdown HTPC from Vera controller
-wordpress_id: 846
-wordpress_url: http://www.clausconrad.com/?p=846
 ---
 1. Make sure that the HTPC can always be reached from Vera, by giving it a static IP address or a DHCP reservation (using the DHCP server/router).
 

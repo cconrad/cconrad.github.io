@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-09-22 02:10:39 +02:00
-date_gmt: 2013-09-22 00:10:39 +0000
+date: 2013-09-22T00:10:39.000Z
 excerpt: I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - personal
 title: My hardware and OS history
-wordpress_id: 599
-wordpress_url: http://www.clausconrad.com/?p=599
 ---
 I started with C64 Basic and GEOS on a Commodore 64.
 

@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2008-01-17 14:36:23 +01:00
-date_gmt: 2008-01-17 13:36:23 +0000
-excerpt: "Some links about living and taxation in Sweden:"
-header: 'no'
+date: 2008-01-17T13:36:23.000Z
+excerpt: 'Some links about living and taxation in Sweden:'
 published: true
-sidebar: left
-status: publish
 tags:
   - sweden
   - living
@@ -22,8 +10,6 @@ tags:
   - house
   - personal
 title: Living in Sweden
-wordpress_id: 532
-wordpress_url: http://www.clausconrad.com/?p=532
 ---
 Whenever possible I try to link to the English version of the pages, but some of them are in Swedish only. Just try to use the dictionaries from my list (see my story "Links: Swedish language") or ask in the forums or me if you have trouble understanding something :-)
 

@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2021-10-24 14:10:41 +02:00
-date_gmt: 2021-10-24 12:10:41 +0000
+date: 2021-10-24T12:10:41.000Z
 excerpt: I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - pkm
   - personal

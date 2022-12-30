@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2011-02-02 18:57:06 +01:00
-date_gmt: 2011-02-02 17:57:06 +0000
-excerpt: "A feature comparison of some online mindmap tools:"
-header: 'no'
+date: 2011-02-02T17:57:06.000Z
+excerpt: 'A feature comparison of some online mindmap tools:'
 published: true
-sidebar: left
-status: publish
 tags:
   - lifehacking
 title: Online mindmapping services compared
-wordpress_id: 376
-wordpress_url: http://www.clausconrad.com/?p=376
 ---
 | Name | Price | Sharing | Real-time collaboration | Offline use | iOS | Android | API | Import/Export |
 |-

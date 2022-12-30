@@ -1,27 +1,13 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-09-22 17:37:04 +02:00
-date_gmt: 2013-09-22 15:37:04 +0000
-excerpt: "How to open your Xfce's application menu using the Windows key in three easy steps:"
-header: false
+date: 2013-09-22T15:37:04.000Z
+excerpt: 'How to open your Xfce''s application menu using the Windows key in three easy steps:'
 published: true
-sidebar: left
-status: publish
 tags:
   - freebsd
   - pc-bsd
   - xfce
   - system-administration
 title: Using the Windows key to open Xfce application menu
-wordpress_id: 605
-wordpress_url: http://www.clausconrad.com/?p=605
 ---
 1. Click the Application menu > "Settings" > "Keyboard":
   ![xfce-win-1](/assets/img/xfce-win-1_9876326223_o.png)

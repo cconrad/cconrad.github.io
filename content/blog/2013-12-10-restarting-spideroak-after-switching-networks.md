@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-12-10 13:07:15 +01:00
-date_gmt: 2013-12-10 12:07:15 +0000
-excerpt: "When disconnecting from a network and reconnecting later, SpiderOak always stays \"disconnected\" here and doesn't backup any more files. Here's a simple script I run in that case:"
-header: false
+date: 2013-12-10T12:07:15.000Z
+excerpt: 'When disconnecting from a network and reconnecting later, SpiderOak always stays "disconnected" here and doesn''t backup any more files. Here''s a simple script I run in that case:'
 published: true
-sidebar: left
-status: publish
 tags:
   - linux
   - spideroak
   - system-administration
 title: Restarting SpiderOak after switching networks
-wordpress_id: 664
-wordpress_url: http://www.clausconrad.com/?p=664
 ---
 ```shell
 env kill -s 1 SpiderOak

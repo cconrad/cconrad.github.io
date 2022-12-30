@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2010-04-02 18:26:49 +02:00
-date_gmt: 2010-04-02 16:26:49 +0000
-excerpt: "Some SEO tips about meta descriptions:"
-header: 'no'
+date: 2010-04-02T16:26:49.000Z
+excerpt: 'Some SEO tips about meta descriptions:'
 published: true
-sidebar: left
-status: publish
 tags:
   - seo
   - development
 title: Meta description do's and don'ts
-wordpress_id: 70
-wordpress_url: http://www.clausconrad2.com/?p=70
 ---
 ### Do:
 

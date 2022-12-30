@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2010-05-03 11:27:00 +02:00
-date_gmt: 2010-05-03 09:27:00 +0000
+date: 2010-05-03T09:27:00.000Z
 excerpt: I admit I've been way too lazy the last weeks with regards to work tasks, so I'm deliberately posting this embarrassing review to get myself back on track as soon as possible again...
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - weekly-review
   - personal
 title: 'Weekly review: Week ending May 02, 2010'
-wordpress_id: 60
-wordpress_url: http://www.clausconrad2.com/?p=60
 ---
 <a id="last-week"></a>**Plans from last week:**
 

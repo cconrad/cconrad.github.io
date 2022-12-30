@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-03-11 00:23:18 +01:00
-date_gmt: 2009-03-10 23:23:18 +0000
+date: 2009-03-10T23:23:18.000Z
 excerpt: This script by Brendan Gregg lets one run a command in all zones (except the global zone).
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - solaris
   - system-administration
 title: Run a command in all non-global Solaris zones
-wordpress_id: 152
-wordpress_url: http://www.clausconrad2.com/?p=152
 ---
 Obviously it only works from the global zone :-)
 

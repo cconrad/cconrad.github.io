@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-02-16 14:28:08 +01:00
-date_gmt: 2013-02-16 13:28:08 +0000
+date: 2013-02-16T13:28:08.000Z
 excerpt: Trying to get into the routine of writing these updates again...
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - personal
 title: 'Weekly review: Week ending February 16, 2013'
-wordpress_id: 509
-wordpress_url: http://www.clausconrad.com/?p=509
 ---
 <span style="text-decoration: underline;">Work</span>
 

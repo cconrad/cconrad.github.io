@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-12-23 18:58:23 +01:00
-date_gmt: 2013-12-23 17:58:23 +0000
-excerpt: "While configuring my HTPC via SSH, I needed to deactivate its screensaver without having access to its own keyboard or mouse. Here's how to do that from the (SSH) command line:"
-header: false
+date: 2013-12-23T17:58:23.000Z
+excerpt: 'While configuring my HTPC via SSH, I needed to deactivate its screensaver without having access to its own keyboard or mouse. Here''s how to do that from the (SSH) command line:'
 published: true
-sidebar: left
-status: publish
 tags:
   - linux
   - screensaver
@@ -21,8 +9,6 @@ tags:
   - htpc
   - system-administration
 title: Deactivate xscreensaver via SSH
-wordpress_id: 667
-wordpress_url: http://www.clausconrad.com/?p=667
 ---
 ```shell
 xscreensaver-command -deactivate

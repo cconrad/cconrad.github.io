@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-09-22 18:55:58 +02:00
-date_gmt: 2014-09-22 16:55:58 +0000
-excerpt: "On a FreeBSD box, each time I ran \"portmaster -a\" it wanted to reinstall the <em>db48</em> package. This fixed it:"
-header: false
+date: 2014-09-22T16:55:58.000Z
+excerpt: 'On a FreeBSD box, each time I ran "portmaster -a" it wanted to reinstall the <em>db48</em> package. This fixed it:'
 published: true
-sidebar: left
-status: publish
 tags:
   - freebsd
   - system-administration
 title: portmaster -a upgrades db48 repeatedly
-wordpress_id: 783
-wordpress_url: http://www.clausconrad.com/?p=783
 ---
 ```shell
 portmaster -o databases/db48 databases/db42

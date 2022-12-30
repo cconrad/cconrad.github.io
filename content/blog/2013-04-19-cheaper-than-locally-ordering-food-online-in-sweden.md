@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
 date: 2013-04-19T12:49:36.000Z
-date_gmt: 2013-04-19 12:49:36 +0000
-excerpt: "You're living in Sweden and trying to save money by shopping at Netto, ALdi or LIDL? Read on - there might be cheaper alternatives to buy some of your food!"
-header: 'no'
+excerpt: You're living in Sweden and trying to save money by shopping at Netto, ALdi or LIDL? Read on - there might be cheaper alternatives to buy some of your food!
 published: true
-sidebar: left
-status: publish
 tags:
   - personal
 title: 'Cheaper than locally: ordering food online in Sweden'
-wordpress_id: 555
-wordpress_url: http://www.clausconrad.com/?p=555
 ---
 When I was visiting the US i frequently shopped food at Amazon.com. Since that time I have always been jealous of the assortment, prices and delivery speed of Amazon's grocery department, advantages that haven't been available to Swedish residents - until recently, that is.
 

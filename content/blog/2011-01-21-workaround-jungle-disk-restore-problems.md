@@ -1,29 +1,15 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2011-01-21 10:51:50 +01:00
-date_gmt: 2011-01-21 09:51:50 +0000
+date: 2011-01-21T09:51:50.000Z
 excerpt: 'When trying to restore a backup taken using Jungle Disk Server Edition on a workstation running Jungle Disk Desktop Edition I received the following error message:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - jungledisk
   - backup
   - windows
   - system-administration
 title: A workaround for Jungle Disk restore problems
-wordpress_id: 368
-wordpress_url: http://www.clausconrad.com/?p=368
 ---
-```
+```text
 Could not download and open the backup vault database
 
 Error Details (Jungle Disk Desktop 3.12 Win64)  

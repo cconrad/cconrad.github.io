@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
 date: 2011-02-12T18:51:16.000Z
-date_gmt: 2011-02-12 18:51:16 +0000
 excerpt: 'Plans from last week:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - personal
 title: 'Weekly review: Week ending February 11, 2011'
-wordpress_id: 381
-wordpress_url: http://www.clausconrad.com/?p=381
 ---
 <span style="text-decoration: underline">Work</span>
 

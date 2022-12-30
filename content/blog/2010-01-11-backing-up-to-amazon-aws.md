@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2010-01-11 04:52:23 +01:00
-date_gmt: 2010-01-11 03:52:23 +0000
+date: 2010-01-11T03:52:23.000Z
 excerpt: This is a walkthrough for backing up files to Amazon's data centers, more specifically to an EC2 instance with an EBS root volume. While it is tailored to a UNIX-like environment (as that's what I use - Solaris 10, Debian and Mac OS X 10.6 Snow Leopard), all tools used in these scripts are also available for Windows environments. Some adaptation of the commands might be required.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - aws
   - system-administration
 title: Backing up to Amazon AWS
-wordpress_id: 84
-wordpress_url: http://www.clausconrad2.com/?p=84
 ---
 I recommend that you are at least slightly familiar with the [AWS services](https://aws.amazon.com/) before continuing to read this walkthrough.
 

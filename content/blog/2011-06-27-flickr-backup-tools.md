@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2011-06-27 21:10:40 +02:00
-date_gmt: 2011-06-27 19:10:40 +0000
+date: 2011-06-27T19:10:40.000Z
 excerpt: 'Backing up my Flickr photos has been on my to-do list for a while. Today I finally researched solutions; these two applications appear to be the best ones:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - backup
   - howto
 title: Flickr backup tools
-wordpress_id: 429
-wordpress_url: http://www.clausconrad.com/?p=429
 ---
 *   [FlickrEdit](https://sunkencity.org/flickredit)  
     A free, cross-platform GUI tool written in Java.

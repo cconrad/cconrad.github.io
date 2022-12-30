@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-08-25 09:25:56 +02:00
-date_gmt: 2014-08-25 07:25:56 +0000
-excerpt: "While testing some code using Plunker I discovered that it doesn't support IE9."
-header: false
+date: 2014-08-25T07:25:56.000Z
+excerpt: While testing some code using Plunker I discovered that it doesn't support IE9.
 published: true
-sidebar: left
-status: publish
 tags:
   - development
 title: Running Plunker in IE9
-wordpress_id: 777
-wordpress_url: http://www.clausconrad.com/?p=777
 ---
 Even though I made my plunk public, IE9 would always load an empty file into the editor, when I pasted the URL into it.
 

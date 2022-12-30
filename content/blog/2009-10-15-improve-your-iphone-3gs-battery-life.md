@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
 date: 2009-10-15 01:21:58 +02:00
-date_gmt: 2009-10-15 01:21:58 +0000
 excerpt: <blockquote>You know how your iPhones many apps can improve your productivity tremendously, but have also learned that its not-so-fantastic battery life increases your stress level at the same time?</blockquote>
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - iphone
   - howto
 title: Improve your iPhone 3G's battery life
-wordpress_id: 114
-wordpress_url: http://www.clausconrad2.com/?p=114
 ---
 Don't despair - by following a few simple rules you can make its battery last the time you need to, and that doesn't mean having to turn your gadget into an unused brick.
 

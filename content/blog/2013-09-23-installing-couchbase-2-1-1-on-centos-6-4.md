@@ -1,27 +1,13 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-09-23 14:03:12 +02:00
-date_gmt: 2013-09-23 12:03:12 +0000
+date: 2013-09-23T12:03:12.000Z
 excerpt: The installation instructions at couchbase.com can result in error messages when installing 2.1.1 on CentOS. Here's how to resolve those.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - couchbase
   - centos
   - rhel
   - system-administration
 title: Installing Couchbase 2.1.1 on CentOS 6.4
-wordpress_id: 609
-wordpress_url: http://www.clausconrad.com/?p=609
 ---
 When downloading Couchbase Server 2.1.1 Community Edition (the latest release at this time) for RHEL and CentOS from couchbase.com, the installation instructions simply state to "download the RPM and run rpm -i couchbase-server-enterprise_x86_64_2.1.1.rpm". However, this resulted in an error about missing libcrypto and other libraries on my off-the-shelf CentOS 6.4 server.
 

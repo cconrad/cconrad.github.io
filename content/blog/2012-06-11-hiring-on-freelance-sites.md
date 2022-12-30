@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2012-06-11 20:53:28 +02:00
-date_gmt: 2012-06-11 18:53:28 +0000
+date: 2012-06-11T18:53:28.000Z
 excerpt: Thanks to another blog (unfortunately I can't remember where I read it) I have begun asking for "catch phrases" in job offerings on freelance sites.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - howto
 title: Hiring on freelance sites
-wordpress_id: 452
-wordpress_url: http://www.clausconrad.com/?p=452
 ---
 A "catch phrase" can be as simple as adding the sentence "Please mention 'yellow dragon' in your application" to your job description - which can be used to wield out the applicants who didn't really read your job offering, but just decided to spam you with a cover letter template. In most cases, you don't want to employ this kind of contractors.
 

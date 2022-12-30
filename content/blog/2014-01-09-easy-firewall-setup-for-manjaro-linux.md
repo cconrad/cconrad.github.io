@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-01-09 19:08:56 +01:00
-date_gmt: 2014-01-09 18:08:56 +0000
-excerpt: "How to set up a simple firewall on your Manjaro-powered laptop or desktop computer:"
-header: false
+date: 2014-01-09T18:08:56.000Z
+excerpt: 'How to set up a simple firewall on your Manjaro-powered laptop or desktop computer:'
 published: true
-sidebar: left
-status: publish
 tags:
   - linux
   - manjaro
@@ -21,8 +9,6 @@ tags:
   - system-administration
   - ufw
 title: Easy firewall setup for Manjaro Linux
-wordpress_id: 735
-wordpress_url: http://www.clausconrad.com/?p=735
 ---
 After installing Manjaro on my notebook, I was astounded to see that unlike numerous other distributions of Linux it did not enable a firewall by default - especially since it ships with iptables _and_ its user-friendly frontend, [ufw](https://launchpad.net/ufw).
 
@@ -68,7 +54,7 @@ Admittedly, this would not be too big of a deal if I did not run services on my 
 
 That command should output something similar to this:  
 
-```
+```text
                 Status: active
         
         To                         Action      From  

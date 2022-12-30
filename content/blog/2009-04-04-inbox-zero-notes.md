@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-04-04 21:46:14 +02:00
-date_gmt: 2009-04-04 19:46:14 +0000
+date: 2009-04-04T19:46:14.000Z
 excerpt: 'I just watched Merlin Mann’s brilliant productivity video "Inbox Zero" from 2007 for the second time, these are my unedited notes from the video:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - productivity
   - email
   - howto
 title: Inbox Zero
-wordpress_id: 448
-wordpress_url: http://www.clausconrad.com/?p=448
 ---
 *   Time and attention are finite. _Demands_ on your time and attention are infinite.
 *   Email's just a medium. It's not a purpose in itself.

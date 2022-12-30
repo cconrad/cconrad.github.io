@@ -1,27 +1,13 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-11-09 14:27:30 +01:00
-date_gmt: 2013-11-09 13:27:30 +0000
-excerpt: "Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that."
-header: false
+date: 2013-11-09T13:27:30.000Z
+excerpt: Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that.
 published: true
-sidebar: left
-status: publish
 tags:
   - opensource
   - userscript
   - chrome
   - development
 title: '"Try this search on Google" for startpage.com'
-wordpress_id: 648
-wordpress_url: http://www.clausconrad.com/?p=648
 ---
 I tried DuckDuckGo once and it had this nice "Try this search on..." menu to repeat your search on other, more common or specialized, search engines. Unfortunately Startpage / ixQuick doesn't have a similar function, so I made a small user script to achieve the same functionality (assuming you run Chrome
 or Chromium - other browsers are not currently supported).

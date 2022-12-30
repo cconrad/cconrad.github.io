@@ -1,29 +1,15 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2015-12-31 19:23:33 +01:00
-date_gmt: 2015-12-31 18:23:33 +0000
+date: 2015-12-31T18:23:33.000Z
 excerpt: Just some notes-to-self on how to compile and install <a href="https://www.tarsnap.com/">tarsnap</a> and <a href="https://github.com/alexjurkiewicz/acts">acts</a> on Ubuntu 14.04 and its derivatives.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - linux-mint
   - tarsnap
   - acts
   - system-administration
 title: Installing tarsnap on Linux Mint 17.3
-wordpress_id: 834
-wordpress_url: http://www.clausconrad.com/?p=834
 ---
-**Downloading and verifying tarsnap**
+## Downloading and verifying tarsnap
 
 1. Visit the [Tarsnap download page](https://www.tarsnap.com/download.html) to find the latest version (look for "source tarball"). At the time of writing, this command downloads the latest version for Linux:
 
@@ -38,7 +24,7 @@ wordpress_url: http://www.clausconrad.com/?p=834
    ```
 
 3. Visit the [Tarsnap compiling page](https://www.tarsnap.com/compiling.html) to find the latest version of the signing key (look for "Tarsnap 20XX code signing GPG key"). At the time of writing, this command downloads the latest version of the signing key:
-   
+
    ```shell
    wget https://www.tarsnap.com/tarsnap-signing-key-2015.asc
    ```
@@ -81,7 +67,7 @@ wordpress_url: http://www.clausconrad.com/?p=834
 
    Now compare the output of this command with the output of the previous command and make sure that the hash (long string of digits and characters) matches. At the time of writing, the displayed hash was "a2909e01e2f983179d63ef2094c42102c92c716032864e66ef25ae341ea28690".
 
-**Building tarsnap**
+## Building tarsnap
 
 1. Install a couple of software packages that are required to build tarsnap from the downloaded source code:
 
@@ -102,7 +88,7 @@ wordpress_url: http://www.clausconrad.com/?p=834
    ```
 
 4. Prepare for building the source code:
-   
+
    ```shell
    ./configure
    ```
@@ -114,6 +100,7 @@ wordpress_url: http://www.clausconrad.com/?p=834
    ```
 
 6. Install the binary (application) to the default directories:  
+
    ```shell
    sudo make install
    ```
@@ -133,7 +120,7 @@ wordpress_url: http://www.clausconrad.com/?p=834
    rm -r tarsnap-autoconf-1.0.36.1
    ```
   
-**Configuring tarsnap**
+## Configuring tarsnap
 
 1. Move the sample configuration file to the location of the "real" configuration file:
 
@@ -153,7 +140,7 @@ wordpress_url: http://www.clausconrad.com/?p=834
 
 4. Copy the generated key file (path "/root/tarsnap.key") to another machine and keep it safe. **The importance of this step cannot be stretched enough!** Remember, you are setting up a backup for this machine because something bad might happen to it. If it does, you will need your key file to restore your backup from the tarsnap servers. Some suggestions for possible methods of backing up your key file are mentioned in the section "Keep your key file safe" of the [Getting started with tarsnap](https://www.tarsnap.com/gettingstarted.html) page. _If you don't backup the key file now, you might as well skip the remaining steps._
   
-**Downloading and installing acts**
+## Downloading and installing acts
 
 Tarsnap follows the UNIX philosophy of keeping things simple, it tries to do only a few things (namely encrypting, decrypting and transferring backups) and do them well. Scheduling backups and removing old backups are not features included in tarsnap itself. Fortunately a number of helper scripts/applications exist for those tasks. I recommend acts (short for "Another Calendar-based Tarsnap Script").
 
@@ -189,7 +176,7 @@ Tarsnap follows the UNIX philosophy of keeping things simple, it tries to do onl
    sudo mv acts /usr/local/bin/
    ```
 
-**Configuring acts**
+## Configuring acts
 
 1. Edit acts' configuration file:
 
@@ -212,10 +199,9 @@ Tarsnap follows the UNIX philosophy of keeping things simple, it tries to do onl
 
    If the dialog "Select an editor" appears, press Enter to select "nano".
 
-
    At the bottom of the file, add these lines, replacing "me@example.com" with your email address:
 
-   ```
+   ```crontab
    PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
    MAILTO=me@example.com
    0 2 * * * acts

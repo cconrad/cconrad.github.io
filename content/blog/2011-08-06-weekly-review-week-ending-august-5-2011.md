@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2011-08-06 23:50:14 +02:00
-date_gmt: 2011-08-06 21:50:14 +0000
+date: 2011-08-06T21:50:14.000Z
 excerpt: 'Plans from last week:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - weekly-review
   - personal
 title: 'Weekly review: Week ending August 5, 2011'
-wordpress_id: 436
-wordpress_url: http://www.clausconrad.com/blog/weekly-review-week-ending-august-5-2011
 ---
 Work
 

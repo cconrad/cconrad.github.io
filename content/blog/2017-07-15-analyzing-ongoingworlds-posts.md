@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2017-07-15 16:16:35 +02:00
-date_gmt: 2017-07-15 14:16:35 +0000
-excerpt: "The <a href=\"/blog/scrapy-example-posts-from-ongoingworlds\">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:"
-header: false
+date: 2017-07-15T14:16:35.000Z
+excerpt: 'The <a href="/blog/scrapy-example-posts-from-ongoingworlds">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:'
 published: true
-sidebar: left
-status: publish
 tags:
   - ongoingworlds
   - pbem
   - personal
 title: Analyzing OngoingWorlds posts
-wordpress_id: 875
-wordpress_url: http://www.clausconrad.com/?p=875
 ---
 I collected the game ID, post ID and date/time for each post from the play-by-email roleplaying community OngoingWorlds into an Sqlite3 database. Even with this very limited dataset, some interesting queries can be run:
 

@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2008-01-17 14:30:11 +01:00
-date_gmt: 2008-01-17 13:30:11 +0000
+date: 2008-01-17T13:30:11.000Z
 excerpt: I’ll be moving to Sweden in about a month, so I collected some links about Swedish radio.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - sweden
   - english
@@ -22,8 +10,6 @@ tags:
   - radio
   - personal
 title: News and radio from Sweden
-wordpress_id: 524
-wordpress_url: http://www.clausconrad.com/?p=524
 ---
 I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your vacation!
 

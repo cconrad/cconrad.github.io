@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-03-10 17:14:41 +01:00
-date_gmt: 2014-03-10 16:14:41 +0000
-excerpt: "How to suspend when closing the lid using i3 on (Arch) Linux:"
-header: false
+date: 2014-03-10T16:14:41.000Z
+excerpt: 'How to suspend when closing the lid using i3 on (Arch) Linux:'
 published: true
-sidebar: left
-status: publish
 tags:
   - manjaro
   - i3
   - system-administration
 title: Power management under i3 on Arch Linux
-wordpress_id: 767
-wordpress_url: http://www.clausconrad.com/?p=767
 ---
 1. `sudo pacman -S xfce4-power-manager`
 

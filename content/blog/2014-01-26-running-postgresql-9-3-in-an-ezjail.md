@@ -1,27 +1,13 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-01-26 18:34:55 +01:00
-date_gmt: 2014-01-26 17:34:55 +0000
-excerpt: "To get this working I had to follow these steps:"
-header: false
+date: 2014-01-26T17:34:55.000Z
+excerpt: 'To get this working I had to follow these steps:'
 published: true
-sidebar: left
-status: publish
 tags:
   - freebsd
   - jails
   - postgresql
   - system-administration
 title: Running Postgresql 9.3 in an ezjail
-wordpress_id: 751
-wordpress_url: http://www.clausconrad.com/?p=751
 ---
 **On the host:**
 

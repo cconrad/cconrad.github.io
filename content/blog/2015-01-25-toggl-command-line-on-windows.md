@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2015-01-25 10:00:05 +01:00
-date_gmt: 2015-01-25 09:00:05 +0000
-excerpt: "How to run toggl-cli on Windows (using Git bash):"
-header: false
+date: 2015-01-25T09:00:05.000Z
+excerpt: 'How to run toggl-cli on Windows (using Git bash):'
 published: true
-sidebar: left
-status: publish
 tags:
   - productivity
   - windows
@@ -22,8 +10,6 @@ tags:
   - bash
   - howto
 title: Toggl command line on Windows
-wordpress_id: 818
-wordpress_url: http://www.clausconrad.com/?p=818
 ---
 1. Make a directory for user binaries:
 

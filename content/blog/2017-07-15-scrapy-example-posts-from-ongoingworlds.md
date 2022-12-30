@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2017-07-15 15:26:11 +02:00
-date_gmt: 2017-07-15 13:26:11 +0000
+date: 2017-07-15T13:26:11.000Z
 excerpt: Scrapy is a software project for fetching structured data (think spreadsheets or databases) from any website. These are some notes for dummies and forgetful people like me.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - scrapy
   - development
 title: 'Scrapy example: posts from OngoingWorlds'
-wordpress_id: 873
-wordpress_url: http://www.clausconrad.com/?p=873
 ---
 Note: Some knowledge of Python, databases, HTML and CSS recommended.
 
@@ -100,7 +86,7 @@ And to close the connection at the end, I added this method to the pipeline crea
 def close_spider(self, spider):
   self.conn.close()
 ```
-    
+
 The most important task of this file is to insert the scraped post into the database. This is done by adding by adding a bit of SQL code to the already created method _process_item_:
 
 ```python
@@ -109,7 +95,7 @@ def process_item(self, item, spider):
   self.conn.commit()
   return item
 ```    
-    
+
 This method is called once for each item extracted by the spider, and it simply inserts a new row in the database table. The "OR IGNORE" instructs Sqlite3 to ignore duplicate posts without an error.
 
 ## Implementing the spider
@@ -153,7 +139,6 @@ The spider has two main tasks:
 1. Extracting the items (structured data) from the pages' HTML code
 
 2. Identifying further links that should be followed (i.e. also downloaded and parsed, in addition to the _start_urls_) ) and adding these to the crawl
-  
 
 To implement both of these tasks, the _shell_ feature of Scrapy is extremely useful. Using the shell one can interactively try out various code for extracting the desired data from a page's HTML code. To run the interactive shell I entered:
 
@@ -199,7 +184,7 @@ def parse(self, response):
 
     yield from self.collect_links(response)
 ```
-    
+
 Two of the _if_ statements above referred to the callback _parse_posts_. This method has the following code:
 
 ```python
@@ -265,14 +250,14 @@ ITEM_PIPELINES = {
   'ow.pipelines.OwPipeline': 300,
 }
 ```    
-  
+
 To avoid too much noisy output during the actual crawl, I added the following configuration at the bottom:
 
 ```python
 LOG_SHORT_NAMES = True
 LOG_LEVEL = "INFO"
 ```    
-    
+
 ## Starting the crawl
 
 Now that all the code is in place, the scraper could be started with the following command (with "ow" being the name defined in _ow_spider.py_):
@@ -292,7 +277,7 @@ scrapy crawl ow -s JOBDIR=crawls/20170715
   
 After some time, Scrapy is finished and shows some statistics about the crawl:
 
-```
+```text
 2017-07-15 12:34:11 [scrapy] INFO: Crawled 6092 pages (at 79 pages/min), scraped 84004 items (at 1185 items/min)
 2017-07-15 12:35:07 [scrapy] INFO: Closing spider (finished)
 2017-07-15 12:35:07 [scrapy] INFO: Dumping Scrapy stats:
@@ -318,10 +303,10 @@ After some time, Scrapy is finished and shows some statistics about the crawl:
      'start_time': datetime.datetime(2017, 7, 15, 9, 46, 11, 54206)}
 2017-07-15 12:35:07 [scrapy] INFO: Spider closed (finished)  
 ```
- 
+
 And the post data is in the Sqlite3 database:
 
-```shell    
+```shell
 sqlite3 results.db "SELECT COUNT(*) FROM post"
 # 80239
 ```

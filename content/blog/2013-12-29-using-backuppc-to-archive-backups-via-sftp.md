@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-12-29 17:20:55 +01:00
-date_gmt: 2013-12-29 16:20:55 +0000
+date: 2013-12-29T16:20:55.000Z
 excerpt: Here's a little wrapper script I wrote to let BackupPC archive onto a SFTP server.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - backuppc
   - remote
   - system-administration
 title: Using BackupPC to archive backups via SFTP
-wordpress_id: 719
-wordpress_url: http://www.clausconrad.com/?p=719
 ---
 ```shell
 #!/usr/bin/env csh  

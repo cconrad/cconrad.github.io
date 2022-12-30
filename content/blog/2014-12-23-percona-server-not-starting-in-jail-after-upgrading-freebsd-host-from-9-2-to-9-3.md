@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-12-23 17:57:45 +01:00
-date_gmt: 2014-12-23 16:57:45 +0000
+date: 2014-12-23T16:57:45.000Z
 excerpt: How to fix Percona server not starting in a jail after upgrading the FreeBSD host from 9.2 to 9.3
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - mysql
   - freebsd
@@ -21,8 +9,6 @@ tags:
   - percona
   - system-administration
 title: Percona server not starting in jail after upgrading FreeBSD host from 9.2 to 9.3
-wordpress_id: 808
-wordpress_url: http://www.clausconrad.com/?p=808
 ---
 1. `service mysql-server start` returned, but `service mysql-server status` showed that it was not started successfully.
 

@@ -1,27 +1,13 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2008-01-17 14:38:19 +01:00
-date_gmt: 2008-01-17 13:38:19 +0000
+date: 2008-01-17T13:38:19.000Z
 excerpt: Swedish/English and Swedish/German dictionaries
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - language
   - links
   - swedish
   - personal
 title: Swedish language
-wordpress_id: 535
-wordpress_url: http://www.clausconrad.com/?p=535
 ---
 Whenever possible I try to link to the English version of the pages, but some of them are in Swedish only. Just try to use the dictionaries from my list or ask in the forums or me if you have trouble understanding something :-)
 

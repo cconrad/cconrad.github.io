@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-12-26 17:16:15 +01:00
-date_gmt: 2013-12-26 16:16:15 +0000
+date: 2013-12-26T16:16:15.000Z
 excerpt: Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host.
-header: false
 published: true
-sidebar: left
-status: publish
 tags:
   - backup
   - freebsd
@@ -21,8 +9,6 @@ tags:
   - jails
   - system-administration
 title: Backing up FreeBSD jails using Amanda
-wordpress_id: 679
-wordpress_url: http://www.clausconrad.com/?p=679
 ---
 While looking for open-source backup solutions for jails on a FreeBSD box, I came across Amanda and Bacula. At first glance Amanda seemed easier to configure, so I tried to install it from ports. There were some hiccups, especially with regards to permissions and missing directories, so I documented the steps I needed to get it running below.
 

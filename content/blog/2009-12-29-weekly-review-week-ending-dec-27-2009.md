@@ -1,25 +1,11 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-12-29 16:41:41 +01:00
-date_gmt: 2009-12-29 15:41:41 +0000
+date: 2009-12-29T15:41:41.000Z
 excerpt: Ooh, last week was over so fast, and I didn't get lots of stuff done before Sunday/Monday due to the holidays - but it was nice spending time with my family and I had some good talks with them.
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - weekly-review
   - personal
 title: 'Weekly review: Week ending Dec 27, 2009'
-wordpress_id: 86
-wordpress_url: http://www.clausconrad2.com/?p=86
 ---
 <a id="last-week"></a>**Plans from last week:**
 

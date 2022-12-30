@@ -1,26 +1,12 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2014-10-08 08:08:37 +02:00
-date_gmt: 2014-10-08 06:08:37 +0000
-excerpt: "Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases."
-header: false
+date: 2014-10-08T06:08:37.000Z
+excerpt: Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases.
 published: true
-sidebar: left
-status: publish
 tags:
   - office
   - outlook
   - system-administration
 title: Repairing Outlook PST files
-wordpress_id: 796
-wordpress_url: http://www.clausconrad.com/?p=796
 ---
 The first challenge, however, might be finding this life-saving tool. It is called _scanpst.exe_ and its location depends on the version of Office:
 

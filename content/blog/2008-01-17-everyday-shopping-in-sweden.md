@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
 date: 2008-01-17T13:32:57.000Z
-date_gmt: 2008-01-17 13:32:57 +0000
 excerpt: Some links to Swedish supermarkets and shopping websites
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - sweden
   - food
@@ -22,8 +10,6 @@ tags:
   - supermarkets
   - personal
 title: Everyday shopping in Sweden
-wordpress_id: 528
-wordpress_url: http://www.clausconrad.com/?p=528
 ---
 I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your vacation!
 

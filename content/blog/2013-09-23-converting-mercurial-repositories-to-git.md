@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2013-09-23 11:06:13 +02:00
-date_gmt: 2013-09-23 09:06:13 +0000
-excerpt: "How to convert Mercurial (hg) repos to Git, including all commits and history:"
-header: false
+date: 2013-09-23T09:06:13.000Z
+excerpt: 'How to convert Mercurial (hg) repos to Git, including all commits and history:'
 published: true
-sidebar: left
-status: publish
 tags:
   - mercurial
   - git
@@ -21,8 +9,6 @@ tags:
   - scm
   - development
 title: Converting Mercurial repositories to Git
-wordpress_id: 607
-wordpress_url: http://www.clausconrad.com/?p=607
 ---
 1. Install Mercurial 1.7.5. Later versions may work, but that's what I use.
 2. Install [hg-git](https://hg-git.github.io/) (a Mercurial extension). I'm not exactly sure what version I use, all I can say is that the version does matter, different hg-git versions work (or not) with different Mercurial versions. A link to more information about finding the right combination is at the bottom of the hg-git page.

@@ -1,24 +1,10 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
 date: 2010-06-12T23:22:38.000Z
-date_gmt: 2010-06-12 23:22:38 +0000
 excerpt: 'Simplify updating multiple WordPress blogs by combining them into a multi-site installation:'
-header: 'no'
 published: true
-sidebar: left
-status: publish
 tags:
   - system-administration
 title: Migrating a bunch of WordPress blogs to a single WordPress 3.0 multi-site installation
-wordpress_id: 295
-wordpress_url: http://www.clausconrad.com/?p=295
 ---
 ## General setup:
 

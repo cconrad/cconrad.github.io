@@ -1,19 +1,7 @@
 ---
-author:
-  display_name: Claus Conrad
-  email: webmaster@clausconrad.com
-  login: claus
-  url: ''
-author_email: webmaster@clausconrad.com
-author_login: claus
-comments: true
-date: 2009-12-28 17:07:33 +01:00
-date_gmt: 2009-12-28 16:07:33 +0000
-excerpt: 'Review of the short story "Out of My Mind" by Richard Bach'
-header: 'no'
+date: 2009-12-28T16:07:33.000Z
+excerpt: Review of the short story "Out of My Mind" by Richard Bach
 published: true
-sidebar: left
-status: publish
 tags:
   - philosophy
   - fiction
@@ -23,8 +11,6 @@ tags:
   - short-story
   - personal
 title: Richard Bach - Out of My Mind
-wordpress_id: 440
-wordpress_url: http://www.clausconrad.com/?p=440
 ---
 In this short story, the unnamed narrator (the author himself?) starts out with a couple of problems - design flaws on his small and rather antique airplane, while not critical, continue to dim the enjoyment of his flight sessions. One day he goes to sleep, exhausted after having spent hours at his computer trying to construct a better lock for the plane's window without succeeding. On awakening the next morning a solution has suddenly appeared in his mind, he jots it down and it works perfectly.
 
