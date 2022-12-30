@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-12-26 17:16:15 +01:00
 date_gmt: 2013-12-26 16:16:15 +0000
-excerpt: "Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host.\r\n\r\n"
+excerpt: Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host.
 header: false
 published: true
 sidebar: left

@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-09-22 02:10:39 +02:00
 date_gmt: 2013-09-22 00:10:39 +0000
-excerpt: "I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break.\r\n"
+excerpt: I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break.
 header: false
 published: true
 sidebar: left

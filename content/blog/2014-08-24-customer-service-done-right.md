@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-08-24 13:04:10 +02:00
 date_gmt: 2014-08-24 11:04:10 +0000
-excerpt: "Recently, I sent a mail to Airbnb, requesting a feature that I believe would benefit me and other customers of their service. Here's what happened:\r\n\r\n"
+excerpt: "Recently, I sent a mail to Airbnb, requesting a feature that I believe would benefit me and other customers of their service. Here's what happened:"
 header: false
 published: true
 sidebar: left

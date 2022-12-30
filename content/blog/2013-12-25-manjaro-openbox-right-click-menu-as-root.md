@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-12-25 16:21:33 +01:00
 date_gmt: 2013-12-25 15:21:33 +0000
-excerpt: "After installing Manjarobox I couldn't get the application menu to work as root. Here's how I solved it:\r\n\r\n"
+excerpt: "After installing Manjarobox I couldn't get the application menu to work as root. Here's how I solved it:"
 header: false
 published: true
 sidebar: left

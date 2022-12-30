@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-12-30 20:47:30 +01:00
 date_gmt: 2013-12-30 19:47:30 +0000
-excerpt: "<p>On an i386 box FreeBSD 9.2-STABLE would hang during boot if (and only if) I had some USB drives attached to the machine.</p>\r\n"
+excerpt: "On an i386 box FreeBSD 9.2-STABLE would hang during boot if (and only if) I had some USB drives attached to the machine."
 header: false
 published: true
 sidebar: left

@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2011-02-02 18:57:06 +01:00
 date_gmt: 2011-02-02 17:57:06 +0000
+excerpt: "A feature comparison of some online mindmap tools:"
 header: 'no'
 published: true
 sidebar: left

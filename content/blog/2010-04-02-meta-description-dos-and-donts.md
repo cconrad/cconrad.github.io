@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2010-04-02 18:26:49 +02:00
 date_gmt: 2010-04-02 16:26:49 +0000
+excerpt: "Some SEO tips about meta descriptions:"
 header: 'no'
 published: true
 sidebar: left

@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2015-01-25 10:00:05 +01:00
 date_gmt: 2015-01-25 09:00:05 +0000
-excerpt: "How to run toggl-cli on Windows (using Git bash):\r\n\r\n"
+excerpt: "How to run toggl-cli on Windows (using Git bash):"
 header: false
 published: true
 sidebar: left

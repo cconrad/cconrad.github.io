@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2009-12-28 17:07:33 +01:00
 date_gmt: 2009-12-28 16:07:33 +0000
+excerpt: 'Review of the short story "Out of My Mind" by Richard Bach'
 header: 'no'
 published: true
 sidebar: left
@@ -26,7 +27,7 @@ title: Richard Bach - Out of My Mind
 wordpress_id: 440
 wordpress_url: http://www.clausconrad.com/?p=440
 ---
-In this short story, the unnamed narrator (the author himself?) starts out with a couple of problems - design flaws on his small and rather antique airplane (see picture), while not critical, continue to dim the enjoyment of his flight sessions. One day he goes to sleep, exhausted after having spent hours at his computer trying to construct a better lock for the plane's window without succeeding. On awakening the next morning a solution has suddenly appeared in his mind, he jots it down and it works perfectly.
+In this short story, the unnamed narrator (the author himself?) starts out with a couple of problems - design flaws on his small and rather antique airplane, while not critical, continue to dim the enjoyment of his flight sessions. One day he goes to sleep, exhausted after having spent hours at his computer trying to construct a better lock for the plane's window without succeeding. On awakening the next morning a solution has suddenly appeared in his mind, he jots it down and it works perfectly.
 
 Another problem presents itself and this time, the solution comes to him just as sudden, but in bright daylight - and it doesn't come alone. At the time he visualizes the new construction in his mind, he also receives a minute glimpse of an unknown woman, who appears to see him and looks just as surprised as the narrator himself. He gets the impression that this woman sent him the idea from another time and place, and his mission changes from improving his aircraft to finding and talking to the woman he "saw". By using relaxation techniques and his imagination he manages to visit a parallel universe in his mind, where he actually discovers the woman and the aircraft company she works for. He only talks to her for a few minutes, but is being shown the company hangars of her employer for about an hour by a manager.
 

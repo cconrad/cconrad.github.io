@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-04-19T12:49:36.000Z
 date_gmt: 2013-04-19 12:49:36 +0000
-excerpt: "<p>You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALdi or LIDL?</p><p>Read on -&nbsp;there might be cheaper alternatives to buy some of your food!</p>"
+excerpt: "You're living in Sweden and trying to save money by shopping at Netto, ALdi or LIDL? Read on - there might be cheaper alternatives to buy some of your food!"
 header: 'no'
 published: true
 sidebar: left

@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-09-23 11:06:13 +02:00
 date_gmt: 2013-09-23 09:06:13 +0000
-excerpt: "How to convert Mercurial (hg) repos to Git, including all commits and history:\r\n"
+excerpt: "How to convert Mercurial (hg) repos to Git, including all commits and history:"
 header: false
 published: true
 sidebar: left

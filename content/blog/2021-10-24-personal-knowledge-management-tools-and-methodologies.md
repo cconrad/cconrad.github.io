@@ -20,14 +20,20 @@ tags:
 title: Personal knowledge management tools and methodologies
 ---
 ## Hierarchical knowledge silos
+
 ### Strengths
+
 * Easy to get started; user-friendly, intuitive UX
 * Built-in synchronization
 * Freemium
+
 ### Weaknesses
+
 * Hard to get data out (proprietary XML etc.)
 * Do not impose/enforce structured note taking
+
 ### Examples
+
 * Microsoft OneNote ([for Windows 10+](https://www.microsoft.com/en-us/p/onenote-for-windows-10/9wzdncrfhvjl?activetab=pivot:overviewtab), [for Office 365/2019+](https://www.onenote.com/Download))
   * Proprietary software and storage format
   * Limited API available (Office version only)
@@ -46,18 +52,23 @@ title: Personal knowledge management tools and methodologies
   * Stored in the cloud (only)
 
 ## Graph-based knowledge silos
+
 ### Examples
+
 * [Notion](https://www.notion.so/)
 * [The Brain](https://www.thebrain.com/)
 * [Coda](https://coda.io/)
 
 ## Local-first, graph-based knowledge management apps
+
 ### Usual features
+
 * Notes often stored locally in a non-XML text format (Markdown etc.)
 * Graph-based navigation (links, tags)
 * Block references
 
 ### Examples
+
 * [Dendron](https://www.dendron.so/)
   * Open-source ([AGPL 3.0](https://github.com/dendronhq/dendron/blob/master/LICENSE.md))
   * Based on [VS Code](https://code.visualstudio.com/)
@@ -80,6 +91,7 @@ title: Personal knowledge management tools and methodologies
   * Based on Emacs
 
 ## Methodologies
+
 * [Zettelkasten](https://zettelkasten.de/posts/overview/)
 * [PARA](https://fortelabs.co/blog/para/)
 * Linking Your Thinking (LYT) ([workshop](https://www.linkingyourthinking.com/), [kit](https://www.linkingyourthinking.com/lyt-kit), [YouTube](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/featured))

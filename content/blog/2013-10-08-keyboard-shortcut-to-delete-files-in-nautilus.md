@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-10-08 17:02:34 +02:00
 date_gmt: 2013-10-08 15:02:34 +0000
-excerpt: "<p>When right clicking a file in the Nautilus file manager, there doesn't seem to be a way to delete files using a keyboard shortcut. Here's how.</p>\r\n\r\n"
+excerpt: When right clicking a file in the Nautilus file manager, there doesn't seem to be a way to delete files using a keyboard shortcut. Here's how.
 header: false
 published: true
 sidebar: left

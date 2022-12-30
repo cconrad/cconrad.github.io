@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2015-02-10 12:17:37 +01:00
 date_gmt: 2015-02-10 11:17:37 +0000
-excerpt: "<p>I got this not so helpful error while using Browserify to bundle a web application.</p>\r\n"
+excerpt: "I got this not so helpful error while using Browserify to bundle a web application.</p>"
 header: false
 published: true
 sidebar: left

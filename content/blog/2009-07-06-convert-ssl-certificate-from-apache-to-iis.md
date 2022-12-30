@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2009-07-06 11:19:26 +02:00
 date_gmt: 2009-07-06 09:19:26 +0000
+excerpt: How to convert SSL certificates for use with IIS
 header: 'no'
 published: true
 sidebar: left

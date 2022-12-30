@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-12-23 18:58:23 +01:00
 date_gmt: 2013-12-23 17:58:23 +0000
-excerpt: "<p>While configuring my HTPC via SSH, I needed to deactivate its screensaver without having access to its own keyboard or mouse. Here's how to do that from the (SSH) command line:</p>\r\n"
+excerpt: "While configuring my HTPC via SSH, I needed to deactivate its screensaver without having access to its own keyboard or mouse. Here's how to do that from the (SSH) command line:"
 header: false
 published: true
 sidebar: left

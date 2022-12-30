@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2015-02-10 19:29:33 +01:00
 date_gmt: 2015-02-10 18:29:33 +0000
-excerpt: "My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:\r\n\r\n"
+excerpt: "My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:"
 header: false
 published: true
 sidebar: left

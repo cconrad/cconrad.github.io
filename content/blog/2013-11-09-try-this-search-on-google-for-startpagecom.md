@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-11-09 14:27:30 +01:00
 date_gmt: 2013-11-09 13:27:30 +0000
-excerpt: "Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that.\r\n\r\n"
+excerpt: "Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that."
 header: false
 published: true
 sidebar: left

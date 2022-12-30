@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-08-21 15:24:15 +02:00
 date_gmt: 2014-08-21 13:24:15 +0000
-excerpt: "The Kendo UI Datepicker has no configuration option to show it all the time. How to inspect and theme it?\r\n\r\n"
+excerpt: "The Kendo UI Datepicker has no configuration option to show it all the time. How to inspect and theme it?"
 header: false
 published: true
 sidebar: left

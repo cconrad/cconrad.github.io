@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-11-09 18:58:31 +01:00
 date_gmt: 2013-11-09 17:58:31 +0000
-excerpt: "<p>The default installation path of Python 2.7 on SmartOS is /opt/local/bin/python2.7, let's make this easier:</p>\r\n"
+excerpt: "The default installation path of Python 2.7 on SmartOS is /opt/local/bin/python2.7, let's make this easier:"
 header: false
 published: true
 sidebar: left

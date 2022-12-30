@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-11-03 21:12:13 +01:00
 date_gmt: 2013-11-03 20:12:13 +0000
-excerpt: "Sudo on FreeBSD uses the users PATH to find the command it is asked to run. Here's how to change that to use root's PATH instead.\r\n\r\n"
+excerpt: "Sudo on FreeBSD uses the users PATH to find the command it is asked to run. Here's how to change that to use root's PATH instead."
 header: false
 published: true
 sidebar: left

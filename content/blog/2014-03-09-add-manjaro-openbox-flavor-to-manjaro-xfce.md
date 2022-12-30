@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2014-03-09 21:51:23 +01:00
 date_gmt: 2014-03-09 20:51:23 +0000
+excerpt: "How to add Manjaro Openbox flavor to Manjaro XFCE:"
 header: false
 published: true
 sidebar: left

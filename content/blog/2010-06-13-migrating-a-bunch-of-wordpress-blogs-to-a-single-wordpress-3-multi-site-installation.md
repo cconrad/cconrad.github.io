@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2010-06-13 01:22:38 +02:00
 date_gmt: 2010-06-12 23:22:38 +0000
+excerpt: "Simplify updating multiple WordPress blogs by combining them into a multi-site installation:"
 header: 'no'
 published: true
 sidebar: left

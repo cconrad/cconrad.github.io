@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-11-24 20:29:59 +01:00
 date_gmt: 2014-11-24 19:29:59 +0000
-excerpt: Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook.
+excerpt: Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook, which came with "Asus Screen Saver". Here is how to uninstall it.
 header: false
 published: true
 sidebar: left
@@ -22,7 +22,7 @@ title: Uninstall "Asus Screen Saver"
 wordpress_id: 798
 wordpress_url: http://www.clausconrad.com/?p=798
 ---
-The reason I chose this instead of the main competitor (in my country of residence, Sweden) Lenovo MiiX 2 was the battery lifetime and my previous experience with Asus; I own one of their Ultrabooks, which has never let me down and still now, approx. 3-4 years after purchasing it, feels like the fastest and most stable computer I ever owned.
+The reason I chose this machine instead of the main competitor (in my country of residence, Sweden) Lenovo MiiX 2 was the battery lifetime and my previous experience with Asus; I own one of their Ultrabooks, which has never let me down and still now, approx. 3-4 years after purchasing it, feels like the fastest and most stable computer I ever owned.
 
 So when I purchased my Transformer I was flabbergasted to find that one of the included applications, called "Asus Screen Saver", required a password, otherwise I was unable to uninstall it!
 

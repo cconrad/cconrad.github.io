@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2017-07-15 16:16:35 +02:00
 date_gmt: 2017-07-15 14:16:35 +0000
-excerpt: "The <a href=\"/blog/scrapy-example-posts-from-ongoingworlds\">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:\r\n"
+excerpt: "The <a href=\"/blog/scrapy-example-posts-from-ongoingworlds\">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:"
 header: false
 published: true
 sidebar: left

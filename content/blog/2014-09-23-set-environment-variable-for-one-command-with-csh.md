@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-09-23 19:34:26 +02:00
 date_gmt: 2014-09-23 17:34:26 +0000
-excerpt: "Setting an environment variable for the next command is easy with bash - as it turns out, also with csh. Here's how:\r\n\r\n"
+excerpt: "Setting an environment variable for the next command is easy with bash - as it turns out, also with csh. Here's how:"
 header: false
 published: true
 sidebar: left

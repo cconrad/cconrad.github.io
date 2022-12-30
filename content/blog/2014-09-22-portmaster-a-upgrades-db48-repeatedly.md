@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-09-22 18:55:58 +02:00
 date_gmt: 2014-09-22 16:55:58 +0000
-excerpt: "On a FreeBSD box, each time I ran \"portmaster -a\" it wanted to reinstall the <em>db48</em> package. This fixed it:\r\n\r\n"
+excerpt: "On a FreeBSD box, each time I ran \"portmaster -a\" it wanted to reinstall the <em>db48</em> package. This fixed it:"
 header: false
 published: true
 sidebar: left

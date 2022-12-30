@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2014-12-23 17:57:45 +01:00
 date_gmt: 2014-12-23 16:57:45 +0000
+excerpt: How to fix Percona server not starting in a jail after upgrading the FreeBSD host from 9.2 to 9.3
 header: false
 published: true
 sidebar: left

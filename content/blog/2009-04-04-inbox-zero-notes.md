@@ -11,7 +11,7 @@ categories:
 comments: true
 date: 2009-04-04 21:46:14 +02:00
 date_gmt: 2009-04-04 19:46:14 +0000
-excerpt: 'I just watched Merlin Mann’s brilliant productivity video “Inbox Zero” from 2007 for the second time, these are my unedited notes from the video:'
+excerpt: 'I just watched Merlin Mann’s brilliant productivity video "Inbox Zero" from 2007 for the second time, these are my unedited notes from the video:'
 header: 'no'
 published: true
 sidebar: left

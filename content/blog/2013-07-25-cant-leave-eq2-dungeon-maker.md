@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2013-07-25T10:08:56.000Z
 date_gmt: 2013-07-25 10:08:56 +0000
-excerpt: "When designing a dungeon in EQ2's Dungeon Maker, the \"Leave dungeon\" on the Housing window might not work. Here's a workaround:\r\n"
+excerpt: "When designing a dungeon in EQ2's Dungeon Maker, the \"Leave dungeon\" on the Housing window might not work. Here's a workaround:"
 header: false
 published: true
 sidebar: left

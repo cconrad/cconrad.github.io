@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-08-25 09:25:56 +02:00
 date_gmt: 2014-08-25 07:25:56 +0000
-excerpt: "While testing some code using Plunker I discovered that it doesn't support IE9.\r\n\r\n"
+excerpt: "While testing some code using Plunker I discovered that it doesn't support IE9."
 header: false
 published: true
 sidebar: left

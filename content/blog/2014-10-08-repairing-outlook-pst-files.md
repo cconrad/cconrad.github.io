@@ -9,7 +9,7 @@ author_login: claus
 comments: true
 date: 2014-10-08 08:08:37 +02:00
 date_gmt: 2014-10-08 06:08:37 +0000
-excerpt: "Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases.\r\n\r\n"
+excerpt: "Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases."
 header: false
 published: true
 sidebar: left
