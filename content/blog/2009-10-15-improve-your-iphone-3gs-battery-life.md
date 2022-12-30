@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Howto
 comments: true
 date: 2009-10-15 01:21:58 +02:00
 date_gmt: 2009-10-15 01:21:58 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - iphone
+  - howto
 title: Improve your iPhone 3G's battery life
 wordpress_id: 114
 wordpress_url: http://www.clausconrad2.com/?p=114

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-09-11 16:34:44 +02:00
 date_gmt: 2009-09-11 14:34:44 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - drupal
+  - development
 title: File copy error after activating Drupal translation
 wordpress_id: 122
 wordpress_url: http://www.clausconrad2.com/?p=122

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-10-29 18:11:35 +01:00
 date_gmt: 2009-10-29 17:11:35 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - solaris
+  - system-administration
 title: Installing updates on Solaris 10 from the command line
 wordpress_id: 108
 wordpress_url: http://www.clausconrad2.com/?p=108

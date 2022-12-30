@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-12-29 15:33:39 +01:00
 date_gmt: 2009-12-29 14:33:39 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - solaris
+  - system-administration
 title: Sort ls output by date ascending
 wordpress_id: 88
 wordpress_url: http://www.clausconrad2.com/?p=88

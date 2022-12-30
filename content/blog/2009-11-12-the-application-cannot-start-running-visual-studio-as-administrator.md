@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-11-12 16:39:55 +01:00
 date_gmt: 2009-11-12 15:39:55 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - dotnet
+  - development
 title: '"The application cannot start" running Visual Studio as Administrator'
 wordpress_id: 106
 wordpress_url: http://www.clausconrad2.com/?p=106

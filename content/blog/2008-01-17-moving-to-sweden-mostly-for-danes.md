@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17 14:34:58 +01:00
 date_gmt: 2008-01-17 13:34:58 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - sweden
   - moving
+  - personal
 title: Moving to Sweden, mostly for Danes
 wordpress_id: 530
 wordpress_url: http://www.clausconrad.com/?p=530

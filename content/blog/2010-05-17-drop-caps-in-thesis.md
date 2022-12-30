@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2010-05-17 22:36:14 +02:00
 date_gmt: 2010-05-17 20:36:14 +0000
@@ -20,6 +18,7 @@ tags:
   - wordpress
   - thesis
   - css
+  - development
 title: Drop caps in Thesis
 wordpress_id: 258
 wordpress_url: http://www.clausconrad.com/?p=258

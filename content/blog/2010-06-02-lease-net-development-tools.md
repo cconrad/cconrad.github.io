@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2010-06-02 15:29:50 +02:00
 date_gmt: 2010-06-02 13:29:50 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - microsoft
+  - development
 title: Lease .NET development tools
 wordpress_id: 270
 wordpress_url: http://www.clausconrad.com/blog/lease-net-development-tools

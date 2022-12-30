@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17 14:27:06 +01:00
 date_gmt: 2008-01-17 13:27:06 +0000
@@ -24,6 +22,7 @@ tags:
   - bus
   - plane
   - transportation
+  - personal
 title: Public transport in Sweden
 wordpress_id: 521
 wordpress_url: http://www.clausconrad.com/?p=521

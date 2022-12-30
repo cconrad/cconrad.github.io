@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2011-02-26 11:04:52 +01:00
 date_gmt: 2011-02-26 10:04:52 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - weekly-review
+  - personal
 title: 'Weekly review: Week ending February 25, 2011'
 wordpress_id: 390
 wordpress_url: http://www.clausconrad.com/?p=390

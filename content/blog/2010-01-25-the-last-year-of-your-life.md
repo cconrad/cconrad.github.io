@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2010-01-25 13:19:20 +01:00
 date_gmt: 2010-01-25 12:19:20 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - productivity
+  - personal
 title: The Last Year Of Your Life
 wordpress_id: 438
 wordpress_url: http://www.clausconrad.com/?p=438

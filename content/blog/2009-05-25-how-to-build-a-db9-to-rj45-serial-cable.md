@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-05-25 22:13:54 +02:00
 date_gmt: 2009-05-25 20:13:54 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - cisco
   - hardware
+  - system-administration
 title: How to build a DB9-to-RJ45 serial cable
 wordpress_id: 144
 wordpress_url: http://www.clausconrad2.com/?p=144

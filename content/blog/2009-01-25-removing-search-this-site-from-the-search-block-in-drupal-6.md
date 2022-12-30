@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-01-25 08:45:25 +01:00
 date_gmt: 2009-01-25 08:45:25 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - drupal
+  - development
 title: Removing "Search this site" from the search block in Drupal 6
 wordpress_id: 160
 wordpress_url: http://www.clausconrad2.com/?p=160

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-09-07 16:56:33 +02:00
 date_gmt: 2009-09-07 14:56:33 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - performance
+  - development
 title: Comparing Content Delivery Networks
 wordpress_id: 124
 wordpress_url: http://www.clausconrad2.com/?p=124

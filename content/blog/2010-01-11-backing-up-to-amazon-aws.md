@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2010-01-11 04:52:23 +01:00
 date_gmt: 2010-01-11 03:52:23 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - aws
+  - system-administration
 title: Backing up to Amazon AWS
 wordpress_id: 84
 wordpress_url: http://www.clausconrad2.com/?p=84

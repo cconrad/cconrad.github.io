@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-09-23 03:16:22 +02:00
 date_gmt: 2009-09-23 01:16:22 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - linux
+  - system-administration
 title: Monitoring open network connections and listening ports on Debian Lenny
 wordpress_id: 118
 wordpress_url: http://www.clausconrad2.com/?p=118

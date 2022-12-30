@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Howto
 comments: true
 date: 2009-04-04 21:46:14 +02:00
 date_gmt: 2009-04-04 19:46:14 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - productivity
   - email
+  - howto
 title: Inbox Zero
 wordpress_id: 448
 wordpress_url: http://www.clausconrad.com/?p=448

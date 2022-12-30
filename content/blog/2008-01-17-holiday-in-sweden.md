@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17 14:31:42 +01:00
 date_gmt: 2008-01-17 13:31:42 +0000
@@ -22,6 +20,7 @@ tags:
   - stockholm
   - tourism
   - wellness
+  - personal
 title: Holiday in Sweden
 wordpress_id: 526
 wordpress_url: http://www.clausconrad.com/?p=526

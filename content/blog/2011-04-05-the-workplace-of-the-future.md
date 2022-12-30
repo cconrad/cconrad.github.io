@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2011-04-05 18:55:30 +02:00
 date_gmt: 2011-04-05 16:55:30 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - philosophy
+  - personal
 title: The workplace of the future
 wordpress_id: 409
 wordpress_url: http://www.clausconrad.com/blog/the-workplace-of-the-future

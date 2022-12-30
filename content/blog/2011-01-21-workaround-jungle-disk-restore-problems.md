@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2011-01-21 10:51:50 +01:00
 date_gmt: 2011-01-21 09:51:50 +0000
@@ -20,6 +18,7 @@ tags:
   - jungledisk
   - backup
   - windows
+  - system-administration
 title: A workaround for Jungle Disk restore problems
 wordpress_id: 368
 wordpress_url: http://www.clausconrad.com/?p=368

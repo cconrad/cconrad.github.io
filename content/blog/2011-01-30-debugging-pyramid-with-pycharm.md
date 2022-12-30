@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2011-01-30 19:45:10 +01:00
 date_gmt: 2011-01-30 18:45:10 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - pyramid
   - pycharm
+  - development
 title: Debugging Pyramid with PyCharm
 wordpress_id: 373
 wordpress_url: http://www.clausconrad.com/?p=373

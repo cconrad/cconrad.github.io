@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-12-03 20:25:17 +01:00
 date_gmt: 2009-12-03 19:25:17 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - communityserver
+  - development
 title: Does your CommunityServer have spam profiles?
 wordpress_id: 100
 wordpress_url: http://www.clausconrad2.com/?p=100

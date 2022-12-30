@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-09-23 03:08:14 +02:00
 date_gmt: 2009-09-23 01:08:14 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - linux
+  - system-administration
 title: Disable port 5353 usage on Debian Lenny after installing Sun Java JRE
 wordpress_id: 120
 wordpress_url: http://www.clausconrad2.com/?p=120

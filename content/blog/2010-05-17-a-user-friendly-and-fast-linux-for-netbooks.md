@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2010-05-17 18:15:46 +02:00
 date_gmt: 2010-05-17 16:15:46 +0000
@@ -16,6 +14,8 @@ header: 'no'
 published: true
 sidebar: left
 status: publish
+tags:
+  - system-administration
 title: A user-friendly and fast Linux for netbooks?
 wordpress_id: 254
 wordpress_url: http://www.clausconrad.com/?p=254

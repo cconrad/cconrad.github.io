@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17 14:38:19 +01:00
 date_gmt: 2008-01-17 13:38:19 +0000
@@ -20,6 +18,7 @@ tags:
   - language
   - links
   - swedish
+  - personal
 title: Swedish language
 wordpress_id: 535
 wordpress_url: http://www.clausconrad.com/?p=535

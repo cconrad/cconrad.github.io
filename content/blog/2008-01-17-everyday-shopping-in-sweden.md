@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17T13:32:57.000Z
 date_gmt: 2008-01-17 13:32:57 +0000
@@ -22,6 +20,7 @@ tags:
   - living
   - shopping
   - supermarkets
+  - personal
 title: Everyday shopping in Sweden
 wordpress_id: 528
 wordpress_url: http://www.clausconrad.com/?p=528

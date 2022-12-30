@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2011-02-19 13:02:28 +01:00
 date_gmt: 2011-02-19 12:02:28 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - microsoft
   - cloud
+  - system-administration
 title: Microsoft online services
 wordpress_id: 386
 wordpress_url: http://www.clausconrad.com/?p=386

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-03-11 00:09:44 +01:00
 date_gmt: 2009-03-10 23:09:44 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - solaris
+  - system-administration
 title: Configuring sendmail on Solaris 10 to use a smart host
 wordpress_id: 156
 wordpress_url: http://www.clausconrad2.com/?p=156

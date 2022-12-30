@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-03-11 00:33:05 +01:00
 date_gmt: 2009-03-10 23:33:05 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - apache
   - security
+  - system-administration
 title: 'Less verbose Server: response header from Apache'
 wordpress_id: 150
 wordpress_url: http://www.clausconrad2.com/?p=150

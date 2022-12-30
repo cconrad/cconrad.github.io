@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-04-07 22:50:15 +02:00
 date_gmt: 2009-04-07 20:50:15 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - drupal
+  - development
 title: Accidentally removed user login block in Drupal?
 wordpress_id: 148
 wordpress_url: http://www.clausconrad2.com/?p=148

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2009-03-11 00:23:18 +01:00
 date_gmt: 2009-03-10 23:23:18 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - solaris
+  - system-administration
 title: Run a command in all non-global Solaris zones
 wordpress_id: 152
 wordpress_url: http://www.clausconrad2.com/?p=152

@@ -6,16 +6,16 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
-date: 2010-05-30 03:53:25 +02:00
+date: 2010-05-30T01:53:25.000Z
 date_gmt: 2010-05-30 01:53:25 +0000
 excerpt: Okay, so if you have met me in person you know that I'm rather slim, and whether or not you've met me I might have told you that I avoid eating sugar. I get questioned A LOT about this, so I'll try to explain why I do this.
 header: 'no'
 published: true
 sidebar: left
 status: publish
+tags:
+  - personal
 title: Why I avoid sugar
 wordpress_id: 267
 wordpress_url: http://www.clausconrad.com/blog/why-i-avoid-sugar

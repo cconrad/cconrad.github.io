@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17 14:36:23 +01:00
 date_gmt: 2008-01-17 13:36:23 +0000
@@ -22,6 +20,7 @@ tags:
   - home
   - hotel
   - house
+  - personal
 title: Living in Sweden
 wordpress_id: 532
 wordpress_url: http://www.clausconrad.com/?p=532

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2010-03-12 12:04:56 +01:00
 date_gmt: 2010-03-12 11:04:56 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - exchange
+  - system-administration
 title: Export Exchange mailbox to PST
 wordpress_id: 72
 wordpress_url: http://www.clausconrad2.com/?p=72

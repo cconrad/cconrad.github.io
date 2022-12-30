@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2010-11-14 23:48:46 +01:00
 date_gmt: 2010-11-14 22:48:46 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - weekly-review
+  - personal
 title: 'Weekly review: Week ending November 14, 2010'
 wordpress_id: 334
 wordpress_url: http://www.clausconrad.com/?p=334

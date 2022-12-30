@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - System administration
 comments: true
 date: 2010-01-13 19:51:27 +01:00
 date_gmt: 2010-01-13 18:51:27 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - aws
+  - system-administration
 title: Slow Amazon EC2 rsync / SCP / SFTP upload speeds?
 wordpress_id: 82
 wordpress_url: http://www.clausconrad2.com/?p=82

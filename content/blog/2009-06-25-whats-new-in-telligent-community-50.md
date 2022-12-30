@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-06-25 11:35:15 +02:00
 date_gmt: 2009-06-25 11:35:15 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - communityserver
+  - development
 title: What's new in Telligent Community 5.0?
 wordpress_id: 133
 wordpress_url: http://www.clausconrad2.com/?p=133

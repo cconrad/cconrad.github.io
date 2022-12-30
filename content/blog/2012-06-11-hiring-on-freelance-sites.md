@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Howto
 comments: true
 date: 2012-06-11 20:53:28 +02:00
 date_gmt: 2012-06-11 18:53:28 +0000

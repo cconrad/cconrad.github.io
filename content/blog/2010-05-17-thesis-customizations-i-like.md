@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2010-05-17 23:08:29 +02:00
 date_gmt: 2010-05-17 21:08:29 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - thesis
+  - development
 title: Thesis customizations I like
 wordpress_id: 261
 wordpress_url: http://www.clausconrad.com/blog/thesis-customizations-i-like

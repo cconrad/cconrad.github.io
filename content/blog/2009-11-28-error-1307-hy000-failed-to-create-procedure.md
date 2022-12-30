@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2009-11-28 19:07:18 +01:00
 date_gmt: 2009-11-28 18:07:18 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - mysql
+  - development
 title: 'ERROR 1307 (HY000): Failed to CREATE PROCEDURE'
 wordpress_id: 104
 wordpress_url: http://www.clausconrad2.com/?p=104

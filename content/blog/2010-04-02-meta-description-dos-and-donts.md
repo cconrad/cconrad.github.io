@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Development
 comments: true
 date: 2010-04-02 18:26:49 +02:00
 date_gmt: 2010-04-02 16:26:49 +0000
@@ -18,6 +16,7 @@ sidebar: left
 status: publish
 tags:
   - seo
+  - development
 title: Meta description do's and don'ts
 wordpress_id: 70
 wordpress_url: http://www.clausconrad2.com/?p=70

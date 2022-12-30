@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2008-01-17 14:30:11 +01:00
 date_gmt: 2008-01-17 13:30:11 +0000
@@ -22,6 +20,7 @@ tags:
   - music
   - news
   - radio
+  - personal
 title: News and radio from Sweden
 wordpress_id: 524
 wordpress_url: http://www.clausconrad.com/?p=524

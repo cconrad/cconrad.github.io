@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2009-12-28 17:07:33 +01:00
 date_gmt: 2009-12-28 16:07:33 +0000
@@ -23,6 +21,7 @@ tags:
   - novel
   - richard-bach
   - short-story
+  - personal
 title: Richard Bach - Out of My Mind
 wordpress_id: 440
 wordpress_url: http://www.clausconrad.com/?p=440

@@ -6,8 +6,6 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
 date: 2011-03-03 01:09:09 +01:00
 date_gmt: 2011-03-03 00:09:09 +0000
@@ -19,6 +17,7 @@ status: publish
 tags:
   - linux
   - rants
+  - personal
 title: Is Linux Mint adware?
 wordpress_id: 400
 wordpress_url: http://www.clausconrad.com/?p=400
