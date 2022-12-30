@@ -6,7 +6,7 @@ permalink: /atom.xml
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ siteconfig.prettyTitle }}</title>
   <subtitle>{{ siteconfig.description }}</subtitle>
-  <link href="{{ '/blog.rss' | absoluteUrl }}" rel="self"/>
+  <link href="{{ '/atom.xml' | absoluteUrl }}" rel="self"/>
   <link href="{{ siteconfig.url }}"/>
   <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
   <id>{{ siteconfig.url }}</id>
