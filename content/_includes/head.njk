@@ -49,6 +49,7 @@ toggleDarkLightMode(true);
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="{{ '/assets/favicons/browserconfig.xml' | addHash }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="{{ eleventy.generator }}">
 {% set description = description | truncate(55) %}
 {% if description %}<meta name="description" content="{{ description }}">{% endif %}
 <meta property="og:url" content="{{ page.url | absoluteUrl }}">
