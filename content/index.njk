@@ -23,8 +23,7 @@ permalink: "/{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber + 1 
                 <div class="flex">📅 {{ post.date | readableDate }}
                 </div>
                 <div class="readingtime flex" data-words="{% if post.templateContent %}{{ post.templateContent | striptags | wordcount | formatWords }}{% else %}0{% endif %} words">
-                    <span class="h-5 w-8 mr-2 ml-12">⌛
-                    </span>
+                    <span class="h-5 w-8 ml-12">⌛</span>
                     {% if post.templateContent %}
                         {{ post.templateContent | striptags | wordcount | readingTime }}
                     {% else %}
