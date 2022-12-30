@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2012-07-14 00:00:37 +02:00
 date_gmt: 2012-07-13 22:00:37 +0000
+excerpt: It's been almost a year since I wrote my last weekly review here - and I can't promise to write one next week either.
 header: 'no'
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - weekly-review
   - personal
-teaser: It's been almost a year since I wrote my last weekly review here - and I can't promise to write one next week either.
 title: 'Weekly review: Week ending July 14, 2012'
 wordpress_id: 470
 wordpress_url: http://www.clausconrad.com/?p=470

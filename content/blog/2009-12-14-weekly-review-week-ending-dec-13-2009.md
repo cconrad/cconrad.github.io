@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-12-14 15:47:52 +01:00
 date_gmt: 2009-12-14 14:47:52 +0000
+excerpt: 'Plans from last week:'
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - weekly-review
-teaser: 'Plans from last week:'
 title: 'Weekly review: Week ending Dec 13, 2009'
 wordpress_id: 92
 wordpress_url: http://www.clausconrad2.com/?p=92

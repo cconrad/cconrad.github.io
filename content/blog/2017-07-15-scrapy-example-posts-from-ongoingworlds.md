@@ -17,7 +17,6 @@ status: publish
 tags:
   - scrapy
   - development
-teaser: Scrapy is a software project for fetching structured data (think spreadsheets or databases) from any website. These are some notes for dummies and forgetful people like me.
 title: 'Scrapy example: posts from OngoingWorlds'
 wordpress_id: 873
 wordpress_url: http://www.clausconrad.com/?p=873

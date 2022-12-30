@@ -11,11 +11,11 @@ categories:
 comments: true
 date: 2009-06-25 20:25:39 +02:00
 date_gmt: 2009-06-25 18:25:39 +0000
+excerpt: Scott Hanselman recently wrote up a list of "<a href="https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books">Six Essential Language Agnostic Programming Books</a>". That list, including the comments with other suggestions, is certainly worth a look. I have to admit that I haven't read most of what he lists, and only skimmed others.
 header: 'no'
 published: true
 sidebar: left
 status: publish
-teaser: Scott Hanselman recently wrote up a list of "<a href="https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books">Six Essential Language Agnostic Programming Books</a>". That list, including the comments with other suggestions, is certainly worth a look. I have to admit that I haven't read most of what he lists, and only skimmed others.
 title: Programming and productivity publications
 wordpress_id: 443
 wordpress_url: http://www.clausconrad.com/?p=443

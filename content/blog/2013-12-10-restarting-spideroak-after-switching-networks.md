@@ -18,7 +18,6 @@ tags:
   - linux
   - spideroak
   - system-administration
-teaser: 'When disconnecting from a network and reconnecting later, SpiderOak always stays "disconnected" here and doesn''t backup any more files. Here''s a simple script I run in that case:'
 title: Restarting SpiderOak after switching networks
 wordpress_id: 664
 wordpress_url: http://www.clausconrad.com/?p=664

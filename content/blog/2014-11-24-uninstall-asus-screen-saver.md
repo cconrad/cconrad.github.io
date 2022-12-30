@@ -18,7 +18,6 @@ tags:
   - hardware
   - windows
   - system-administration
-teaser: Recently I purchased an Asus Transformer 2-in-1 / hybrid tablet/notebook.
 title: Uninstall "Asus Screen Saver"
 wordpress_id: 798
 wordpress_url: http://www.clausconrad.com/?p=798

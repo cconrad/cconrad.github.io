@@ -11,11 +11,11 @@ categories:
 comments: true
 date: 2010-05-17 18:15:46 +02:00
 date_gmt: 2010-05-17 16:15:46 +0000
+excerpt: Thanks to <a href="https://www.makeuseof.com/tag/jolicloud-operating-system-download-for-netbook/">MakeUseOf</a> I discovered Jolicloud, a version of Linux optimized for netbooks.
 header: 'no'
 published: true
 sidebar: left
 status: publish
-teaser: Thanks to <a href="https://www.makeuseof.com/tag/jolicloud-operating-system-download-for-netbook/">MakeUseOf</a> I discovered Jolicloud, a version of Linux optimized for netbooks.
 title: A user-friendly and fast Linux for netbooks?
 wordpress_id: 254
 wordpress_url: http://www.clausconrad.com/?p=254

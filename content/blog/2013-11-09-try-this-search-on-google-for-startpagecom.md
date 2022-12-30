@@ -19,7 +19,6 @@ tags:
   - userscript
   - chrome
   - development
-teaser: Trying alternative search engines is fun, but sometimes you want to repeat your search on good ol' Google. This script helps Startpage users achieve that.
 title: '"Try this search on Google" for startpage.com'
 wordpress_id: 648
 wordpress_url: http://www.clausconrad.com/?p=648

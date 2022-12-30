@@ -16,7 +16,6 @@ sidebar: left
 status: publish
 tags:
   - personal
-teaser: 'I realize this is a very short blog post, but I just wanted to point anyone interested at this link:'
 title: Gamify your life
 wordpress_id: 791
 wordpress_url: http://www.clausconrad.com/?p=791

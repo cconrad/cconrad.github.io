@@ -20,7 +20,6 @@ tags:
   - ssh
   - htpc
   - system-administration
-teaser: 'While configuring my HTPC via SSH, I needed to deactivate its screensaver without having access to its own keyboard or mouse. Here''s how to do that from the (SSH) command line:'
 title: Deactivate xscreensaver via SSH
 wordpress_id: 667
 wordpress_url: http://www.clausconrad.com/?p=667

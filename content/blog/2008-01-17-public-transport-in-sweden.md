@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2008-01-17 14:27:06 +01:00
 date_gmt: 2008-01-17 13:27:06 +0000
+excerpt: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 header: 'no'
 published: true
 sidebar: left
@@ -23,7 +24,6 @@ tags:
   - bus
   - plane
   - transportation
-teaser: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 title: Public transport in Sweden
 wordpress_id: 521
 wordpress_url: http://www.clausconrad.com/?p=521

@@ -9,13 +9,13 @@ author_login: claus
 comments: true
 date: 2012-11-30 14:12:07 +01:00
 date_gmt: 2012-11-30 13:12:07 +0000
+excerpt: Caldecott is a ruby gem required for e. g. tunneling to AppFog services. This short writeup explains how to get it running on Windows.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - development
-teaser: Caldecott is a ruby gem required for e. g. tunneling to AppFog services. This short writeup explains how to get it running on Windows.
 title: Installing Caldecott on Windows
 wordpress_id: 497
 wordpress_url: http://www.clausconrad.com/?p=497

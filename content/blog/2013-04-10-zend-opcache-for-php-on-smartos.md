@@ -19,7 +19,6 @@ tags:
   - smartos
   - php
   - system-administration
-teaser: Installing an opcode cache such as Zend OPcache is a simple way to improve your PHP's performance on SmartOS. Here's how.
 title: Zend OPcache for PHP on SmartOS
 wordpress_id: 548
 wordpress_url: http://www.clausconrad.com/?p=548

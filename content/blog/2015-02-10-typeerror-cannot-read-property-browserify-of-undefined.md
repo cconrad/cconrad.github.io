@@ -17,7 +17,6 @@ status: publish
 tags:
   - browserify
   - development
-teaser: I got this not so helpful error while using Browserify to bundle a web application.
 title: 'TypeError: Cannot read property ''browserify'' of undefined'
 wordpress_id: 820
 wordpress_url: http://www.clausconrad.com/?p=820

@@ -18,7 +18,6 @@ tags:
   - freebsd
   - pc-bsd
   - system-administration
-teaser: I am currently learning my way around PC-BSD 9.2. Read more about why and my findings after the break.
 title: Installing software on PC-BSD 9.2 - for dummies
 wordpress_id: 598
 wordpress_url: http://www.clausconrad.com/?p=598

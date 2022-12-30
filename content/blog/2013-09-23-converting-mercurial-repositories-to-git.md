@@ -20,7 +20,6 @@ tags:
   - hg
   - scm
   - development
-teaser: 'How to convert Mercurial (hg) repos to Git, including all commits and history:'
 title: Converting Mercurial repositories to Git
 wordpress_id: 607
 wordpress_url: http://www.clausconrad.com/?p=607

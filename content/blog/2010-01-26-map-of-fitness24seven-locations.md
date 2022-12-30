@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2010-01-26 20:11:11 +01:00
 date_gmt: 2010-01-26 19:11:11 +0000
+excerpt: I created a map of locations of the gym chain Fitness 24Seven to make it easier to find one near me (and you).
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - health
-teaser: I created a map of locations of the gym chain Fitness 24Seven to make it easier to find one near me (and you).
 title: Map of Fitness24Seven locations
 wordpress_id: 76
 wordpress_url: http://www.clausconrad2.com/?p=76

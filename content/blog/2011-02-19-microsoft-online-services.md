@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2011-02-19 13:02:28 +01:00
 date_gmt: 2011-02-19 12:02:28 +0000
+excerpt: Navigating the plethora of Microsoft's online solutions can be confusing. Here's a high-level overview to help you choose.
 header: 'no'
 published: true
 sidebar: left
@@ -18,7 +19,6 @@ status: publish
 tags:
   - microsoft
   - cloud
-teaser: Navigating the plethora of Microsoft's online solutions can be confusing. Here's a high-level overview to help you choose.
 title: Microsoft online services
 wordpress_id: 386
 wordpress_url: http://www.clausconrad.com/?p=386

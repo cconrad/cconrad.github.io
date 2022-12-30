@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2013-03-31 18:45:07 +02:00
 date_gmt: 2013-03-31 16:45:07 +0000
+excerpt: '"wp-external-update-check" is a small WordPress plugin that lets you check your WordPress site(s) for updates.'
 header: 'no'
 published: true
 sidebar: left
@@ -18,7 +19,6 @@ tags:
   - opensource
   - jenkins
   - system-administration
-teaser: '"wp-external-update-check" is a small WordPress plugin that lets you check your WordPress site(s) for updates.'
 title: Check for WordPress updates from the outside
 wordpress_id: 539
 wordpress_url: http://www.clausconrad.com/?p=539

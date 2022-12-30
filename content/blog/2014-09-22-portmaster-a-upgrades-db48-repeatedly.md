@@ -17,7 +17,6 @@ status: publish
 tags:
   - freebsd
   - system-administration
-teaser: 'On a FreeBSD box, each time I ran "portmaster -a" it wanted to reinstall the <em>db48</em> package. This fixed it:'
 title: portmaster -a upgrades db48 repeatedly
 wordpress_id: 783
 wordpress_url: http://www.clausconrad.com/?p=783

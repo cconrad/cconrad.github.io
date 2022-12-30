@@ -18,7 +18,6 @@ tags:
   - nautilus
   - gnome
   - system-administration
-teaser: When right clicking a file in the Nautilus file manager, there doesn't seem to be a way to delete files using a keyboard shortcut. Here's how.
 title: Keyboard shortcut to delete files in Nautilus
 wordpress_id: 637
 wordpress_url: http://www.clausconrad.com/?p=637

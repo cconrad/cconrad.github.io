@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-10-29 18:11:35 +01:00
 date_gmt: 2009-10-29 17:11:35 +0000
+excerpt: After <a href="/blog/registering-solaris-to-receive-updates">registering your Solaris system</a> you might want to install updates from the command line. Here's how to do this in one to three easy steps.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - solaris
-teaser: After <a href="/blog/registering-solaris-to-receive-updates">registering your Solaris system</a> you might want to install updates from the command line. Here's how to do this in one to three easy steps.
 title: Installing updates on Solaris 10 from the command line
 wordpress_id: 108
 wordpress_url: http://www.clausconrad2.com/?p=108

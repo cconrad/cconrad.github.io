@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-12-29 16:41:41 +01:00
 date_gmt: 2009-12-29 15:41:41 +0000
+excerpt: Ooh, last week was over so fast, and I didn't get lots of stuff done before Sunday/Monday due to the holidays - but it was nice spending time with my family and I had some good talks with them.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - weekly-review
-teaser: Ooh, last week was over so fast, and I didn't get lots of stuff done before Sunday/Monday due to the holidays - but it was nice spending time with my family and I had some good talks with them.
 title: 'Weekly review: Week ending Dec 27, 2009'
 wordpress_id: 86
 wordpress_url: http://www.clausconrad2.com/?p=86

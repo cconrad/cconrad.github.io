@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2011-07-09 20:00:18 +02:00
 date_gmt: 2011-07-09 18:00:18 +0000
+excerpt: Shortly after the launch of the Google+ project, GPlus.to began to offer personal URLs to Google+ profiles. If you have your own domain, here's a way to an even more personalized Google+ profile URL.
 header: 'no'
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - google-plus
   - howto
-teaser: Shortly after the launch of the Google+ project, GPlus.to began to offer personal URLs to Google+ profiles. If you have your own domain, here's a way to an even more personalized Google+ profile URL.
 title: Personalize your Google+ URL
 wordpress_id: 432
 wordpress_url: http://www.clausconrad.com/?p=432

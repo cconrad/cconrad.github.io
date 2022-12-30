@@ -18,7 +18,6 @@ tags:
   - backuppc
   - remote
   - system-administration
-teaser: Here's a little wrapper script I wrote to let BackupPC archive onto a SFTP server.
 title: Using BackupPC to archive backups via SFTP
 wordpress_id: 719
 wordpress_url: http://www.clausconrad.com/?p=719

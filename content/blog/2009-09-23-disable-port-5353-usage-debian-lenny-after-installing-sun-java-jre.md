@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-09-23 03:08:14 +02:00
 date_gmt: 2009-09-23 01:08:14 +0000
+excerpt: After installing Sun's Java JRE I noticed that a new service <em>avahi-deamon</em> was listening on UDP port 5353.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - linux
-teaser: After installing Sun's Java JRE I noticed that a new service <em>avahi-deamon</em> was listening on UDP port 5353.
 title: Disable port 5353 usage on Debian Lenny after installing Sun Java JRE
 wordpress_id: 120
 wordpress_url: http://www.clausconrad2.com/?p=120

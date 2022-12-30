@@ -19,7 +19,6 @@ tags:
   - pc-bsd
   - xfce
   - system-administration
-teaser: 'How to open your Xfce''s application menu using the Windows key in three easy steps:'
 title: Using the Windows key to open Xfce application menu
 wordpress_id: 605
 wordpress_url: http://www.clausconrad.com/?p=605

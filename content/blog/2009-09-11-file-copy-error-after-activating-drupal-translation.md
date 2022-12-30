@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-09-11 16:34:44 +02:00
 date_gmt: 2009-09-11 14:34:44 +0000
+excerpt: Getting the error "Filen kan ikke kopieres, fordi filen med det angivne navn ikke eksisterer. Undersøg venligst om du har angivet det korrekte filnavn." after you install and activate the Danish translation of Drupal?
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - drupal
-teaser: Getting the error "Filen kan ikke kopieres, fordi filen med det angivne navn ikke eksisterer. Undersøg venligst om du har angivet det korrekte filnavn." after you install and activate the Danish translation of Drupal?
 title: File copy error after activating Drupal translation
 wordpress_id: 122
 wordpress_url: http://www.clausconrad2.com/?p=122

@@ -21,7 +21,6 @@ tags:
   - cli
   - bash
   - howto
-teaser: 'How to run toggl-cli on Windows (using Git bash):'
 title: Toggl command line on Windows
 wordpress_id: 818
 wordpress_url: http://www.clausconrad.com/?p=818

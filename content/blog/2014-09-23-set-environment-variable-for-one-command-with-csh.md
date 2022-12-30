@@ -17,7 +17,6 @@ status: publish
 tags:
   - freebsd
   - system-administration
-teaser: 'Setting an environment variable for the next command is easy with bash - as it turns out, also with csh. Here''s how:'
 title: Set environment variable for one command with csh
 wordpress_id: 785
 wordpress_url: http://www.clausconrad.com/?p=785

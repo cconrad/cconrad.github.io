@@ -16,7 +16,6 @@ sidebar: left
 status: publish
 tags:
   - development
-teaser: The Kendo UI Datepicker has no configuration option to show it all the time. How to inspect and theme it?
 title: Inspecting a Kendo UI Datepicker for theming
 wordpress_id: 773
 wordpress_url: http://www.clausconrad.com/?p=773

@@ -21,7 +21,6 @@ tags:
   - cli
   - wifi
   - system-administration
-teaser: 'How to avoid having to wait for Manjaro to auto-connect to your iPhone''s hotspot, when you activate tethering:'
 title: Faster iPhone tethering with Manjaro
 wordpress_id: 659
 wordpress_url: http://www.clausconrad.com/?p=659

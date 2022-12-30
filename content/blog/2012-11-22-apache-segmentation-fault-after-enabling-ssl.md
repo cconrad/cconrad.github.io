@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2012-11-22 17:18:14 +01:00
 date_gmt: 2012-11-22 16:18:14 +0000
+excerpt: If you use the Zend Server (CE) PHP distribution on Debian/Ubuntu, apparently there is a conflict between PHP's <em>curl</em> extension and Apache's <em>mod_ssl</em>, resulting in a segmentation fault (crash) upon starting Apache.
 header: 'no'
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - howto
   - system-administration
-teaser: If you use the Zend Server (CE) PHP distribution on Debian/Ubuntu, apparently there is a conflict between PHP's <em>curl</em> extension and Apache's <em>mod_ssl</em>, resulting in a segmentation fault (crash) upon starting Apache.
 title: Apache segmentation fault after enabling SSL
 wordpress_id: 490
 wordpress_url: http://www.clausconrad.com/?p=490

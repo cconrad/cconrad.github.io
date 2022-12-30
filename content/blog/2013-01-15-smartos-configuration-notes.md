@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2013-01-15 14:07:37 +01:00
 date_gmt: 2013-01-15 13:07:37 +0000
+excerpt: Some notes about my experimentations with SmartOS (for personal use).
 header: 'no'
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - smartos
   - system-administration
-teaser: Some notes about my experimentations with SmartOS (for personal use).
 title: SmartOS configuration notes
 wordpress_id: 504
 wordpress_url: http://www.clausconrad.com/?p=504

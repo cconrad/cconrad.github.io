@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2013-01-13 15:14:27 +01:00
 date_gmt: 2013-01-13 14:14:27 +0000
+excerpt: <blockquote>RBTray is a small Windows program that runs in the background and allows almost any window to be minimized to the system tray by right clicking its minimize button.</blockquote>
 header: 'no'
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - windows
   - howto
-teaser: <blockquote>RBTray is a small Windows program that runs in the background and allows almost any window to be minimized to the system tray by right clicking its minimize button.</blockquote>
 title: Minimize (almost) any window to the systray
 wordpress_id: 502
 wordpress_url: http://www.clausconrad.com/?p=502

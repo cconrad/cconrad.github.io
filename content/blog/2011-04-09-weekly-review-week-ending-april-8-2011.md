@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2011-04-09 17:09:36 +02:00
 date_gmt: 2011-04-09 15:09:36 +0000
+excerpt: 'Plans from last week:'
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - weekly-review
-teaser: 'Plans from last week:'
 title: 'Weekly review: Week ending April 8, 2011'
 wordpress_id: 418
 wordpress_url: http://www.clausconrad.com/?p=418

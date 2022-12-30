@@ -18,7 +18,6 @@ tags:
   - nerdy
   - selfimprovement
   - personal
-teaser: If you believe in the power of positive affirmations, why not combine it with the security of strong passwords?
 title: Positive passwords
 wordpress_id: 794
 wordpress_url: http://www.clausconrad.com/?p=794

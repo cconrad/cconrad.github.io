@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2011-01-30 19:45:10 +01:00
 date_gmt: 2011-01-30 18:45:10 +0000
+excerpt: I recently came across the PyCharm IDE and almost instantly fell in love.
 header: 'no'
 published: true
 sidebar: left
@@ -18,7 +19,6 @@ status: publish
 tags:
   - pyramid
   - pycharm
-teaser: I recently came across the PyCharm IDE and almost instantly fell in love.
 title: Debugging Pyramid with PyCharm
 wordpress_id: 373
 wordpress_url: http://www.clausconrad.com/?p=373

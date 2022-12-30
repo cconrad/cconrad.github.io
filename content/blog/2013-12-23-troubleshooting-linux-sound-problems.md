@@ -20,7 +20,6 @@ tags:
   - alsa
   - pulseaudio
   - system-administration
-teaser: Some personal notes about troubleshooting audio problems with HDMI out on a HTPC running Arch Linux.
 title: Troubleshooting Linux sound problems
 wordpress_id: 669
 wordpress_url: http://www.clausconrad.com/?p=669

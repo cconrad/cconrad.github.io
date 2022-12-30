@@ -19,7 +19,6 @@ tags:
   - backuppc
   - lighttpd
   - system-administration
-teaser: I have been running <a href="https://backuppc.github.io/backuppc/">BackupPC</a> to back up jails on a FreeBSD box for a while now and been very satisfied with its stability. However recently I ran into problems with upgrading Apache, which is used as an optional web interface for BackupPC.
 title: Running BackupPC with lighttpd instead of Apache
 wordpress_id: 787
 wordpress_url: http://www.clausconrad.com/?p=787

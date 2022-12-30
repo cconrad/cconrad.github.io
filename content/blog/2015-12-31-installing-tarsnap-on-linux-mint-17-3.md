@@ -19,7 +19,6 @@ tags:
   - tarsnap
   - acts
   - system-administration
-teaser: Just some notes-to-self on how to compile and install <a href="https://www.tarsnap.com/">tarsnap</a> and <a href="https://github.com/alexjurkiewicz/acts">acts</a> on Ubuntu 14.04 and its derivatives.
 title: Installing tarsnap on Linux Mint 17.3
 wordpress_id: 834
 wordpress_url: http://www.clausconrad.com/?p=834

@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-11-12 16:39:55 +01:00
 date_gmt: 2009-11-12 15:39:55 +0000
+excerpt: Copy <em>dte*.olb</em> from <em>C:\Program Files (X86)\Common Files\Microsoft Shared\MSEnv</em> to <em>C:\Program Files X86\Microsoft Visual Studio 9.0\Common7\IDE</em>.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - dotnet
-teaser: Copy <em>dte*.olb</em> from <em>C:\Program Files (X86)\Common Files\Microsoft Shared\MSEnv</em> to <em>C:\Program Files X86\Microsoft Visual Studio 9.0\Common7\IDE</em>.
 title: '"The application cannot start" running Visual Studio as Administrator'
 wordpress_id: 106
 wordpress_url: http://www.clausconrad2.com/?p=106

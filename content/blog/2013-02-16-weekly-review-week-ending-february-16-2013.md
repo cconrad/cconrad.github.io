@@ -9,13 +9,13 @@ author_login: claus
 comments: true
 date: 2013-02-16 14:28:08 +01:00
 date_gmt: 2013-02-16 13:28:08 +0000
+excerpt: Trying to get into the routine of writing these updates again...
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - personal
-teaser: Trying to get into the routine of writing these updates again...
 title: 'Weekly review: Week ending February 16, 2013'
 wordpress_id: 509
 wordpress_url: http://www.clausconrad.com/?p=509

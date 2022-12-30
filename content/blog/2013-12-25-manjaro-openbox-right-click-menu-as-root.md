@@ -18,7 +18,6 @@ tags:
   - manjaro
   - openbox
   - system-administration
-teaser: 'After installing Manjarobox I couldn''t get the application menu to work as root. Here''s how I solved it:'
 title: Manjaro Openbox right-click menu as root
 wordpress_id: 677
 wordpress_url: http://www.clausconrad.com/?p=677

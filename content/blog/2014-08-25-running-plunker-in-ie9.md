@@ -16,7 +16,6 @@ sidebar: left
 status: publish
 tags:
   - development
-teaser: While testing some code using Plunker I discovered that it doesn't support IE9.
 title: Running Plunker in IE9
 wordpress_id: 777
 wordpress_url: http://www.clausconrad.com/?p=777

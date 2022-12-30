@@ -16,7 +16,6 @@ sidebar: left
 status: publish
 tags:
   - personal
-teaser: I have used most types of operating systems throughout the years. For those not interested in a little history, please skip this entry. Otherwise, read more after the break.
 title: My hardware and OS history
 wordpress_id: 599
 wordpress_url: http://www.clausconrad.com/?p=599

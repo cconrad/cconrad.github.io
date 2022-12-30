@@ -18,7 +18,6 @@ tags:
   - backup
   - opensource
   - python
-teaser: A simple script to backup your Diigo bookmarks to a JSON file.
 title: Diigo backup script
 wordpress_id: 541
 wordpress_url: http://www.clausconrad.com/?p=541

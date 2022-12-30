@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2011-02-26 11:04:52 +01:00
 date_gmt: 2011-02-26 10:04:52 +0000
+excerpt: 'Plans from last week:'
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - weekly-review
-teaser: 'Plans from last week:'
 title: 'Weekly review: Week ending February 25, 2011'
 wordpress_id: 390
 wordpress_url: http://www.clausconrad.com/?p=390

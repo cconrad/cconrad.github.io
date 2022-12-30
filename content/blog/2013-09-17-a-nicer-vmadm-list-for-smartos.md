@@ -18,7 +18,6 @@ tags:
   - smartos
   - python
   - system-administration
-teaser: The default output of <code>vmadm list</code> in SmartOS can be a little hard to read (especially if you, like me, use long aliases for your zones). Here is a little Python script that formats the list of VMs for a more user-friendly output.
 title: A nicer "vmadm list" for SmartOS
 wordpress_id: 591
 wordpress_url: http://www.clausconrad.com/?p=591

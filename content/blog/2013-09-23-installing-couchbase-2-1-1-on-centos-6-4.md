@@ -19,7 +19,6 @@ tags:
   - centos
   - rhel
   - system-administration
-teaser: The installation instructions at couchbase.com can result in error messages when installing 2.1.1 on CentOS. Here's how to resolve those.
 title: Installing Couchbase 2.1.1 on CentOS 6.4
 wordpress_id: 609
 wordpress_url: http://www.clausconrad.com/?p=609

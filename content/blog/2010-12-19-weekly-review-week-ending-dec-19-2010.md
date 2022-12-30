@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2010-12-19 21:49:45 +01:00
 date_gmt: 2010-12-19 20:49:45 +0000
+excerpt: 'Plans from last week:'
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - weekly-review
-teaser: 'Plans from last week:'
 title: 'Weekly review: Week ending Dec 19, 2010'
 wordpress_id: 353
 wordpress_url: http://www.clausconrad.com/?p=353

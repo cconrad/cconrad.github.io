@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-01-25 08:45:25 +01:00
 date_gmt: 2009-01-25 08:45:25 +0000
+excerpt: Recently I wanted to remove the label "Search this site:" from Drupal 6's search block, preferably without resorting to any hacks such as parsing a text string for "Search this site:" (which could break whenever a new minor Drupal release gets out) or hiding the label in CSS (while this is not the worst solution, I always prefer not to output any unnecessary markup). Placing the following function in _template.php_ seems to do the trick in a clean way.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - drupal
-teaser: Recently I wanted to remove the label "Search this site:" from Drupal 6's search block, preferably without resorting to any hacks such as parsing a text string for "Search this site:" (which could break whenever a new minor Drupal release gets out) or hiding the label in CSS (while this is not the worst solution, I always prefer not to output any unnecessary markup). Placing the following function in _template.php_ seems to do the trick in a clean way.
 title: Removing "Search this site" from the search block in Drupal 6
 wordpress_id: 160
 wordpress_url: http://www.clausconrad2.com/?p=160

@@ -9,13 +9,13 @@ author_login: claus
 comments: true
 date: 2012-11-26 11:06:08 +01:00
 date_gmt: 2012-11-26 10:06:08 +0000
+excerpt: If you use AppFog and develop using IntelliJ IDEA, PhpStorm, RubyMine, PyCharm or WebStorm, this command line tool configuration file can make your job a bit easier.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - development
-teaser: If you use AppFog and develop using IntelliJ IDEA, PhpStorm, RubyMine, PyCharm or WebStorm, this command line tool configuration file can make your job a bit easier.
 title: AppFog command line tool support for Jetbrains IDEs
 wordpress_id: 492
 wordpress_url: http://www.clausconrad.com/?p=492

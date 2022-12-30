@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2008-01-17 14:31:42 +01:00
 date_gmt: 2008-01-17 13:31:42 +0000
+excerpt: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your vacation!
 header: 'no'
 published: true
 sidebar: left
@@ -21,7 +22,6 @@ tags:
   - stockholm
   - tourism
   - wellness
-teaser: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 title: Holiday in Sweden
 wordpress_id: 526
 wordpress_url: http://www.clausconrad.com/?p=526

@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2011-08-06 14:27:52 +02:00
 date_gmt: 2011-08-06 12:27:52 +0000
+excerpt: Skype can now be used as a SIP gateway, enabling integration with legacy phones and PBX.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - system-administration
-teaser: Skype can now be used as a SIP gateway, enabling integration with legacy phones and PBX.
 title: Skype as a SIP gateway
 wordpress_id: 434
 wordpress_url: http://www.clausconrad.com/?p=434

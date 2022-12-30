@@ -17,7 +17,6 @@ status: publish
 tags:
   - airbnb
   - personal
-teaser: 'Recently, I sent a mail to Airbnb, requesting a feature that I believe would benefit me and other customers of their service. Here''s what happened:'
 title: Customer service done right
 wordpress_id: 775
 wordpress_url: http://www.clausconrad.com/?p=775

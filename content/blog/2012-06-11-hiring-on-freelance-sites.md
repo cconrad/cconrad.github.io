@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2012-06-11 20:53:28 +02:00
 date_gmt: 2012-06-11 18:53:28 +0000
+excerpt: Thanks to another blog (unfortunately I can't remember where I read it) I have begun asking for "catch phrases" in job offerings on freelance sites.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - howto
-teaser: Thanks to another blog (unfortunately I can't remember where I read it) I have begun asking for "catch phrases" in job offerings on freelance sites.
 title: Hiring on freelance sites
 wordpress_id: 452
 wordpress_url: http://www.clausconrad.com/?p=452

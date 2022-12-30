@@ -19,7 +19,6 @@ tags:
   - tweet
   - nerdy
   - personal
-teaser: For the first time, all my SaltStack minions at home are turned on and reachable concurrently.
 title: Embracing Salt
 ---
 ![salt](/assets/img/salt-2021-10-17_18-01-49.png)

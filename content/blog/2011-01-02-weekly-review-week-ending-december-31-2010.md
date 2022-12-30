@@ -6,18 +6,17 @@ author:
   url: ''
 author_email: webmaster@clausconrad.com
 author_login: claus
-categories:
-  - Personal
 comments: true
-date: 2011-01-02 00:35:00 +01:00
+date: 2011-01-01T23:35:00.000Z
 date_gmt: 2011-01-01 23:35:00 +0000
+excerpt: No, the date's no mistake - due to a post about <a href="https://sachachua.com/blog/2010/11/week-beginnings/">week beginnings</a> by Sacha Chua (who also inspired me to write these weekly reviews in the first place) I am now ending my weeks on Fridays.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
+  - personal
   - weekly-review
-teaser: No, the date's no mistake - due to a post about <a href="https://sachachua.com/blog/2010/11/week-beginnings/">week beginnings</a> by Sacha Chua (who also inspired me to write these weekly reviews in the first place) I am now ending my weeks on Fridays.
 title: 'Weekly review: Week ending December 31, 2010'
 wordpress_id: 361
 wordpress_url: http://www.clausconrad.com/?p=361

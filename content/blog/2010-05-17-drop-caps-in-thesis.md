@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2010-05-17 22:36:14 +02:00
 date_gmt: 2010-05-17 20:36:14 +0000
+excerpt: Reading Asnio inspired me to implement drop caps on this blog, and searching for an easy way to add them I came across Miguel's post on <a href="http://webhole.net/2009/11/03/thesis-theme-tip-how-to-add-drop-caps-to-all-posts/">adding drop caps to all posts  in Thesis</a> at once.
 header: 'no'
 published: true
 sidebar: left
@@ -19,7 +20,6 @@ tags:
   - wordpress
   - thesis
   - css
-teaser: Reading Asnio inspired me to implement drop caps on this blog, and searching for an easy way to add them I came across Miguel's post on <a href="http://webhole.net/2009/11/03/thesis-theme-tip-how-to-add-drop-caps-to-all-posts/">adding drop caps to all posts  in Thesis</a> at once.
 title: Drop caps in Thesis
 wordpress_id: 258
 wordpress_url: http://www.clausconrad.com/?p=258

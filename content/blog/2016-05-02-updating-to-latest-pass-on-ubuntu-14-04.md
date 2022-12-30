@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2016-05-02 21:11:38 +02:00
 date_gmt: 2016-05-02 19:11:38 +0000
+excerpt: The password manager "pass" is in Ubuntu's repository, but the version on 14.04 is quite old and does not support e.g. the "find" command ("pass find somesite.com", where "somesite.com" is in a subfolder of the password store).
 header: false
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - ubuntu
   - howto
-teaser: The password manager "pass" is in Ubuntu's repository, but the version on 14.04 is quite old and does not support e.g. the "find" command ("pass find somesite.com", where "somesite.com" is in a subfolder of the password store).
 title: Updating to latest "pass" on Ubuntu 14.04
 wordpress_id: 856
 wordpress_url: http://www.clausconrad.com/?p=856

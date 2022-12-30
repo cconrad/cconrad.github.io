@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2011-06-27 21:10:40 +02:00
 date_gmt: 2011-06-27 19:10:40 +0000
+excerpt: 'Backing up my Flickr photos has been on my to-do list for a while. Today I finally researched solutions; these two applications appear to be the best ones:'
 header: 'no'
 published: true
 sidebar: left
@@ -16,7 +17,6 @@ status: publish
 tags:
   - backup
   - howto
-teaser: 'Backing up my Flickr photos has been on my to-do list for a while. Today I finally researched solutions; these two applications appear to be the best ones:'
 title: Flickr backup tools
 wordpress_id: 429
 wordpress_url: http://www.clausconrad.com/?p=429

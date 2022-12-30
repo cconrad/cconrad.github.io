@@ -20,7 +20,6 @@ tags:
   - keyboard
   - whisker-menu
   - system-administration
-teaser: 'Here''s a quick trick for conveniently launching applications using the Windows key plus another key in Xfce4:'
 title: Using Windows key combinations in Xfce
 wordpress_id: 674
 wordpress_url: http://www.clausconrad.com/?p=674

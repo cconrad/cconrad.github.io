@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2011-04-07 11:23:26 +02:00
 date_gmt: 2011-04-07 09:23:26 +0000
+excerpt: Over the last week or so I've been testing a product called Colour Catcher that promises to reduce or even eliminate the risk of discolored clothes, increasing the lifetime of ones garments and allowing one to wash more different clothes at the same time.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - review
-teaser: Over the last week or so I've been testing a product called Colour Catcher that promises to reduce or even eliminate the risk of discolored clothes, increasing the lifetime of ones garments and allowing one to wash more different clothes at the same time.
 title: Colour Catcher review
 wordpress_id: 410
 wordpress_url: http://www.clausconrad.com/?p=410

@@ -9,6 +9,7 @@ author_login: claus
 comments: true
 date: 2016-04-16 09:18:37 +02:00
 date_gmt: 2016-04-16 07:18:37 +0000
+excerpt: "When creating a Google Compute Engine&nbsp;instance from a publicly shared image which is not in your own project nor one of the default projects -&nbsp;such as FreeBSD&nbsp;-&nbsp;the <em>image-project</em> can be specified on the <em>gcloud</em> command line. Here's how to do the same when using <em>salt-cloud </em>instead of <em>gcloud</em>:\r\n"
 header: false
 published: true
 sidebar: left
@@ -19,7 +20,6 @@ tags:
   - saltstack
   - salt-cloud
   - system-administration
-teaser: "When creating a Google Compute Engine&nbsp;instance from a publicly shared image which is not in your own project nor one of the default projects -&nbsp;such as FreeBSD&nbsp;-&nbsp;the <em>image-project</em> can be specified on the <em>gcloud</em> command line. Here's how to do the same when using <em>salt-cloud </em>instead of <em>gcloud</em>:\r\n"
 title: Create a FreeBSD GCE instance with salt-cloud
 wordpress_id: 851
 wordpress_url: http://www.clausconrad.com/?p=851

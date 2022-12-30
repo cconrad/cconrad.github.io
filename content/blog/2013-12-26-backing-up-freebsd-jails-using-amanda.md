@@ -20,7 +20,6 @@ tags:
   - amanda
   - jails
   - system-administration
-teaser: Some notes about how I set up Amanda server and clients to back up jails on a FreeBSD host.
 title: Backing up FreeBSD jails using Amanda
 wordpress_id: 679
 wordpress_url: http://www.clausconrad.com/?p=679

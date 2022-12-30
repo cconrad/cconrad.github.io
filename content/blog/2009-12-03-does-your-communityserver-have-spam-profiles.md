@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-12-03 20:25:17 +01:00
 date_gmt: 2009-12-03 19:25:17 +0000
+excerpt: If you run a popular web community based on Telligents CommunityServer platform and allow everyone to register without e-mail verification for convenience, spammers are likely to know this too.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - communityserver
-teaser: If you run a popular web community based on Telligents CommunityServer platform and allow everyone to register without e-mail verification for convenience, spammers are likely to know this too.
 title: Does your CommunityServer have spam profiles?
 wordpress_id: 100
 wordpress_url: http://www.clausconrad2.com/?p=100

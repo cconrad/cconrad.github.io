@@ -19,7 +19,6 @@ tags:
   - office
   - outlook
   - system-administration
-teaser: 'When logging in to Outlook on the web (sometimes known as Outlook Web Access or Office 365), sometimes my browser constantly reloads the page, switching between different domains, but never showing anything but a blank page. I was able to solve this in Chrome as follows:'
 title: Page constantly reloads after logging in to Outlook on the web
 wordpress_id: 864
 wordpress_url: http://www.clausconrad.com/?p=864

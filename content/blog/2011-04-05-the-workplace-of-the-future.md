@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2011-04-05 18:55:30 +02:00
 date_gmt: 2011-04-05 16:55:30 +0000
+excerpt: I just read a report from Skype (via <a href="https://mashable.com/archive/wfh-survey">Mashable</a>) that finds 62% of all surveyed companies already use remote workers, i.e. employees working from home ("WFH") some or all of their time.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - philosophy
-teaser: I just read a report from Skype (via <a href="https://mashable.com/archive/wfh-survey">Mashable</a>) that finds 62% of all surveyed companies already use remote workers, i.e. employees working from home ("WFH") some or all of their time.
 title: The workplace of the future
 wordpress_id: 409
 wordpress_url: http://www.clausconrad.com/blog/the-workplace-of-the-future

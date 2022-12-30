@@ -18,7 +18,6 @@ tags:
   - office
   - outlook
   - system-administration
-teaser: Being met with an error when opening Outlook or (worse), an archived PST file, can be a frightening experience. Fortunately Microsoft's Inbox Repair Tool does a good job at recovering mails in many cases.
 title: Repairing Outlook PST files
 wordpress_id: 796
 wordpress_url: http://www.clausconrad.com/?p=796

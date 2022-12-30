@@ -19,7 +19,6 @@ tags:
   - php-fpm
   - nginx
   - system-administration
-teaser: 'After updating a FreeBSD jail I got the dreaded "502 Bad gateway" error from nginx, here''s how I fixed it:'
 title: '"Bad gateway" with nginx, PHP-FPM using FreeBSD socket'
 wordpress_id: 779
 wordpress_url: http://www.clausconrad.com/?p=779

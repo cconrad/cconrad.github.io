@@ -20,7 +20,6 @@ tags:
   - django
   - web
   - canvas
-teaser: As a newbie to Django, getting an empty page in the Facebook canvas tricked me up quite a bit. Here are some reasons for getting a blank canvas, even though your app works when accessed directly.
 title: Django app as Facebook canvas app
 wordpress_id: 741
 wordpress_url: http://www.clausconrad.com/?p=741

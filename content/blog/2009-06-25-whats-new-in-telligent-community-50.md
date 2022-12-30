@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-06-25 11:35:15 +02:00
 date_gmt: 2009-06-25 11:35:15 +0000
+excerpt: Are you considering to upgrade your CommunityServer 2008.5 to the newest edition 5.0, now dubbed Telligent Community? Here's a list of differences between the two versions.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - communityserver
-teaser: Are you considering to upgrade your CommunityServer 2008.5 to the newest edition 5.0, now dubbed Telligent Community? Here's a list of differences between the two versions.
 title: What's new in Telligent Community 5.0?
 wordpress_id: 133
 wordpress_url: http://www.clausconrad2.com/?p=133

@@ -20,7 +20,6 @@ tags:
   - vera
   - home-automation
   - system-administration
-teaser: 'Here''s how I configured my girlfriend''s Vera to shutdown her (Windows-based) HTPC when a certain scene gets triggered:'
 title: Shutdown HTPC from Vera controller
 wordpress_id: 846
 wordpress_url: http://www.clausconrad.com/?p=846

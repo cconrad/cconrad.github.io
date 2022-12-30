@@ -20,7 +20,6 @@ tags:
   - firewall
   - system-administration
   - ufw
-teaser: How to set up a simple firewall on your Manjaro-powered laptop or desktop computer.
 title: Easy firewall setup for Manjaro Linux
 wordpress_id: 735
 wordpress_url: http://www.clausconrad.com/?p=735

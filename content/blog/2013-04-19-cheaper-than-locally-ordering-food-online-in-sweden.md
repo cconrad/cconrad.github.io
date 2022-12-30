@@ -7,16 +7,15 @@ author:
 author_email: webmaster@clausconrad.com
 author_login: claus
 comments: true
-date: 2013-04-19 14:49:36 +02:00
+date: 2013-04-19T12:49:36.000Z
 date_gmt: 2013-04-19 12:49:36 +0000
-excerpt: "You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALDI or LIDL?\r\n\r\nRead on -&nbsp;there might be cheaper alternatives to buy some of your food!"
+excerpt: "<p>You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALdi or LIDL?</p><p>Read on -&nbsp;there might be cheaper alternatives to buy some of your food!</p>"
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - personal
-teaser: You're a parent? Living in Sweden? Trying to save money by shopping at Netto, ALDI or LIDL? Read on - there might be cheaper alternatives to buy some of your food!
 title: 'Cheaper than locally: ordering food online in Sweden'
 wordpress_id: 555
 wordpress_url: http://www.clausconrad.com/?p=555

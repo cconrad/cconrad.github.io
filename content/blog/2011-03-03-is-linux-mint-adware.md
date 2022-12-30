@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2011-03-03 01:09:09 +01:00
 date_gmt: 2011-03-03 00:09:09 +0000
+excerpt: I'm an avid reader of LifeHacker and recently tried out the Linux Mint distribution after reading <a href="http//lifehacker.com/#!5469575/why-linux-mint-might-be-a-better-beginners-linux-than-ubuntu">this post</a>.
 header: 'no'
 published: true
 sidebar: left
@@ -18,7 +19,6 @@ status: publish
 tags:
   - linux
   - rants
-teaser: I'm an avid reader of LifeHacker and recently tried out the Linux Mint distribution after reading <a href="http//lifehacker.com/#!5469575/why-linux-mint-might-be-a-better-beginners-linux-than-ubuntu">this post</a>.
 title: Is Linux Mint adware?
 wordpress_id: 400
 wordpress_url: http://www.clausconrad.com/?p=400

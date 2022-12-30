@@ -17,7 +17,6 @@ status: publish
 tags:
   - pkm
   - personal
-teaser: I am looking into organizing my notes in a better way, here is a collection of the tools and related methodologies I have come across so far.
 title: Personal knowledge management tools and methodologies
 ---
 ## Hierarchical knowledge silos

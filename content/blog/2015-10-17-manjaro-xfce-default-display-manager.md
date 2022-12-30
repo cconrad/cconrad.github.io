@@ -17,7 +17,6 @@ status: publish
 tags:
   - manjaro
   - system-administration
-teaser: The default display manager of Manjaro XFCE Edition, version 2015.09, is <a href="https://wiki.manjaro.org/index.php/Install_Display_Managers#LightDM">LightDM</a>.
 title: Manjaro XFCE default display manager
 wordpress_id: 830
 wordpress_url: http://www.clausconrad.com/?p=830

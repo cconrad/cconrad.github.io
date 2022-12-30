@@ -18,7 +18,6 @@ tags:
   - freebsd
   - digitalocean
   - system-administration
-teaser: 'My FreeBSD droplets on DigitalOcean used to hang on the following line when rebooted:'
 title: FreeBSD hangs on reboot on DigitalOcean
 wordpress_id: 822
 wordpress_url: http://www.clausconrad.com/?p=822

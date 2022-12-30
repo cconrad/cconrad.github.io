@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-09-07 16:56:33 +02:00
 date_gmt: 2009-09-07 14:56:33 +0000
+excerpt: Comparison of some popular Content Delivery Networks (CDN) targeting SMB customers.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - performance
-teaser: Comparison of some popular Content Delivery Networks (CDN) targeting SMB customers.
 title: Comparing Content Delivery Networks
 wordpress_id: 124
 wordpress_url: http://www.clausconrad2.com/?p=124

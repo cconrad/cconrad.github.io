@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2009-03-11 00:09:44 +01:00
 date_gmt: 2009-03-10 23:09:44 +0000
+excerpt: 'Solaris 10 comes with sendmail, a very powerful but also very complex mail server. This tutorial covers only a very specific scenario, for which I was unable to find an example: I wanted sendmail to accept mail from any computer in my LAN and relay (forward) all of those mails to a “smart host”, i.e. an external mail server provided by my ISP.'
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - solaris
-teaser: 'Solaris 10 comes with sendmail, a very powerful but also very complex mail server. This tutorial covers only a very specific scenario, for which I was unable to find an example: I wanted sendmail to accept mail from any computer in my LAN and relay (forward) all of those mails to a “smart host”, i.e. an external mail server provided by my ISP.'
 title: Configuring sendmail on Solaris 10 to use a smart host
 wordpress_id: 156
 wordpress_url: http://www.clausconrad2.com/?p=156

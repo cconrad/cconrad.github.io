@@ -18,7 +18,6 @@ tags:
   - smartos
   - python
   - system-administration
-teaser: 'The default installation path of Python 2.7 on SmartOS is /opt/local/bin/python2.7, let''s make this easier:'
 title: Fix for python path on SmartOS
 wordpress_id: 652
 wordpress_url: http://www.clausconrad.com/?p=652

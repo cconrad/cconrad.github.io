@@ -18,7 +18,6 @@ tags:
   - linux
   - security
   - system-administration
-teaser: 'How to solve the error "404 Not Found" during Kali Linux updates:'
 title: Error 404 updating Kali Linux
 wordpress_id: 756
 wordpress_url: http://www.clausconrad.com/?p=756

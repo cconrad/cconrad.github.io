@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2008-01-17 14:38:19 +01:00
 date_gmt: 2008-01-17 13:38:19 +0000
+excerpt: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 header: 'no'
 published: true
 sidebar: left
@@ -19,7 +20,6 @@ tags:
   - language
   - links
   - swedish
-teaser: I’ll be moving to Sweden in about a month, so I collected some links which I’d like to share here. I hope there is something of interest to you, whether you are thinking of moving to Sweden or just need some help for your holiday!
 title: Swedish language
 wordpress_id: 535
 wordpress_url: http://www.clausconrad.com/?p=535

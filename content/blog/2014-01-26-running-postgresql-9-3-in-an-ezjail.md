@@ -19,7 +19,6 @@ tags:
   - jails
   - postgresql
   - system-administration
-teaser: 'To get this working I had to follow these steps:'
 title: Running Postgresql 9.3 in an ezjail
 wordpress_id: 751
 wordpress_url: http://www.clausconrad.com/?p=751

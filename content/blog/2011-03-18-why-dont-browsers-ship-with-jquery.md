@@ -9,13 +9,13 @@ author_login: claus
 comments: true
 date: 2011-03-18 12:21:52 +01:00
 date_gmt: 2011-03-18 11:21:52 +0000
+excerpt: This is really not so much a blog entry as it is a question... why don't browsers "ship" with jQuery and other common frameworks?
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - development
-teaser: This is really not so much a blog entry as it is a question... why don't browsers "ship" with jQuery and other common frameworks?
 title: Why don't browsers ship with jQuery?
 wordpress_id: 403
 wordpress_url: http://www.clausconrad.com/?p=403

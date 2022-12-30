@@ -11,13 +11,13 @@ categories:
 comments: true
 date: 2010-01-13 19:51:27 +01:00
 date_gmt: 2010-01-13 18:51:27 +0000
+excerpt: I experienced very slow speeds when uploading files to a small (m1.small) Amazon EC2 instance using the SCP and SFTP3 protocols with rsync, WinSCP and Tunnelier BitVise - around 30-40 kB/sec.
 header: 'no'
 published: true
 sidebar: left
 status: publish
 tags:
   - aws
-teaser: I experienced very slow speeds when uploading files to a small (m1.small) Amazon EC2 instance using the SCP and SFTP3 protocols with rsync, WinSCP and Tunnelier BitVise - around 30-40 kB/sec.
 title: Slow Amazon EC2 rsync / SCP / SFTP upload speeds?
 wordpress_id: 82
 wordpress_url: http://www.clausconrad2.com/?p=82

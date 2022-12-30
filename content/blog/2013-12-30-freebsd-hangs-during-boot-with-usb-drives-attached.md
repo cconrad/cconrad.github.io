@@ -17,7 +17,6 @@ status: publish
 tags:
   - freebsd
   - system-administration
-teaser: On an i386 box FreeBSD 9.2-STABLE would hang during boot if (and only if) I had some USB drives attached to the machine.
 title: FreeBSD hangs during boot with USB drives attached
 wordpress_id: 730
 wordpress_url: http://www.clausconrad.com/?p=730

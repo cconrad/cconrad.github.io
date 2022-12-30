@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2011-01-21 10:51:50 +01:00
 date_gmt: 2011-01-21 09:51:50 +0000
+excerpt: 'When trying to restore a backup taken using Jungle Disk Server Edition on a workstation running Jungle Disk Desktop Edition I received the following error message:'
 header: 'no'
 published: true
 sidebar: left
@@ -19,7 +20,6 @@ tags:
   - jungledisk
   - backup
   - windows
-teaser: 'When trying to restore a backup taken using Jungle Disk Server Edition on a workstation running Jungle Disk Desktop Edition I received the following error message:'
 title: A workaround for Jungle Disk restore problems
 wordpress_id: 368
 wordpress_url: http://www.clausconrad.com/?p=368
