@@ -80,26 +80,6 @@ html[class="dark"] .social svg:hover {
     stroke: white;
 }
 
-html:not(.dark) svg.twitter {
-    fill: #1da1f2;
-    stroke: #1da1f2;
-}
-
-html:not(.dark) svg.twitter:hover {
-    fill: #1b90d8;
-    stroke: #1b90d8;
-}
-
-html:not(.dark) svg.facebook {
-    fill: #4267b2;
-    stroke: #4267b2;
-}
-
-html:not(.dark) svg.facebook:hover {
-    fill: #375593;
-    stroke: #375593;
-}
-
 html:not(.dark) svg.linkedin {
     fill: #0072b1;
     stroke: #0072b1;
