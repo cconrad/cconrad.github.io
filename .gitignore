@@ -38,6 +38,3 @@ scripts/temp-output/*
 # Locally built assets
 assets/css/*-build.css
 assets/js/min.*
-
-# Local Netlify folder
-.netlify

@@ -5,9 +5,10 @@
   "description": "Personal blog and digital garden",
   "author": "Claus Conrad",
   "scripts": {
-    "build": "npm run build:css && npm run build:js && npm run build:eleventy ",
+    "build": "npm run build:env && npm run build:css && npm run build:js && npm run build:eleventy ",
     "build:css": "postcss assets/css/site.css -o assets/css/site-build.css && postcss assets/css/prism.css -o assets/css/prism-build.css",
     "build:eleventy": "eleventy",
+    "build:env": "bash build-env.sh",
     "build:js": "rollup -c scripts/rollup.config.js",
     "dev": "concurrently \"npm:dev:*\"",
     "dev:css:prism": "postcss assets/css/prism.css -o assets/css/prism-build.css --watch",
