@@ -7,3 +7,9 @@
   cache-control: max-age=31536000
   cache-control: public
   cache-control: immutable
+/blog/category/*
+  x-robots-tag: noindex
+/links/*
+  x-robots-tag: noindex
+/page*
+  x-robots-tag: noindex
