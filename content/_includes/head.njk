@@ -51,7 +51,6 @@ toggleDarkLightMode(true);
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="{{ eleventy.generator }}">
 {% set description = description | truncate(55) %}
-{% if description %}<meta name="description" content="{{ description }}">{% elif excerpt %}<meta name="description" content="{{ excerpt }}">{% endif %}
 <meta property="og:url" content="{{ page.url | absoluteUrl }}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{% if title %}{{ title }} | {% endif %}{{ siteconfig.prettyTitle }}">

@@ -1,16 +1,18 @@
 ---
 eleventyExcludeFromCollections: true
 layout: base.njk
+meta:
+  description:
+    value: "Personal blog of Claus Conrad - where I sometimes write about my life, technology that I love or hate, and other boring stuff."
 pagination:
   alias: posts
   data: collections.posts
   generatePageOnEmptyData: true
   reverse: true
   size: 5
+permalink: /{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber + 1 }}/{% endif %}
 title: Posts
-permalink: "/{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
-
 <div class="postlist pb-8 mt-8 font-light dark:font-extralight">
     {% for post in posts %}
         <div class="pt-2">
