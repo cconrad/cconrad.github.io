@@ -19,10 +19,12 @@ JavaScript, jQuery, Dojo, Sencha Touch, Angular, AJAX, JSON, .NET, Windows Forms
 
 ## Personal data
 
+<dl>
 <dt>Born:</dt><dd>1981 in Flensburg, Germany</dd>
 <dt>Residence:</dt><dd>Farum, Denmark since 2020</dd>
 <dt>Worked in:</dt><dd>Denmark and Sweden</dd>
 <dt>In IT:</dt><dd>Since 2004</dd>
+</dl>
 
 ## Languages
 
