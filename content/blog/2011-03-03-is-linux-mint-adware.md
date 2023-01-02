@@ -1,7 +1,7 @@
 ---
 date: 2011-03-03T00:09:09.000Z
-excerpt: I'm an avid reader of LifeHacker and recently tried out the Linux Mint distribution after reading <a href="http//lifehacker.com/#!5469575/why-linux-mint-might-be-a-better-beginners-linux-than-ubuntu">this post</a>.
-published: true
+excerpt: I'm an avid reader of LifeHacker and recently tried out the Linux Mint distribution after reading <a href="https://lifehacker.com/why-linux-mint-might-be-a-better-beginners-linux-than-u-5469575">this post</a>.
+½published: true
 tags:
   - linux
   - rants
