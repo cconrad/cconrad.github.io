@@ -1,6 +1,6 @@
 ---
 date: 2009-10-29T17:11:35.000Z
-excerpt: After <a href="/blog/registering-solaris-to-receive-updates">registering your Solaris system</a> you might want to install updates from the command line. Here's how to do this in one to three easy steps.
+excerpt: After registering your Solaris system you might want to install updates from the command line. Here's how to do this in one to three easy steps.
 published: true
 tags:
   - solaris
