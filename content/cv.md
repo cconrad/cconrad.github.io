@@ -5,6 +5,8 @@ title: Curriculum vitae
 ---
 <div class="content page pt-4">
 
+# CV (Resume)
+
 ## Cover letter
 
 I am a software developer/technical project manager with broad expertise, having successfully implemented end-to-end solutions using numerous technologies. Most recently my primary focus has been on SPA development using open-source frameworks, though I believe in a "choosing the right tool for the right job" philosophy.

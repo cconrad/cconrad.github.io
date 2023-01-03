@@ -13,6 +13,19 @@ pagination:
 permalink: /{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber + 1 }}/{% endif %}
 title: Posts
 ---
+<div class="content page pt-4">
+{% if pagination.pageNumber == 0 %}
+    <p>Welcome to the personal blog of Claus Conrad, where I sometimes write about my life, technology that I love or hate, and other mostly boring stuff.</p>
+
+    <p>Choose one of the topics from the menu to narrow down, or find a reversed chronological list of posts below.</p>
+
+    <h1>Most recent posts</h1>
+</div>
+{% else %}
+    <h1>Blog posts (page {{ pagination.pageNumber + 1 }})</h1>
+{% endif %}
+</div>
+
 <div class="postlist pb-8 mt-8 font-light dark:font-extralight">
     {% for post in posts %}
         <div class="pt-2">
