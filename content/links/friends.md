@@ -1,6 +1,9 @@
 ---
 eleventyExcludeFromCollections: true
 layout: base.njk
+meta:
+  description:
+    value: Links to websites of family and friends
 permalink: /links/friends/
 title: 'Recommended links: Family & Friends'
 ---
