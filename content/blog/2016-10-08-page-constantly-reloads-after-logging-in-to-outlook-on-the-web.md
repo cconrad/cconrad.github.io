@@ -13,18 +13,18 @@ title: Page constantly reloads after logging in to Outlook on the web
 
 2. Scroll down and click "Show advanced settings...":
 
-   ![]({{ site.baseurl }}/assets/img/Selection_340.png)
+   ![Screenshot showing the link 'Show advanced settings...']({{ site.baseurl }}/assets/img/Selection_340.png)
 
 3. Under "Privacy", click "Content settings...":
 
-   ![]({{ site.baseurl }}/assets/img/Selection_341.png)
+   ![Screenshot showing the button 'Content settings']({{ site.baseurl }}/assets/img/Selection_341.png)
 
 4. Under "Cookies", click "All cookies and site data...":
 
-   ![]({{ site.baseurl }}/assets/img/Selection_339.png)
+   ![Screenshot showing the button 'All cookies and site data...']({{ site.baseurl }}/assets/img/Selection_339.png)
 
 5. Enter "office" into the search box, then click "Remove all shown":
 
-   ![]({{ site.baseurl }}/assets/img/Selection_338.png)
+   ![Screenshot showing 'office' typed into the search box]({{ site.baseurl }}/assets/img/Selection_338.png)
   
 You might or might not have to login again after following these steps, but Outlook finished loading after I did this.

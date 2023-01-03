@@ -49,7 +49,7 @@ title: Toggl command line on Windows
 
 7. Update the line "username" with the "E-mail" and the line "apitoken" with the API token from [your Toggl profile](https://www.toggl.com/app/profile), e.g.:
    
-   ![](https://content.screencast.com/users/clausc/folders/Jing/media/2b488de4-9d4d-40da-8c1c-59fabeb598ea/2015-01-25_0941.png)
+   ![Screenshot of a text editor with the file '~/.togglrc' opened and the sections 'auth' and 'options' visible](https://content.screencast.com/users/clausc/folders/Jing/media/2b488de4-9d4d-40da-8c1c-59fabeb598ea/2015-01-25_0941.png)
 
 8. Save and close the configuration file.
   

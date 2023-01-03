@@ -11,19 +11,19 @@ title: AppFog command line tool support for Jetbrains IDEs
 The next version of IntelliJ IDEA (v12) will have integrated support for CloudFoundry and I guess that means AppFog too, however the current version 11 has no such feature. Fortunately all Jetbrains IDEs have support for command line tools, so I don't have to switch to a terminal or command prompt to run "af" commands - this works out of the box. Since I can't remember all command line options and their syntax, I made a configuration file to enable auto-complete of "af" commands in the Jetbrains IDE command line. If you want to use this, here's how to install it:
 
 1.  I assume you already have AppFog's command line tool installed; if not, follow these simple instructions:  
-    [https://docs.appfog.com/getting-started/af-cli#installation](https://docs.appfog.com/getting-started/af-cli#installation "https://docs.appfog.com/getting-started/af-cli#installation")  
+    [https://docs.appfog.com/getting-started/af-cli#installation](https://docs.appfog.com/getting-started/af-cli#installation)
 
 2.  Make sure the "Command Line Tool Support" plugin is enabled in your IDE:  
-    ![](https://content.screencast.com/users/clausc/folders/Default/media/17f255e5-abd8-4584-bef8-beb3e8d33b42/11.26.2012-10.38.png)
+    ![Screenshot of 'Plugins' with checked 'Command Line Tool Support'](https://content.screencast.com/users/clausc/folders/Default/media/17f255e5-abd8-4584-bef8-beb3e8d33b42/11.26.2012-10.38.png)
 
 3.  Go to "Command Line Tools Support" in the "Project Settings" area of your IDE settings; click the + icon to add a new framework and choose "Custom Framework" from the dropdown that appears. Enter a name for the framework (e. g. "AppFog") and _af_ for both of the "Tool path" and "Alias" fields. (If _af_ is not in your path, you could also enter the full path into the "Tool path" field.) Finally, click "OK" in the dialog and "Apply" at the bottom of the Settings dialog:  
-    ![](https://content.screencast.com/users/clausc/folders/Default/media/12aa0b94-dd3b-429f-8593-c690a435220d/11.26.2012-10.44.png)
+    ![Screenshot of 'Framework Settings' with name 'AppFog CLI', tool path 'af' and alias 'af'](https://content.screencast.com/users/clausc/folders/Default/media/12aa0b94-dd3b-429f-8593-c690a435220d/11.26.2012-10.44.png)
 
 4.  With the "af" line selected, click the "Edit" icon at the right of the Settings dialog, then **close** the Settings dialog:  
-    ![](https://content.screencast.com/users/clausc/folders/Default/media/253865c0-0b99-4bcf-a987-7ab29678f7f4/11.26.2012-10.50.png)
+    ![Screenshot of the 'Settings' dialog with highlighted 'pencil' (edit) icon and highlighted 'Close' button](https://content.screencast.com/users/clausc/folders/Default/media/253865c0-0b99-4bcf-a987-7ab29678f7f4/11.26.2012-10.50.png)
 
 5.  The IDE has opened an editor window with an XML file describing the new "custom framework". Replace all contents of this file with the following XML, then save and close the file:  
-    
+
     ```xml
     <?xml version="1.0" encoding="UTF-8"?>
     <framework xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schemas/frameworkDescriptionVersion1.1.xsd" name="AppFog" invoke="af" alias="af" enabled="true" version="1">
@@ -284,7 +284,7 @@ The next version of IntelliJ IDEA (v12) will have integrated support for CloudFo
     ```
 
 6.  Click "Tools" > "Run Command..." to open the command line pane:  
-    ![](https://content.screencast.com/users/clausc/folders/Default/media/dbc679a7-29fc-4d2a-b4d2-1bcad9a8bce7/11.26.2012-10.59.png)
+    ![Screenshot of expanded 'Tools' menu with menu item 'Run Command...' highlighted](https://content.screencast.com/users/clausc/folders/Default/media/dbc679a7-29fc-4d2a-b4d2-1bcad9a8bce7/11.26.2012-10.59.png)
 
 7.  Type _af_ and press Space to get a list of AppFog commands. The list narrows down as you continue typing, or you can choose the desired command from the list using the mouse or arrow and Enter keys:  
-    ![](https://content.screencast.com/users/clausc/folders/Default/media/692f650b-725d-4565-b250-640af57401b9/11.26.2012-11.02.png)
+    ![Screenshot of 'Run Command...' box with 'af' entered and autocomplete items appearing](https://content.screencast.com/users/clausc/folders/Default/media/692f650b-725d-4565-b250-640af57401b9/11.26.2012-11.02.png)
