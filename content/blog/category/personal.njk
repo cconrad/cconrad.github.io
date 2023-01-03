@@ -2,10 +2,7 @@
 eleventyExcludeFromCollections: true
 layout: base.njk
 title: Personal
-permalink: blog/category/personal/
-meta:
-  robots:
-    value: noindex
+permalink: /blog/category/personal/
 ---
 <div class="postlist pb-8 mt-8 font-light dark:font-extralight pt-4">
     {% for post in collections.personal | reverse %}

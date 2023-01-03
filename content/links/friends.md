@@ -3,9 +3,6 @@ eleventyExcludeFromCollections: true
 layout: base.njk
 permalink: /links/friends/
 title: 'Recommended links: Family & Friends'
-meta:
-  robots:
-    value: noindex
 ---
 <div class="content page pt-4">
 
