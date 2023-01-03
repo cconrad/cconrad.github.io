@@ -83,4 +83,4 @@ Hour of the day (CEST) | Game
 
 ## Most popular posting hours (CEST)
 
-<iframe src="https://docs.google.com/spreadsheets/d/1a7xgyZxSk5uEOudb11BUTTgHRWhLzJ3rBpguemPV_b4/pubchart?oid=1310905466&amp;format=interactive" width="500" height="400"></iframe>
+![Graph showing total posts per hour of the day](/assets/img/s9Tr8zKTcp.png)
