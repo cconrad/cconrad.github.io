@@ -8,7 +8,7 @@ tags:
   - system-administration
 title: Installing software on PC-BSD 9.2 - for dummies
 ---
-I have used most types of operating systems throughout the years. For those interested in a little history, [see here](/blog/my-hardware-and-os-history). For those just interested in the package installation process on PC-BSD, please skip the next paragraphs until after the horizontal line.
+I have used most types of operating systems throughout the years. For those interested in a little history, see [my hardware and OS history](/blog/my-hardware-and-os-history/). For those just interested in the package installation process on PC-BSD, please skip the next paragraphs until after the horizontal line.
 
 At the moment, I am evaluating PC-BSD 9.2 in a virtual machine. Why am I going to this extent, you might ask? Some time ago, I researched web server performance and made the switch from Apache (2.2 or 2.4) to nginx for most of the websites I run or develop, which has resulted in a significantly positive impact on web site perfornance, as well as easier administration. As described in the article mentioned above, my main operating system is Windows 8. Unfortunately nginx does not run easily on that operating system (I realize that it can be done, but it requires some serious tinkering to make it behave the way other Windows services work).
 

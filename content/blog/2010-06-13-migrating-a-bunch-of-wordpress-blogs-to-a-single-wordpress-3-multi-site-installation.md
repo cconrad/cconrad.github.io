@@ -34,7 +34,7 @@ title: Migrating a bunch of WordPress blogs to a single WordPress 3.0 multi-site
 
 ## Especially in case of Thesis 1.7:
 
-For Thesis, also see [/blog/thesis-customizations-i-like](/blog/thesis-customizations-i-like) to fix thumbs and post images.
+For Thesis, also see [how to fix thumbs and post images](/blog/thesis-customizations-i-like/).
 
 [https://kristarella.blog/2009/09/using-thesis-with-wpmu/](https://kristarella.blog/2009/09/using-thesis-with-wpmu/)
 

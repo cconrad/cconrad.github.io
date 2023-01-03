@@ -1,6 +1,5 @@
 ---
 date: 2017-07-15T14:16:35.000Z
-excerpt: 'The <a href="/blog/scrapy-example-posts-from-ongoingworlds">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:'
 published: true
 tags:
   - ongoingworlds
@@ -8,6 +7,8 @@ tags:
   - personal
 title: Analyzing OngoingWorlds posts
 ---
+The <a href="/blog/scrapy-example-posts-from-ongoingworlds/">previous post</a> used Scrapy to extract post data from the website OngoingWorlds. Here are a few conclusions from that spider crawl:
+
 I collected the game ID, post ID and date/time for each post from the play-by-email roleplaying community OngoingWorlds into an Sqlite3 database. Even with this very limited dataset, some interesting queries can be run:
 
 ## Most popular games (by number of posts)
