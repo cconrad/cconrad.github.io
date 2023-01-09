@@ -19,7 +19,7 @@ The next version of IntelliJ IDEA (v12) will have integrated support for CloudFo
     ![Screenshot of 'Framework Settings' with name 'AppFog CLI', tool path 'af' and alias 'af'](/assets/img/12aa0b94-dd3b-429f-8593-c690a435220d/11.26.2012-10.44.png)
 
 4.  With the "af" line selected, click the "Edit" icon at the right of the Settings dialog, then **close** the Settings dialog:  
-    ![Screenshot of the 'Settings' dialog with highlighted 'pencil' (edit) icon and highlighted 'Close' button](/assets/img/253865c0-0b99-4bcf-a987-7ab29678f7f4/11.26.2012-10.50.png)
+    ![Screenshot of the 'Settings' dialog with highlighted 'pencil' (edit) icon and highlighted 'Close' button](/assets/img/11.26.2012-10.50.png)
 
 5.  The IDE has opened an editor window with an XML file describing the new "custom framework". Replace all contents of this file with the following XML, then save and close the file:  
 
