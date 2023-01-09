@@ -16,7 +16,7 @@ The next version of IntelliJ IDEA (v12) will have integrated support for CloudFo
     ![Screenshot of 'Plugins' with checked 'Command Line Tool Support'](/assets/img/11.26.2012-10.38.png)
 
 3.  Go to "Command Line Tools Support" in the "Project Settings" area of your IDE settings; click the + icon to add a new framework and choose "Custom Framework" from the dropdown that appears. Enter a name for the framework (e. g. "AppFog") and _af_ for both of the "Tool path" and "Alias" fields. (If _af_ is not in your path, you could also enter the full path into the "Tool path" field.) Finally, click "OK" in the dialog and "Apply" at the bottom of the Settings dialog:  
-    ![Screenshot of 'Framework Settings' with name 'AppFog CLI', tool path 'af' and alias 'af'](/assets/img/12aa0b94-dd3b-429f-8593-c690a435220d/11.26.2012-10.44.png)
+    ![Screenshot of 'Framework Settings' with name 'AppFog CLI', tool path 'af' and alias 'af'](/assets/img/11.26.2012-10.44.png)
 
 4.  With the "af" line selected, click the "Edit" icon at the right of the Settings dialog, then **close** the Settings dialog:  
     ![Screenshot of the 'Settings' dialog with highlighted 'pencil' (edit) icon and highlighted 'Close' button](/assets/img/11.26.2012-10.50.png)
