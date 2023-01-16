@@ -24,7 +24,7 @@
     "prettier:verify": "prettier --list-different \"**/*.{css,html,js,json,md,yaml,yml}\""
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.27",
+    "@11ty/eleventy": "^2.0.0-canary.30",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@rollup/plugin-replace": "^2.4.2",
     "autoprefixer": "^10.2.6",
