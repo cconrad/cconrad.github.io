@@ -11,5 +11,7 @@
   x-robots-tag: noindex
 /links/*
   x-robots-tag: noindex
+/notes/
+  x-robots-tag: noindex
 /page*
   x-robots-tag: noindex
