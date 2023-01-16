@@ -132,6 +132,19 @@ module.exports = function (eleventyConfig) {
         return collectionApi.getAllSorted().reverse().slice(0, 5);
     });
 
+    // Create custom collection for getting the newest 5 updates
+    eleventyConfig.addCollection("notesByTitleAsc", function (collectionApi) {
+        return collectionApi.getFilteredByTag("notes").sort(function (a, b) {
+            if (a.data.title.toLowerCase() < b.data.title.toLowerCase()) {
+                return -1;
+              }
+              if (a.data.title.toLowerCase() > b.data.title.toLowerCase()) {
+                return 1;
+              }
+              return 0;
+        });
+    });
+
     // Plugin for setting _blank and rel=noopener on external links in markdown content
     eleventyConfig.addPlugin(require("./_11ty/external-links.js"));
 
