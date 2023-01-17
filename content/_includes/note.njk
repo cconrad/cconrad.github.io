@@ -1,6 +1,14 @@
 ---
 layout: base.njk
 ---
-<div class="content post border-solid border-b-1 border-gray-700 pb-6">
+<div class="content post pb-6">
   	<h1>{{ title }}</h1>
+	{% if excerpt %}
+	<p>{{ excerpt | safe }}</p>
+	{% endif %}
+	{% if link %}
+	<h2 id="link">Link</h2><p><a href="{{link}}">{{link}}</a></p>
+	{% endif %}
+  	{{ content | safe }}
+  	{% include "social.njk" %}
 </div>
