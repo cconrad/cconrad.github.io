@@ -1,4 +1,4 @@
-if [ "$NETLIFY" == "true" ];
+if [ "$NETLIFY" == "true" ] || [ "$GITHUB_ACTIONS" == "true" ];
 then
     mkdir -p _site
     cp .netlify/* _site/
