@@ -1,0 +1,17 @@
+name: Trigger build of www.clausconrad.com
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          repository: cconrad/www.clausconrad.com
+          token: ${{ secrets.GH_PAT_RW_WWW_CLAUSCONRAD_COM }}
+          event-type: build-blog
