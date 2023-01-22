@@ -132,7 +132,7 @@ module.exports = function (eleventyConfig) {
         return collectionApi.getAllSorted().reverse().slice(0, 5);
     });
 
-    // Create custom collection for getting the newest 5 updates
+    // Create custom collection for getting notes ordered alphabetically by their title
     eleventyConfig.addCollection("notesByTitleAsc", function (collectionApi) {
         return collectionApi.getFilteredByTag("notes").sort(function (a, b) {
             if (a.data.title.toLowerCase() < b.data.title.toLowerCase()) {
