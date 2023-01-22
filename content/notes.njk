@@ -1,0 +1,28 @@
+---
+eleventyExcludeFromCollections: true
+layout: base.njk
+title: Notes
+meta:
+  description:
+    value: Claus' digital garden - Notes from my Personal Knowledge Management (PKM) system
+permalink: /notes/
+---
+<div class="content page pt-4">
+    <p>Welcome to my digital garden or "second brain", a collection of notes maintained using the Personal Knowledge Management system <a href="/notes/r.tech.software.dendron/">Dendron</a>.</p>
+
+    <p>Most of these pages are links or snippets I have copy-pasted or written for my own use, but maybe something here is useful for others too.</p>
+</div>
+
+<div class="postlist font-light dark:font-extralight">
+    {% for post in collections.notesByTitleAsc %}
+        {% if loop.first %}
+        <ul>
+        {% endif %}
+            <li class="bg-gradient-to-r from-white via-gray-100 to-white dark:via-dark-middle dark:from-dark-outer dark:to-dark-outer mb-4 py-2 truncate">
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+            </li>
+        {% if loop.last %}
+        </ul>
+        {% endif %}
+    {% endfor %}
+</div>
