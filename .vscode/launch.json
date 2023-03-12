@@ -1,0 +1,14 @@
+{
+    "configurations": [
+    {
+        "name": "11ty",
+        "type": "node",
+        "request": "launch",
+        "program": "${workspaceRoot}/node_modules/@11ty/eleventy/cmd.js",
+        "stopOnEntry": false,
+        "args": [],
+        "cwd": "${workspaceRoot}",
+        "console": "internalConsole"
+    }
+    ]
+}
