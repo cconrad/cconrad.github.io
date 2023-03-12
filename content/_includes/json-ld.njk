@@ -10,6 +10,6 @@
         },
         "mainEntityOfPage": "{{ page.url | absoluteUrl }}",
         "datePublished": "{{ page.date | isodate }}",
-        "description": "{{ content | striptags | truncate(140) }}"
+        "description": "{{ content | striptags | truncate(140) | fixBackslashInLdJson }}"
     }
 </script>
