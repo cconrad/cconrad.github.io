@@ -305,6 +305,22 @@ https://cconrad.netlify.app/* https://www.clausconrad.com/:splat 301!
 /index / 301!
 /index.html / 301!
 /links/friends.html /links/friends/ 301
+/notes/r.tech.software.cyberduck/index.html /notes/cyberduck/ 301
+/notes/r.tech.software.double-commander/index.html /notes/double-commander/ 301
+/notes/r.tech.software.expandrive/index.html /notes/expandrive/ 301
+/notes/r.tech.software.foxit-phantompdf/index.html /notes/foxit-phantompdf/ 301
+/notes/r.tech.software.neovim/index.html /notes/neovim/ 301
+/notes/r.tech.software.operating-systems.truenas-scale/index.html /notes/truenas-scale/ 301
+/notes/r.tech.software.powershell/index.html /notes/microsoft-powershell/ 301
+/notes/r.tech.software.systemd/index.html /notes/systemd/ 301
+/notes/r.tech.software.tmux/index.html /notes/tmux/ 301
+/notes/r.tech.software.total-commander/index.html /notes/total-commander/ 301
+/notes/r.tech.software.unix-shells.bash/index.html /notes/bash/ 301
+/notes/r.tech.software.unix-shells.zsh/index.html /notes/zsh/ 301
+/notes/r.tech.software.vi/index.html /notes/vim/ 301
+/notes/r.tech.software.window-managers.i3/index.html /notes/i3/ 301
+/notes/r.tech.software.zoho-mail/index.html /notes/zoho-mail/ 301
+/notes/tags.loc.hvidovre/index.html /notes/hvidovre/ 301
 # TODO Automate /pageNNN/index.html (divide number of blog posts by 5 and round down to get the maximum page number that needs a redirect generated)
 /page10/index.html /page10/ 301!
 /page11/index.html /page11/ 301!
