@@ -6,8 +6,8 @@ layout: base.njk
 	{% if excerpt %}
 	<p>{{ excerpt | safe }}</p>
 	{% endif %}
-	{% if link %}
-	<h2 id="link">Link</h2><p><a href="{{link}}">{{link}}</a></p>
+	{% if link or website %}
+	<h2 id="link">Link</h2><p><a href="{{ website if website else link }}">{{ website if website else link }}</a></p>
 	{% endif %}
   	{{ content | safe }}
   	{% include "social.njk" %}
