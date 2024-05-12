@@ -130,10 +130,13 @@ module.exports = function (eleventyConfig) {
   // Create custom collection for getting notes ordered alphabetically by their title
   eleventyConfig.addCollection("notesByTitleAsc", function (collectionApi) {
     return collectionApi.getFilteredByTag("notes").sort(function (a, b) {
-      if (a.data.title.toLowerCase() < b.data.title.toLowerCase()) {
+      let aProperty = a.data.title ? a.data.title : a.template.parsed.name,
+      bProperty = b.data.title ? b.data.title : b.template.parsed.name;
+
+      if (aProperty.toLowerCase() < bProperty.toLowerCase()) {
         return -1;
       }
-      if (a.data.title.toLowerCase() > b.data.title.toLowerCase()) {
+      if (aProperty.toLowerCase() > bProperty.toLowerCase()) {
         return 1;
       }
       return 0;

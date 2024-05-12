@@ -19,7 +19,7 @@ permalink: /notes/
         <ul>
         {% endif %}
             <li class="bg-gradient-to-r from-white via-gray-100 to-white dark:via-dark-middle dark:from-dark-outer dark:to-dark-outer mb-4 py-2 truncate">
-                <a href="{{ post.url }}">{{ post.data.title }}</a>
+                <a href="{{ post.url }}">{{ post.data.title if post.data.title else post.template.parsed.name }}</a>
             </li>
         {% if loop.last %}
         </ul>
