@@ -22,5 +22,7 @@ module.exports = {
   // GitHub ID (optional, remove it not needed), used for link in the left sidebar
   socialGitHub: "cconrad",
   // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-  socialLinkedIn: "clausconrad"
+  socialLinkedIn: "clausconrad",
+
+  socialMastodon: "https://mstdn.social/@clausc",
 };
