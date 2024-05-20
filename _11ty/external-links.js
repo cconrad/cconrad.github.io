@@ -6,7 +6,9 @@ const siteconfig = require("../content/_data/siteconfig");
 const processHrefs = async (el) => {
     if (
         el.href.startsWith("http") &&
-        !el.href.startsWith(siteconfig.url)
+        !el.href.startsWith(siteconfig.url) &&
+        el.rel &&
+        el.rel != "me"
     ) {
         el.rel = "noopener";
     }
