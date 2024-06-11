@@ -305,6 +305,8 @@ https://cconrad.netlify.app/* https://www.clausconrad.com/:splat 301!
 /index / 301!
 /index.html / 301!
 /links/friends.html /links/friends/ 301
+/notes/r.apartment.gardinbusser/index.html /notes/gardinbusser/ 301
+/notes/r.apartment.handymen-denmark/index.html /notes/handymen-denmark/ 301
 /notes/r.tech.software.cyberduck/index.html /notes/cyberduck/ 301
 /notes/r.tech.software.double-commander/index.html /notes/double-commander/ 301
 /notes/r.tech.software.expandrive/index.html /notes/expandrive/ 301
